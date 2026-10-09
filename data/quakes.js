@@ -1,8 +1,8 @@
 window.QUAKES_DATA = {
  "meta": {
-  "fetched_at_utc": "2026-10-09T01:03:17+00:00",
-  "range_start_utc": "2026-09-09T01:03:17+00:00",
-  "range_end_utc": "2026-10-09T01:03:17+00:00",
+  "fetched_at_utc": "2026-10-09T01:14:01+00:00",
+  "range_start_utc": "2026-09-09T01:14:01+00:00",
+  "range_end_utc": "2026-10-09T01:14:01+00:00",
   "min_magnitude": 4.0,
   "source_is_local_test_file": false
  },
@@ -38,7 +38,7 @@ window.QUAKES_DATA = {
    "time": 1791484323544,
    "mag": 4.6,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 30.7337,
    "lon": 140.6005,
    "depth": 95.608
@@ -96,6 +96,15 @@ window.QUAKES_DATA = {
    "lat": 5.6006,
    "lon": 125.1521,
    "depth": 52.054
+  },
+  {
+   "time": 1791445750841,
+   "mag": 4.0,
+   "place": "247 km ESE of Attu Station, Alaska",
+   "area": "Alaska",
+   "lat": 51.736,
+   "lon": 176.323,
+   "depth": 17.3
   },
   {
    "time": 1791445512588,
@@ -218,7 +227,7 @@ window.QUAKES_DATA = {
    "time": 1791395943884,
    "mag": 4.3,
    "place": "Volcano Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 24.8701,
    "lon": 141.2127,
    "depth": 248.7
@@ -263,7 +272,7 @@ window.QUAKES_DATA = {
    "time": 1791385165858,
    "mag": 5.2,
    "place": "Chagos Archipelago region",
-   "area": "Chagos Archipelago region",
+   "area": "Chagos Archipelago",
    "lat": -6.6637,
    "lon": 72.2362,
    "depth": 10
@@ -299,7 +308,7 @@ window.QUAKES_DATA = {
    "time": 1791347966324,
    "mag": 4.9,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -55.6737,
    "lon": -30.0294,
    "depth": 10
@@ -506,7 +515,7 @@ window.QUAKES_DATA = {
    "time": 1791299529822,
    "mag": 4.7,
    "place": "Chagos Archipelago region",
-   "area": "Chagos Archipelago region",
+   "area": "Chagos Archipelago",
    "lat": -6.6864,
    "lon": 72.295,
    "depth": 10
@@ -515,7 +524,7 @@ window.QUAKES_DATA = {
    "time": 1791293182092,
    "mag": 4.5,
    "place": "Kermadec Islands region",
-   "area": "Kermadec Islands region",
+   "area": "Kermadec Islands",
    "lat": -30.8569,
    "lon": 178.7672,
    "depth": 537.886
@@ -578,7 +587,7 @@ window.QUAKES_DATA = {
    "time": 1791260916912,
    "mag": 4.6,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 29.02,
    "lon": 142.845,
    "depth": 10
@@ -758,7 +767,7 @@ window.QUAKES_DATA = {
    "time": 1791184418006,
    "mag": 4.9,
    "place": "Volcano Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 22.8488,
    "lon": 144.0442,
    "depth": 35
@@ -965,7 +974,7 @@ window.QUAKES_DATA = {
    "time": 1791112368352,
    "mag": 5.1,
    "place": "Volcano Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 22.8191,
    "lon": 144.6508,
    "depth": 10
@@ -1028,7 +1037,7 @@ window.QUAKES_DATA = {
    "time": 1791078472030,
    "mag": 4.9,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -58.1594,
    "lon": -23.3522,
    "depth": 10
@@ -1091,7 +1100,7 @@ window.QUAKES_DATA = {
    "time": 1791066443407,
    "mag": 4.3,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 29.053,
    "lon": 142.8123,
    "depth": 10
@@ -1172,7 +1181,7 @@ window.QUAKES_DATA = {
    "time": 1791035471299,
    "mag": 4.5,
    "place": "Kermadec Islands region",
-   "area": "Kermadec Islands region",
+   "area": "Kermadec Islands",
    "lat": -27.4948,
    "lon": -179.4827,
    "depth": 453.487
@@ -1379,7 +1388,7 @@ window.QUAKES_DATA = {
    "time": 1790970200395,
    "mag": 4.4,
    "place": "Kermadec Islands region",
-   "area": "Kermadec Islands region",
+   "area": "Kermadec Islands",
    "lat": -30.5008,
    "lon": -179.9819,
    "depth": 430.69
@@ -1766,7 +1775,7 @@ window.QUAKES_DATA = {
    "time": 1790822440210,
    "mag": 4.4,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -20.9019,
    "lon": -179.2476,
    "depth": 637.906
@@ -1937,7 +1946,7 @@ window.QUAKES_DATA = {
    "time": 1790752036005,
    "mag": 5.2,
    "place": "Balleny Islands region",
-   "area": "Balleny Islands region",
+   "area": "Balleny Islands",
    "lat": -63.5619,
    "lon": 171.414,
    "depth": 10
@@ -1973,7 +1982,7 @@ window.QUAKES_DATA = {
    "time": 1790743686031,
    "mag": 5.4,
    "place": "Balleny Islands region",
-   "area": "Balleny Islands region",
+   "area": "Balleny Islands",
    "lat": -63.0088,
    "lon": 169.2156,
    "depth": 10
@@ -2135,7 +2144,7 @@ window.QUAKES_DATA = {
    "time": 1790695038167,
    "mag": 4.8,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -58.7473,
    "lon": -25.9552,
    "depth": 114.229
@@ -2234,7 +2243,7 @@ window.QUAKES_DATA = {
    "time": 1790663929006,
    "mag": 4.8,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -55.2555,
    "lon": -28.4628,
    "depth": 35
@@ -2252,7 +2261,7 @@ window.QUAKES_DATA = {
    "time": 1790655387199,
    "mag": 4.8,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -55.3157,
    "lon": -28.2098,
    "depth": 35.08
@@ -2378,7 +2387,7 @@ window.QUAKES_DATA = {
    "time": 1790604039304,
    "mag": 4.3,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 31.7322,
    "lon": 138.9275,
    "depth": 273.951
@@ -2405,7 +2414,7 @@ window.QUAKES_DATA = {
    "time": 1790597664032,
    "mag": 4.7,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -20.6932,
    "lon": -178.4971,
    "depth": 573.114
@@ -2504,7 +2513,7 @@ window.QUAKES_DATA = {
    "time": 1790570493467,
    "mag": 4.9,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -57.6502,
    "lon": -25.347,
    "depth": 35
@@ -2522,7 +2531,7 @@ window.QUAKES_DATA = {
    "time": 1790567024172,
    "mag": 5.1,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -57.6701,
    "lon": -25.2785,
    "depth": 35
@@ -2657,7 +2666,7 @@ window.QUAKES_DATA = {
    "time": 1790543615077,
    "mag": 5.0,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -59.1168,
    "lon": -25.9907,
    "depth": 117.745
@@ -2684,7 +2693,7 @@ window.QUAKES_DATA = {
    "time": 1790537611936,
    "mag": 4.1,
    "place": "Kermadec Islands region",
-   "area": "Kermadec Islands region",
+   "area": "Kermadec Islands",
    "lat": -31.4255,
    "lon": -179.8502,
    "depth": 348.65
@@ -2693,7 +2702,7 @@ window.QUAKES_DATA = {
    "time": 1790536930805,
    "mag": 4.0,
    "place": "Iceland region",
-   "area": "Iceland region",
+   "area": "Iceland",
    "lat": 68.8489,
    "lon": -17.176,
    "depth": 10
@@ -2747,7 +2756,7 @@ window.QUAKES_DATA = {
    "time": 1790523664974,
    "mag": 5.3,
    "place": "Balleny Islands region",
-   "area": "Balleny Islands region",
+   "area": "Balleny Islands",
    "lat": -62.5354,
    "lon": 165.9549,
    "depth": 10
@@ -2756,7 +2765,7 @@ window.QUAKES_DATA = {
    "time": 1790506627641,
    "mag": 4.3,
    "place": "Iceland region",
-   "area": "Iceland region",
+   "area": "Iceland",
    "lat": 68.9242,
    "lon": -17.2234,
    "depth": 10
@@ -3197,7 +3206,7 @@ window.QUAKES_DATA = {
    "time": 1790391175988,
    "mag": 4.5,
    "place": "Iceland region",
-   "area": "Iceland region",
+   "area": "Iceland",
    "lat": 68.8565,
    "lon": -16.9554,
    "depth": 10
@@ -3404,7 +3413,7 @@ window.QUAKES_DATA = {
    "time": 1790334735838,
    "mag": 5.3,
    "place": "Vanuatu region",
-   "area": "Vanuatu region",
+   "area": "Vanuatu",
    "lat": -21.8904,
    "lon": 174.0792,
    "depth": 23.966
@@ -3809,7 +3818,7 @@ window.QUAKES_DATA = {
    "time": 1790168511754,
    "mag": 5.0,
    "place": "Mariana Islands region",
-   "area": "Mariana Islands region",
+   "area": "Mariana Islands",
    "lat": 21.6538,
    "lon": 143.0012,
    "depth": 306.98
@@ -3827,7 +3836,7 @@ window.QUAKES_DATA = {
    "time": 1790159585103,
    "mag": 4.4,
    "place": "Socotra region",
-   "area": "Socotra region",
+   "area": "Socotra",
    "lat": 13.8587,
    "lon": 56.8032,
    "depth": 10
@@ -3899,7 +3908,7 @@ window.QUAKES_DATA = {
    "time": 1790135526685,
    "mag": 4.6,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -57.7093,
    "lon": -25.5725,
    "depth": 29.227
@@ -3962,7 +3971,7 @@ window.QUAKES_DATA = {
    "time": 1790119804890,
    "mag": 4.5,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -57.6506,
    "lon": -25.7932,
    "depth": 74.851
@@ -4142,7 +4151,7 @@ window.QUAKES_DATA = {
    "time": 1790057470037,
    "mag": 4.9,
    "place": "Volcano Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 23.003,
    "lon": 142.3395,
    "depth": 10
@@ -4160,7 +4169,7 @@ window.QUAKES_DATA = {
    "time": 1790054304687,
    "mag": 5.0,
    "place": "Volcano Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 23.1331,
    "lon": 142.4369,
    "depth": 10
@@ -4241,7 +4250,7 @@ window.QUAKES_DATA = {
    "time": 1790026624841,
    "mag": 5.0,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -56.5177,
    "lon": -24.1611,
    "depth": 10
@@ -4250,7 +4259,7 @@ window.QUAKES_DATA = {
    "time": 1790023995330,
    "mag": 4.4,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -19.1674,
    "lon": -177.5914,
    "depth": 583.701
@@ -4259,7 +4268,7 @@ window.QUAKES_DATA = {
    "time": 1790022872515,
    "mag": 4.6,
    "place": "Kermadec Islands region",
-   "area": "Kermadec Islands region",
+   "area": "Kermadec Islands",
    "lat": -28.701,
    "lon": -176.4408,
    "depth": 10
@@ -4295,7 +4304,7 @@ window.QUAKES_DATA = {
    "time": 1790011366683,
    "mag": 4.2,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -18.8082,
    "lon": -177.4321,
    "depth": 411.504
@@ -4313,7 +4322,7 @@ window.QUAKES_DATA = {
    "time": 1790006180800,
    "mag": 4.5,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 31.8597,
    "lon": 142.3866,
    "depth": 10
@@ -4655,7 +4664,7 @@ window.QUAKES_DATA = {
    "time": 1789904605187,
    "mag": 4.4,
    "place": "Volcano Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 25.0379,
    "lon": 141.1682,
    "depth": 162.51
@@ -4736,7 +4745,7 @@ window.QUAKES_DATA = {
    "time": 1789885807316,
    "mag": 4.3,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -19.2217,
    "lon": -177.6569,
    "depth": 578.701
@@ -4772,7 +4781,7 @@ window.QUAKES_DATA = {
    "time": 1789872609824,
    "mag": 4.2,
    "place": "Vanuatu region",
-   "area": "Vanuatu region",
+   "area": "Vanuatu",
    "lat": -14.5749,
    "lon": 170.4038,
    "depth": 665.057
@@ -4970,7 +4979,7 @@ window.QUAKES_DATA = {
    "time": 1789811997562,
    "mag": 5.0,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -55.5609,
    "lon": -28.1387,
    "depth": 58.01
@@ -5078,7 +5087,7 @@ window.QUAKES_DATA = {
    "time": 1789773508404,
    "mag": 5.3,
    "place": "Kermadec Islands region",
-   "area": "Kermadec Islands region",
+   "area": "Kermadec Islands",
    "lat": -27.8162,
    "lon": -177.3008,
    "depth": 94.069
@@ -5240,7 +5249,7 @@ window.QUAKES_DATA = {
    "time": 1789720745687,
    "mag": 4.6,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 32.3403,
    "lon": 141.3279,
    "depth": 38.88
@@ -5258,7 +5267,7 @@ window.QUAKES_DATA = {
    "time": 1789716071062,
    "mag": 4.5,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 32.371,
    "lon": 141.2894,
    "depth": 43.854
@@ -5267,7 +5276,7 @@ window.QUAKES_DATA = {
    "time": 1789715969154,
    "mag": 5.0,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 32.3036,
    "lon": 141.402,
    "depth": 38.867
@@ -5276,7 +5285,7 @@ window.QUAKES_DATA = {
    "time": 1789713749274,
    "mag": 4.7,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -21.9479,
    "lon": -179.3724,
    "depth": 548.378
@@ -5321,7 +5330,7 @@ window.QUAKES_DATA = {
    "time": 1789697548063,
    "mag": 4.5,
    "place": "Izu Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 32.3391,
    "lon": 141.3639,
    "depth": 32.628
@@ -5447,7 +5456,7 @@ window.QUAKES_DATA = {
    "time": 1789654753030,
    "mag": 4.3,
    "place": "Macquarie Island region",
-   "area": "Macquarie Island region",
+   "area": "Macquarie Island",
    "lat": -57.7827,
    "lon": 157.5175,
    "depth": 10
@@ -5582,7 +5591,7 @@ window.QUAKES_DATA = {
    "time": 1789605793231,
    "mag": 4.5,
    "place": "Kermadec Islands region",
-   "area": "Kermadec Islands region",
+   "area": "Kermadec Islands",
    "lat": -31.6743,
    "lon": -178.8397,
    "depth": 10
@@ -5600,7 +5609,7 @@ window.QUAKES_DATA = {
    "time": 1789594173994,
    "mag": 4.5,
    "place": "Balleny Islands region",
-   "area": "Balleny Islands region",
+   "area": "Balleny Islands",
    "lat": -62.7008,
    "lon": 166.362,
    "depth": 10
@@ -5681,7 +5690,7 @@ window.QUAKES_DATA = {
    "time": 1789573682572,
    "mag": 4.1,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -21.4848,
    "lon": -178.9634,
    "depth": 565.73
@@ -5915,7 +5924,7 @@ window.QUAKES_DATA = {
    "time": 1789505429739,
    "mag": 4.3,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -19.2426,
    "lon": -177.7345,
    "depth": 582.523
@@ -6176,7 +6185,7 @@ window.QUAKES_DATA = {
    "time": 1789444120350,
    "mag": 4.5,
    "place": "Owen Fracture Zone region",
-   "area": "Owen Fracture Zone region",
+   "area": "Owen Fracture Zone",
    "lat": 14.5154,
    "lon": 56.1208,
    "depth": 10
@@ -6194,7 +6203,7 @@ window.QUAKES_DATA = {
    "time": 1789434679414,
    "mag": 4.5,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -57.7558,
    "lon": -23.2342,
    "depth": 10
@@ -6806,7 +6815,7 @@ window.QUAKES_DATA = {
    "time": 1789293434828,
    "mag": 4.5,
    "place": "Kermadec Islands region",
-   "area": "Kermadec Islands region",
+   "area": "Kermadec Islands",
    "lat": -31.6957,
    "lon": -176.7275,
    "depth": 10
@@ -6878,7 +6887,7 @@ window.QUAKES_DATA = {
    "time": 1789271431912,
    "mag": 4.8,
    "place": "Bonin Islands, Japan region",
-   "area": "Japan region",
+   "area": "Japan",
    "lat": 26.257,
    "lon": 142.3174,
    "depth": 10
@@ -7040,7 +7049,7 @@ window.QUAKES_DATA = {
    "time": 1789219436862,
    "mag": 4.0,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -21.8513,
    "lon": -179.1424,
    "depth": 580.657
@@ -7094,7 +7103,7 @@ window.QUAKES_DATA = {
    "time": 1789211146433,
    "mag": 4.9,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -56.2951,
    "lon": -26.9013,
    "depth": 102.352
@@ -7202,7 +7211,7 @@ window.QUAKES_DATA = {
    "time": 1789174508581,
    "mag": 5.1,
    "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
    "lat": -59.1133,
    "lon": -24.9256,
    "depth": 10
@@ -7778,7 +7787,7 @@ window.QUAKES_DATA = {
    "time": 1789015314917,
    "mag": 4.1,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -19.252,
    "lon": -177.5816,
    "depth": 573.156
@@ -7895,7 +7904,7 @@ window.QUAKES_DATA = {
    "time": 1788977942792,
    "mag": 4.6,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -20.6761,
    "lon": -178.1379,
    "depth": 502.116
@@ -8021,7 +8030,7 @@ window.QUAKES_DATA = {
    "time": 1788942797696,
    "mag": 4.4,
    "place": "Fiji region",
-   "area": "Fiji region",
+   "area": "Fiji",
    "lat": -18.3639,
    "lon": -177.6354,
    "depth": 515.428
@@ -8088,15 +8097,6 @@ window.QUAKES_DATA = {
    "lat": -9.0824,
    "lon": -108.2788,
    "depth": 10
-  },
-  {
-   "time": 1788915868107,
-   "mag": 4.1,
-   "place": "72 km SE of Tambolaka, Indonesia",
-   "area": "Indonesia",
-   "lat": -9.9366,
-   "lon": 119.6516,
-   "depth": 41.48
   }
  ]
 };
