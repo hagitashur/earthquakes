@@ -64,7 +64,7 @@
     <h2>כל הרעידות (מהחדשה לישנה)</h2>
     <div class="table-wrap">
       <table>
-        <thead><tr><th>תאריך ושעה (שעון ישראל)</th><th>עוצמה</th><th>מדינה</th><th>מיקום</th></tr></thead>
+        <thead><tr><th>תאריך ושעה (שעון ישראל)</th><th>עוצמה</th><th>אזור (כפי שמופיע ב-USGS)</th><th>מיקום</th></tr></thead>
         <tbody id="rows"></tbody>
       </table>
     </div>
@@ -85,9 +85,6 @@
   if (!d) { fail("לא נמצאו נתונים. יש להפעיל את תהליך שליפת הנתונים (Actions → fetch-quakes) ולרענן."); document.getElementById("range").textContent = ""; return; }
 
   var s = d.summary, ev = d.events;
-  if (d.meta.countries_lookup && d.meta.countries_lookup.indexOf("נכשל") === 0) {
-    fail("זיהוי המדינות לא הצליח בשליפה האחרונה, ולכן עמודת המדינה ריקה.");
-  }
   document.getElementById("range").textContent =
     "מ-" + dayFmt.format(new Date(d.meta.range_start_utc)) + " עד " + dayFmt.format(new Date(d.meta.range_end_utc));
   document.getElementById("total").textContent = s.total_4_and_above.toLocaleString("he-IL");
@@ -121,9 +118,9 @@
   var tbody = document.getElementById("rows");
   ev.forEach(function (e) {
     var tr = document.createElement("tr");
-    [fmt.format(new Date(e.time)), e.mag.toFixed(1), e.country, e.place].forEach(function (t, i) {
+    [fmt.format(new Date(e.time)), e.mag.toFixed(1), e.area, e.place].forEach(function (t, i) {
       var td = document.createElement("td");
-      if (i === 3) { var b = document.createElement("bdi"); b.dir = "ltr"; b.textContent = t; td.appendChild(b); }
+      if (i >= 2) { var b = document.createElement("bdi"); b.dir = "ltr"; b.textContent = t; td.appendChild(b); }
       else td.textContent = t;
       tr.appendChild(td);
     });
