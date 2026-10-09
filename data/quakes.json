@@ -1,16 +1,16 @@
 {
  "meta": {
-  "fetched_at_utc": "2026-10-09T01:14:01+00:00",
-  "range_start_utc": "2026-09-09T01:14:01+00:00",
-  "range_end_utc": "2026-10-09T01:14:01+00:00",
+  "fetched_at_utc": "2026-10-09T10:41:57+00:00",
+  "range_start_utc": "2026-09-09T10:41:57+00:00",
+  "range_end_utc": "2026-10-09T10:41:57+00:00",
   "min_magnitude": 4.0,
   "source_is_local_test_file": false
  },
  "summary": {
-  "total_4_and_above": 897,
+  "total_4_and_above": 898,
   "buckets": {
    "4.0-4.9": 748,
-   "5.0-5.9": 144,
+   "5.0-5.9": 145,
    "6.0-6.9": 5,
    "7.0 ומעלה": 0
   },
@@ -25,6 +25,69 @@
   }
  },
  "events": [
+  {
+   "time": 1791541334915,
+   "mag": 5.1,
+   "place": "72 km SSW of Colchane, Chile",
+   "area": "Chile",
+   "lat": -19.9128,
+   "lon": -68.7905,
+   "depth": 123.835
+  },
+  {
+   "time": 1791538158117,
+   "mag": 4.8,
+   "place": "northern Mid-Atlantic Ridge",
+   "area": "northern Mid-Atlantic Ridge",
+   "lat": 35.3331,
+   "lon": -35.5737,
+   "depth": 10
+  },
+  {
+   "time": 1791534430358,
+   "mag": 4.8,
+   "place": "97 km E of Levuka, Fiji",
+   "area": "Fiji",
+   "lat": -17.9914,
+   "lon": -179.7622,
+   "depth": 639.935
+  },
+  {
+   "time": 1791533507203,
+   "mag": 4.5,
+   "place": "249 km E of Levuka, Fiji",
+   "area": "Fiji",
+   "lat": -17.72,
+   "lon": -178.3548,
+   "depth": 559.662
+  },
+  {
+   "time": 1791523024106,
+   "mag": 4.9,
+   "place": "south of the Fiji Islands",
+   "area": "south of the Fiji Islands",
+   "lat": -24.309,
+   "lon": -177.334,
+   "depth": 130.36
+  },
+  {
+   "time": 1791522664200,
+   "mag": 5.2,
+   "place": "117 km SE of Bitung, Indonesia",
+   "area": "Indonesia",
+   "lat": 0.7587,
+   "lon": 125.9365,
+   "depth": 40.049
+  },
+  {
+   "time": 1791513418008,
+   "mag": 4.2,
+   "place": "195 km WSW of Fukaura, Japan",
+   "area": "Japan",
+   "lat": 40.2927,
+   "lon": 137.6688,
+   "depth": 269.153
+  },
   {
    "time": 1791487381983,
    "mag": 4.2,
@@ -1518,15 +1581,6 @@
    "lat": -7.9511,
    "lon": 121.0985,
    "depth": 10
-  },
-  {
-   "time": 1790920977320,
-   "mag": 4.0,
-   "place": "75 km SE of Adak, Alaska",
-   "area": "Alaska",
-   "lat": 51.328,
-   "lon": -175.993,
-   "depth": 17.3
   },
   {
    "time": 1790919535084,
@@ -3203,12 +3257,48 @@
    "depth": 10
   },
   {
+   "time": 1790392290955,
+   "mag": 4.2,
+   "place": "205 km NE of Lospalos, Timor Leste",
+   "area": "Timor Leste",
+   "lat": -7.4386,
+   "lon": 128.5109,
+   "depth": 147.25
+  },
+  {
+   "time": 1790391776179,
+   "mag": 4.4,
+   "place": "81 km E of Tadine, New Caledonia",
+   "area": "New Caledonia",
+   "lat": -21.4203,
+   "lon": 168.6547,
+   "depth": 10
+  },
+  {
+   "time": 1790391629319,
+   "mag": 4.2,
+   "place": "284 km N of Norðurþing, Iceland",
+   "area": "Iceland",
+   "lat": 68.5847,
+   "lon": -16.7472,
+   "depth": 10
+  },
+  {
    "time": 1790391175988,
    "mag": 4.5,
    "place": "Iceland region",
    "area": "Iceland",
    "lat": 68.8565,
    "lon": -16.9554,
+   "depth": 10
+  },
+  {
+   "time": 1790389001054,
+   "mag": 4.5,
+   "place": "89 km ENE of Tadine, New Caledonia",
+   "area": "New Caledonia",
+   "lat": -21.3026,
+   "lon": 168.707,
    "depth": 10
   },
   {
@@ -5102,6 +5192,15 @@
    "depth": 10
   },
   {
+   "time": 1789766113483,
+   "mag": 4.5,
+   "place": "27 km E of Ōarai, Japan",
+   "area": "Japan",
+   "lat": 36.3065,
+   "lon": 140.8887,
+   "depth": 45.445
+  },
+  {
    "time": 1789758997535,
    "mag": 4.5,
    "place": "112 km ESE of Ust’-Kamchatsk Staryy, Russia",
@@ -5721,6 +5820,15 @@
    "lat": -3.02,
    "lon": 139.5405,
    "depth": 35
+  },
+  {
+   "time": 1789560533048,
+   "mag": 4.2,
+   "place": "23 km SSW of Amorgós, Greece",
+   "area": "Greece",
+   "lat": 36.6414,
+   "lon": 25.7898,
+   "depth": 10
   },
   {
    "time": 1789559411675,
@@ -7997,105 +8105,6 @@
    "area": "China",
    "lat": 34.9738,
    "lon": 112.2721,
-   "depth": 10
-  },
-  {
-   "time": 1788950281945,
-   "mag": 4.5,
-   "place": "southeast of Easter Island",
-   "area": "southeast of Easter Island",
-   "lat": -36.2377,
-   "lon": -100.0386,
-   "depth": 10
-  },
-  {
-   "time": 1788948728894,
-   "mag": 4.6,
-   "place": "224 km NE of Xilin Hot, China",
-   "area": "China",
-   "lat": 45.2076,
-   "lon": 118.2598,
-   "depth": 10
-  },
-  {
-   "time": 1788948417769,
-   "mag": 4.9,
-   "place": "62 km W of Cafayate, Argentina",
-   "area": "Argentina",
-   "lat": -26.0568,
-   "lon": -66.6066,
-   "depth": 10
-  },
-  {
-   "time": 1788942797696,
-   "mag": 4.4,
-   "place": "Fiji region",
-   "area": "Fiji",
-   "lat": -18.3639,
-   "lon": -177.6354,
-   "depth": 515.428
-  },
-  {
-   "time": 1788940467789,
-   "mag": 4.3,
-   "place": "Banda Sea",
-   "area": "Banda Sea",
-   "lat": -6.8302,
-   "lon": 129.7347,
-   "depth": 175.023
-  },
-  {
-   "time": 1788937622446,
-   "mag": 5.0,
-   "place": "162 km SSW of Sarangani, Philippines",
-   "area": "Philippines",
-   "lat": 3.9944,
-   "lon": 125.0457,
-   "depth": 10
-  },
-  {
-   "time": 1788927455375,
-   "mag": 4.2,
-   "place": "23 km ENE of Calama, Chile",
-   "area": "Chile",
-   "lat": -22.374,
-   "lon": -68.7091,
-   "depth": 113.384
-  },
-  {
-   "time": 1788920526221,
-   "mag": 4.5,
-   "place": "east of the Kuril Islands",
-   "area": "east of the Kuril Islands",
-   "lat": 46.8141,
-   "lon": 155.8112,
-   "depth": 10
-  },
-  {
-   "time": 1788919817390,
-   "mag": 4.9,
-   "place": "Pacific-Antarctic Ridge",
-   "area": "Pacific-Antarctic Ridge",
-   "lat": -56.1698,
-   "lon": -138.8564,
-   "depth": 10
-  },
-  {
-   "time": 1788919586017,
-   "mag": 4.9,
-   "place": "Pacific-Antarctic Ridge",
-   "area": "Pacific-Antarctic Ridge",
-   "lat": -55.989,
-   "lon": -138.9676,
-   "depth": 10
-  },
-  {
-   "time": 1788918795663,
-   "mag": 4.5,
-   "place": "central East Pacific Rise",
-   "area": "central East Pacific Rise",
-   "lat": -9.0824,
-   "lon": -108.2788,
    "depth": 10
   }
  ]
