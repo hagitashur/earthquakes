@@ -85,6 +85,9 @@
   if (!d) { fail("לא נמצאו נתונים. יש להפעיל את תהליך שליפת הנתונים (Actions → fetch-quakes) ולרענן."); document.getElementById("range").textContent = ""; return; }
 
   var s = d.summary, ev = d.events;
+  if (d.meta.countries_lookup && d.meta.countries_lookup.indexOf("נכשל") === 0) {
+    fail("זיהוי המדינות לא הצליח בשליפה האחרונה, ולכן עמודת המדינה ריקה.");
+  }
   document.getElementById("range").textContent =
     "מ-" + dayFmt.format(new Date(d.meta.range_start_utc)) + " עד " + dayFmt.format(new Date(d.meta.range_end_utc));
   document.getElementById("total").textContent = s.total_4_and_above.toLocaleString("he-IL");

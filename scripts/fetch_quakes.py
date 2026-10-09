@@ -143,8 +143,18 @@ def main():
     args = ap.parse_args()
 
     now = datetime.now(timezone.utc).replace(microsecond=0)
+    log("התחלה: " + now.isoformat())
     geojson = json.loads(Path(args.input).read_text(encoding="utf-8")) if args.input else fetch_usgs(now)
-    index = {} if args.skip_countries else build_country_index(fetch_json(COUNTRIES_URL))
+    log(f"USGS החזיר {len(geojson.get('features', []))} רשומות")
+
+    index, countries_status = {}, "דולג"
+    if not args.skip_countries:
+        try:
+            index = build_country_index(fetch_json(COUNTRIES_URL))
+            countries_status = f"הצליח ({len(index)} שמות)"
+        except Exception as exc:  # זיהוי מדינה הוא תוספת; כישלון בו לא מפיל את הדשבורד
+            countries_status = f"נכשל: {type(exc).__name__}: {exc}"
+    log("REST Countries: " + countries_status)
 
     events = parse_events(geojson, index)
     meta = {
@@ -153,6 +163,7 @@ def main():
         "range_end_utc": now.isoformat(),
         "min_magnitude": MIN_MAG,
         "source_is_local_test_file": bool(args.input),
+        "countries_lookup": countries_status,
     }
     payload = {"meta": meta, "summary": summarize(events), "events": events}
 
@@ -162,8 +173,30 @@ def main():
     # גרסת JS כדי שהדף יעבוד גם בפתיחה ישירה של הקובץ (בלי שרת)
     (DATA_DIR / "quakes.js").write_text("window.QUAKES_DATA = " + text + ";\n", encoding="utf-8")
     s = payload["summary"]
-    print(f"נשמרו {s['total_4_and_above']} רעידות; מדינה זוהתה ב-{s['country_identified']}.")
+    log(f"נשמרו {s['total_4_and_above']} רעידות; מדינה זוהתה ב-{s['country_identified']}.")
+
+
+LOG_LINES = []
+
+
+def log(msg):
+    print(msg)
+    LOG_LINES.append(msg)
+
+
+def write_run_log(error_text=None):
+    """כותב את מהלך ההרצה לקובץ, כדי שאפשר יהיה לקרוא אותו בריפו גם כשההרצה נכשלת."""
+    DATA_DIR.mkdir(exist_ok=True)
+    lines = list(LOG_LINES) + (["שגיאה:", error_text] if error_text else ["ההרצה הסתיימה בהצלחה"])
+    (DATA_DIR / "last_run.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    import traceback
+    try:
+        main()
+        write_run_log()
+    except Exception:
+        write_run_log(traceback.format_exc())
+        sys.exit(1)
