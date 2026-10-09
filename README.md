@@ -13,7 +13,7 @@
 - `scripts/fetch_quakes.py` – שליפת הנתונים
 - `.github/workflows/fetch-quakes.yml` – הרצת השליפה בגיטהאב
 - `data/` – הנתונים שנשלפו (נוצר בהרצה)
-- `docs/SPEC.md` – אפיון, `docs/PLAN.md` – תוכנית עבודה, `docs/CHANGELOG.md` – יומן שינויים
+- `docs/SPEC.md` – אפיון, `docs/PLAN.md` – תוכנית עבודה, `docs/CHANGELOG.md` – יומן שינויים, `docs/REPORT.md` – דוח סיכום
 - `SOURCES.md` – מקורות
 
 ## עדכון הנתונים
