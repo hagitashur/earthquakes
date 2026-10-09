@@ -1,0 +1,8097 @@
+window.QUAKES_DATA = {
+ "meta": {
+  "fetched_at_utc": "2026-10-09T00:53:07+00:00",
+  "range_start_utc": "2026-09-09T00:53:07+00:00",
+  "range_end_utc": "2026-10-09T00:53:07+00:00",
+  "min_magnitude": 4.0,
+  "source_is_local_test_file": false,
+  "countries_lookup": "נכשל: AttributeError: 'str' object has no attribute 'get'"
+ },
+ "summary": {
+  "total_4_and_above": 896,
+  "buckets": {
+   "4.0-4.9": 747,
+   "5.0-5.9": 144,
+   "6.0-6.9": 5,
+   "7.0 ומעלה": 0
+  },
+  "strongest": {
+   "time": 1790371383309,
+   "mag": 6.6,
+   "place": "80 km ENE of Tadine, New Caledonia",
+   "lat": -21.2982,
+   "lon": 168.61,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  "country_identified": 0,
+  "country_unidentified": 896,
+  "top_countries": []
+ },
+ "events": [
+  {
+   "time": 1791487381983,
+   "mag": 4.2,
+   "place": "103 km ENE of Noda, Japan",
+   "lat": 40.5087,
+   "lon": 142.9124,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791484323544,
+   "mag": 4.6,
+   "place": "Izu Islands, Japan region",
+   "lat": 30.7337,
+   "lon": 140.6005,
+   "depth": 95.608,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791482760577,
+   "mag": 4.8,
+   "place": "46 km N of Waingapu, Indonesia",
+   "lat": -9.2392,
+   "lon": 120.3127,
+   "depth": 91.156,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791473027618,
+   "mag": 4.7,
+   "place": "84 km WNW of Bengkulu, Indonesia",
+   "lat": -3.4591,
+   "lon": 101.5886,
+   "depth": 50.572,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791468709678,
+   "mag": 4.9,
+   "place": "113 km NW of Baa, Indonesia",
+   "lat": -10.0202,
+   "lon": 122.2936,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791454048642,
+   "mag": 5.1,
+   "place": "236 km E of Levuka, Fiji",
+   "lat": -18.0147,
+   "lon": -178.4545,
+   "depth": 602.272,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791450007768,
+   "mag": 6.3,
+   "place": "102 km NE of Norsup, Vanuatu",
+   "lat": -15.5411,
+   "lon": 168.1889,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791446879114,
+   "mag": 5.5,
+   "place": "17 km SW of Burias, Philippines",
+   "lat": 5.6006,
+   "lon": 125.1521,
+   "depth": 52.054,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791445512588,
+   "mag": 4.6,
+   "place": "61 km W of Banda Aceh, Indonesia",
+   "lat": 5.4545,
+   "lon": 94.7814,
+   "depth": 97.534,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791442007971,
+   "mag": 5.5,
+   "place": "west of Macquarie Island",
+   "lat": -52.5475,
+   "lon": 140.2121,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791437756016,
+   "mag": 4.5,
+   "place": "39 km NE of Calama, Chile",
+   "lat": -22.1924,
+   "lon": -68.6682,
+   "depth": 121.38,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791436012046,
+   "mag": 4.7,
+   "place": "47 km W of Tambolaka, Indonesia",
+   "lat": -9.421,
+   "lon": 118.8068,
+   "depth": 65.279,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791434939943,
+   "mag": 5.0,
+   "place": "92 km N of Ruteng, Indonesia",
+   "lat": -7.7761,
+   "lon": 120.5395,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791430972895,
+   "mag": 4.9,
+   "place": "81 km NNW of Malfa, Italy",
+   "lat": 39.2061,
+   "lon": 14.3516,
+   "depth": 367.078,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791428401461,
+   "mag": 4.7,
+   "place": "101 km NE of Ruteng, Indonesia",
+   "lat": -7.8993,
+   "lon": 121.0443,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791411247895,
+   "mag": 4.3,
+   "place": "15 km ENE of Ōarai, Japan",
+   "lat": 36.3615,
+   "lon": 140.7431,
+   "depth": 79.542,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791406611318,
+   "mag": 4.6,
+   "place": "18 km NNE of Posoltega, Nicaragua",
+   "lat": 12.6946,
+   "lon": -86.9041,
+   "depth": 206.277,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791401806284,
+   "mag": 4.6,
+   "place": "9 km NNE of Midori, Japan",
+   "lat": 36.5238,
+   "lon": 139.3334,
+   "depth": 95.624,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791400430830,
+   "mag": 4.9,
+   "place": "3 km WSW of Shibayama, Japan",
+   "lat": 35.6751,
+   "lon": 140.3957,
+   "depth": 73.037,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791396904107,
+   "mag": 4.8,
+   "place": "194 km S of Ust’-Kamchatsk Staryy, Russia",
+   "lat": 54.4775,
+   "lon": 162.5648,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791396793966,
+   "mag": 4.6,
+   "place": "south of the Fiji Islands",
+   "lat": -24.7869,
+   "lon": 179.8762,
+   "depth": 504.432,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791395943884,
+   "mag": 4.3,
+   "place": "Volcano Islands, Japan region",
+   "lat": 24.8701,
+   "lon": 141.2127,
+   "depth": 248.7,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791394573751,
+   "mag": 4.6,
+   "place": "48 km SSW of Angoram, Papua New Guinea",
+   "lat": -4.4473,
+   "lon": 143.8558,
+   "depth": 101.453,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791391369325,
+   "mag": 4.7,
+   "place": "34 km E of Sarangani, Philippines",
+   "lat": 5.3818,
+   "lon": 125.7754,
+   "depth": 117.206,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791389166205,
+   "mag": 4.3,
+   "place": "23 km E of Palora, Ecuador",
+   "lat": -1.7116,
+   "lon": -77.7569,
+   "depth": 162.357,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791387974830,
+   "mag": 4.7,
+   "place": "45 km WNW of Ollagüe, Chile",
+   "lat": -21.1132,
+   "lon": -68.68,
+   "depth": 105.86,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791385165858,
+   "mag": 5.2,
+   "place": "Chagos Archipelago region",
+   "lat": -6.6637,
+   "lon": 72.2362,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791370654247,
+   "mag": 4.7,
+   "place": "22 km WNW of Manado, Indonesia",
+   "lat": 1.5798,
+   "lon": 124.6702,
+   "depth": 139.831,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791368433568,
+   "mag": 4.5,
+   "place": "south of the Fiji Islands",
+   "lat": -24.2564,
+   "lon": 179.8316,
+   "depth": 528.878,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791358999524,
+   "mag": 4.9,
+   "place": "80 km SW of El Arenal, Mexico",
+   "lat": 14.6207,
+   "lon": -93.1891,
+   "depth": 61.654,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791347966324,
+   "mag": 4.9,
+   "place": "South Sandwich Islands region",
+   "lat": -55.6737,
+   "lon": -30.0294,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791343761320,
+   "mag": 4.5,
+   "place": "65 km NNE of Mawlaik, Burma (Myanmar)",
+   "lat": 24.1974,
+   "lon": 94.6214,
+   "depth": 109.922,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791341399426,
+   "mag": 4.8,
+   "place": "132 km ENE of Tadine, New Caledonia",
+   "lat": -20.979,
+   "lon": 169.0011,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791337145561,
+   "mag": 4.6,
+   "place": "Kuril Islands",
+   "lat": 48.1853,
+   "lon": 153.3699,
+   "depth": 108.743,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791336716120,
+   "mag": 4.2,
+   "place": "101 km ENE of Noda, Japan",
+   "lat": 40.4048,
+   "lon": 142.9402,
+   "depth": 29.595,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791336585785,
+   "mag": 4.4,
+   "place": "21 km SW of Roncesvalles, Colombia",
+   "lat": 3.8692,
+   "lon": -75.74,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791335068689,
+   "mag": 4.5,
+   "place": "southeast of the Loyalty Islands",
+   "lat": -22.8887,
+   "lon": 170.98,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791333008365,
+   "mag": 4.8,
+   "place": "57 km E of Petropavlovsk-Kamchatsky, Russia",
+   "lat": 52.9685,
+   "lon": 159.4666,
+   "depth": 61.934,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791332561953,
+   "mag": 4.5,
+   "place": "37 km ESE of Iwaki, Japan",
+   "lat": 36.9504,
+   "lon": 141.2803,
+   "depth": 52.668,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791330636679,
+   "mag": 4.2,
+   "place": "27 km WSW of Fry, Greece",
+   "lat": 35.3207,
+   "lon": 26.6477,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791324766267,
+   "mag": 4.7,
+   "place": "Kermadec Islands, New Zealand",
+   "lat": -29.8721,
+   "lon": -177.6188,
+   "depth": 71.248,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791323803985,
+   "mag": 4.9,
+   "place": "189 km SW of Abepura, Indonesia",
+   "lat": -3.9438,
+   "lon": 139.5723,
+   "depth": 80.203,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791317728171,
+   "mag": 4.6,
+   "place": "14 km NE of Mataram, Indonesia",
+   "lat": -8.4933,
+   "lon": 116.218,
+   "depth": 144.45,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791316755341,
+   "mag": 4.3,
+   "place": "297 km SSE of Tabiauan, Philippines",
+   "lat": 3.4637,
+   "lon": 122.6913,
+   "depth": 563.47,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791313720492,
+   "mag": 4.2,
+   "place": "296 km ENE of Dawson City, Canada",
+   "lat": 65.0111,
+   "lon": -133.6639,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791313319145,
+   "mag": 4.5,
+   "place": "43 km WNW of Bengkulu, Indonesia",
+   "lat": -3.6796,
+   "lon": 101.8914,
+   "depth": 73.115,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791311671760,
+   "mag": 5.5,
+   "place": "92 km NNW of Aleneva, Alaska",
+   "lat": 58.802,
+   "lon": -153.609,
+   "depth": 87.6,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791310534402,
+   "mag": 4.9,
+   "place": "114 km SW of Turpan, China",
+   "lat": 42.2039,
+   "lon": 88.2203,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791308824306,
+   "mag": 4.8,
+   "place": "85 km ENE of Shikotan, Russia",
+   "lat": 44.0053,
+   "lon": 147.7419,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791307931057,
+   "mag": 4.2,
+   "place": "273 km SSW of Severo-Kuril’sk, Russia",
+   "lat": 48.3128,
+   "lon": 155.1033,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791305592578,
+   "mag": 5.1,
+   "place": "34 km NW of Bāgeshwar, India",
+   "lat": 30.092,
+   "lon": 79.5618,
+   "depth": 17.838,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791305302347,
+   "mag": 5.8,
+   "place": "262 km SSW of Severo-Kuril’sk, Russia",
+   "lat": 48.4437,
+   "lon": 154.9316,
+   "depth": 29,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791302244056,
+   "mag": 4.1,
+   "place": "19 km S of Yacuiba, Bolivia",
+   "lat": -22.196,
+   "lon": -63.6857,
+   "depth": 525.781,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791299529822,
+   "mag": 4.7,
+   "place": "Chagos Archipelago region",
+   "lat": -6.6864,
+   "lon": 72.295,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791293182092,
+   "mag": 4.5,
+   "place": "Kermadec Islands region",
+   "lat": -30.8569,
+   "lon": 178.7672,
+   "depth": 537.886,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791292282867,
+   "mag": 5.0,
+   "place": "51 km NNE of Semporna, Malaysia",
+   "lat": 4.8949,
+   "lon": 118.825,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791290423290,
+   "mag": 4.4,
+   "place": "50 km SW of Tambolaka, Indonesia",
+   "lat": -9.7538,
+   "lon": 118.9128,
+   "depth": 52.889,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791276326946,
+   "mag": 4.9,
+   "place": "55 km ESE of Kokopo, Papua New Guinea",
+   "lat": -4.4773,
+   "lon": 152.7519,
+   "depth": 20.643,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791269650618,
+   "mag": 4.5,
+   "place": "60 km WNW of Colchani, Bolivia",
+   "lat": -20.0088,
+   "lon": -67.4214,
+   "depth": 191.741,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791267393173,
+   "mag": 4.7,
+   "place": "36 km WNW of Ollagüe, Chile",
+   "lat": -21.1586,
+   "lon": -68.6026,
+   "depth": 122.011,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791261628098,
+   "mag": 4.9,
+   "place": "State of Yap, Federated States of Micronesia",
+   "lat": 6.7818,
+   "lon": 144.4068,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791260916912,
+   "mag": 4.6,
+   "place": "Izu Islands, Japan region",
+   "lat": 29.02,
+   "lon": 142.845,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791258163999,
+   "mag": 4.8,
+   "place": "86 km N of Ruteng, Indonesia",
+   "lat": -7.8323,
+   "lon": 120.3932,
+   "depth": 8.653,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791251303727,
+   "mag": 4.3,
+   "place": "42 km SW of Urakawa, Japan",
+   "lat": 41.9416,
+   "lon": 142.3552,
+   "depth": 70.998,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791247288380,
+   "mag": 4.4,
+   "place": "58 km SSE of Camiña, Chile",
+   "lat": -19.8042,
+   "lon": -69.2254,
+   "depth": 105.483,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791240822181,
+   "mag": 4.6,
+   "place": "31 km S of Tezpur, India",
+   "lat": 26.3539,
+   "lon": 92.8359,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791240533669,
+   "mag": 4.8,
+   "place": "146 km WNW of Panguna, Papua New Guinea",
+   "lat": -5.7949,
+   "lon": 154.2682,
+   "depth": 142.487,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791236313955,
+   "mag": 4.3,
+   "place": "17 km WNW of Ashkāsham, Afghanistan",
+   "lat": 36.7206,
+   "lon": 71.3436,
+   "depth": 203.432,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791236285713,
+   "mag": 4.5,
+   "place": "39 km SW of Tambolaka, Indonesia",
+   "lat": -9.6687,
+   "lon": 118.9729,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791231779243,
+   "mag": 5.0,
+   "place": "south of the Fiji Islands",
+   "lat": -24.4235,
+   "lon": 179.8108,
+   "depth": 518.638,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791229675779,
+   "mag": 4.6,
+   "place": "12 km ENE of Metahāra, Ethiopia",
+   "lat": 8.9608,
+   "lon": 40.0091,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791224908162,
+   "mag": 4.4,
+   "place": "21 km E of Kimbe, Papua New Guinea",
+   "lat": -5.5191,
+   "lon": 150.325,
+   "depth": 124.862,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791221304530,
+   "mag": 4.7,
+   "place": "105 km WNW of Höfn, Iceland",
+   "lat": 64.5091,
+   "lon": -17.3115,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791212870258,
+   "mag": 4.3,
+   "place": "47 km SSW of Jurm, Afghanistan",
+   "lat": 36.4528,
+   "lon": 70.6952,
+   "depth": 190.787,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791207045560,
+   "mag": 4.7,
+   "place": "75 km NNE of Yonakuni, Japan",
+   "lat": 25.1037,
+   "lon": 123.2696,
+   "depth": 156.219,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791205550276,
+   "mag": 4.4,
+   "place": "53 km NNE of Ruteng, Indonesia",
+   "lat": -8.1959,
+   "lon": 120.7072,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791202642875,
+   "mag": 4.4,
+   "place": "54 km WSW of Tambolaka, Indonesia",
+   "lat": -9.6952,
+   "lon": 118.824,
+   "depth": 39.453,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791200827753,
+   "mag": 4.6,
+   "place": "21 km S of Luganville, Vanuatu",
+   "lat": -15.7157,
+   "lon": 167.1484,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791197529844,
+   "mag": 5.0,
+   "place": "187 km ENE of Saipan, Northern Mariana Islands",
+   "lat": 15.8046,
+   "lon": 147.395,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791194586087,
+   "mag": 4.7,
+   "place": "southern Mid-Atlantic Ridge",
+   "lat": -33.7038,
+   "lon": -14.5263,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791188702182,
+   "mag": 4.2,
+   "place": "172 km ESE of Antofagasta, Chile",
+   "lat": -24.4199,
+   "lon": -68.9222,
+   "depth": 94.083,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791184418006,
+   "mag": 4.9,
+   "place": "Volcano Islands, Japan region",
+   "lat": 22.8488,
+   "lon": 144.0442,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791180855888,
+   "mag": 4.8,
+   "place": "191 km ESE of Sarangani, Philippines",
+   "lat": 4.4975,
+   "lon": 126.9394,
+   "depth": 51.291,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791178004808,
+   "mag": 5.0,
+   "place": "71 km E of ‘Ohonua, Tonga",
+   "lat": -21.4208,
+   "lon": -174.2679,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791173783636,
+   "mag": 4.5,
+   "place": "Kuril Islands",
+   "lat": 45.953,
+   "lon": 151.8684,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791166591883,
+   "mag": 4.2,
+   "place": "111 km S of Dampit, Indonesia",
+   "lat": -9.2033,
+   "lon": 112.9221,
+   "depth": 51.442,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791163221127,
+   "mag": 4.4,
+   "place": "12 km N of Villa El Carmen, Nicaragua",
+   "lat": 12.0958,
+   "lon": -86.4891,
+   "depth": 167.36,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791163130392,
+   "mag": 5.3,
+   "place": "central Mid-Atlantic Ridge",
+   "lat": -0.4325,
+   "lon": -19.965,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791156990683,
+   "mag": 4.3,
+   "place": "78 km S of Acajutla, El Salvador",
+   "lat": 12.8829,
+   "lon": -89.7514,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791155118727,
+   "mag": 4.4,
+   "place": "142 km NE of Tual, Indonesia",
+   "lat": -4.5956,
+   "lon": 133.5278,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791154290983,
+   "mag": 4.2,
+   "place": "14 km ESE of Feke, Turkey",
+   "lat": 37.7784,
+   "lon": 36.0714,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791152006165,
+   "mag": 4.2,
+   "place": "off the coast of Oregon",
+   "lat": 44.6317,
+   "lon": -128.9457,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791145645597,
+   "mag": 4.8,
+   "place": "32 km SSE of Jurm, Afghanistan",
+   "lat": 36.611,
+   "lon": 71.0216,
+   "depth": 248.906,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791144987253,
+   "mag": 4.4,
+   "place": "279 km ENE of Kuril’sk, Russia",
+   "lat": 45.8198,
+   "lon": 151.3579,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791134893722,
+   "mag": 4.2,
+   "place": "21 km E of Feke, Turkey",
+   "lat": 37.7789,
+   "lon": 36.1523,
+   "depth": 11.956,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791134393148,
+   "mag": 4.4,
+   "place": "13 km N of Xunchang, China",
+   "lat": 28.5785,
+   "lon": 104.7108,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791129626211,
+   "mag": 4.3,
+   "place": "20 km ESE of Feke, Turkey",
+   "lat": 37.7748,
+   "lon": 36.1388,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791125984179,
+   "mag": 4.2,
+   "place": "65 km SW of Tambolaka, Indonesia",
+   "lat": -9.8792,
+   "lon": 118.8554,
+   "depth": 25.554,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791122770385,
+   "mag": 5.0,
+   "place": "295 km S of Burica, Panama",
+   "lat": 5.3695,
+   "lon": -82.7171,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791117407744,
+   "mag": 4.6,
+   "place": "110 km S of Dampit, Indonesia",
+   "lat": -9.2014,
+   "lon": 112.6395,
+   "depth": 52.773,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791115673879,
+   "mag": 4.2,
+   "place": "77 km ESE of Ollagüe, Chile",
+   "lat": -21.4303,
+   "lon": -67.5431,
+   "depth": 169.095,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791114203167,
+   "mag": 5.0,
+   "place": "21 km ESE of Feke, Turkey",
+   "lat": 37.7292,
+   "lon": 36.1272,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791113786451,
+   "mag": 4.7,
+   "place": "22 km E of Feke, Turkey",
+   "lat": 37.7757,
+   "lon": 36.1685,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791112766314,
+   "mag": 4.7,
+   "place": "21 km SSE of Saimbeyli, Turkey",
+   "lat": 37.8028,
+   "lon": 36.1749,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791112368352,
+   "mag": 5.1,
+   "place": "Volcano Islands, Japan region",
+   "lat": 22.8191,
+   "lon": 144.6508,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791112187398,
+   "mag": 4.6,
+   "place": "121 km SW of Kokopo, Papua New Guinea",
+   "lat": -5.0439,
+   "lon": 151.4257,
+   "depth": 162.143,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791111147344,
+   "mag": 4.8,
+   "place": "43 km N of Ruteng, Indonesia",
+   "lat": -8.2236,
+   "lon": 120.5325,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791108787298,
+   "mag": 5.0,
+   "place": "37 km N of Ruteng, Indonesia",
+   "lat": -8.2698,
+   "lon": 120.4532,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791104241555,
+   "mag": 4.3,
+   "place": "42 km WNW of Puerto Bolívar, Ecuador",
+   "lat": -3.0707,
+   "lon": -80.326,
+   "depth": 42.93,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791100596068,
+   "mag": 4.5,
+   "place": "West Chile Rise",
+   "lat": -43.3795,
+   "lon": -82.6626,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791093306861,
+   "mag": 4.6,
+   "place": "121 km WNW of Chauk, Burma (Myanmar)",
+   "lat": 21.3382,
+   "lon": 93.7503,
+   "depth": 58.258,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791078472030,
+   "mag": 4.9,
+   "place": "South Sandwich Islands region",
+   "lat": -58.1594,
+   "lon": -23.3522,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791077926078,
+   "mag": 4.9,
+   "place": "21 km NE of Lae, Papua New Guinea",
+   "lat": -6.5916,
+   "lon": 147.1353,
+   "depth": 94.221,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791074921995,
+   "mag": 4.3,
+   "place": "5 km SSW of Zonianá, Greece",
+   "lat": 35.2454,
+   "lon": 24.8055,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791070654235,
+   "mag": 5.3,
+   "place": "81 km SSW of Banda Aceh, Indonesia",
+   "lat": 4.8247,
+   "lon": 95.1622,
+   "depth": 56.274,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791069287143,
+   "mag": 4.3,
+   "place": "90 km ESE of Ozernovskiy, Russia",
+   "lat": 51.3289,
+   "lon": 157.7674,
+   "depth": 78.176,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791069275782,
+   "mag": 4.5,
+   "place": "293 km SSE of Tabiauan, Philippines",
+   "lat": 3.5895,
+   "lon": 122.9296,
+   "depth": 575.042,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791068155358,
+   "mag": 5.9,
+   "place": "39 km WSW of Tambolaka, Indonesia",
+   "lat": -9.5672,
+   "lon": 118.9078,
+   "depth": 45.951,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791066443407,
+   "mag": 4.3,
+   "place": "Izu Islands, Japan region",
+   "lat": 29.053,
+   "lon": 142.8123,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791062157294,
+   "mag": 4.1,
+   "place": "153 km WSW of Lebu, Chile",
+   "lat": -38.3006,
+   "lon": -75.1712,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791059625577,
+   "mag": 4.5,
+   "place": "121 km SW of Puerto Madero, Mexico",
+   "lat": 14.1052,
+   "lon": -93.3523,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791057644104,
+   "mag": 5.1,
+   "place": "182 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.5457,
+   "lon": 159.8296,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791055856985,
+   "mag": 4.4,
+   "place": "201 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.4038,
+   "lon": 159.9887,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791051166916,
+   "mag": 4.9,
+   "place": "72 km NE of Sittwe, Burma (Myanmar)",
+   "lat": 20.6061,
+   "lon": 93.3991,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791048252545,
+   "mag": 4.6,
+   "place": "76 km NNE of Lae, Papua New Guinea",
+   "lat": -6.0496,
+   "lon": 147.1678,
+   "depth": 81.86,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791043611093,
+   "mag": 4.1,
+   "place": "93 km SW of Atka, Alaska",
+   "lat": 51.6964,
+   "lon": -175.2905,
+   "depth": 50.31,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791038980402,
+   "mag": 4.4,
+   "place": "Banda Sea",
+   "lat": -6.4633,
+   "lon": 130.1704,
+   "depth": 140.138,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791035471299,
+   "mag": 4.5,
+   "place": "Kermadec Islands region",
+   "lat": -27.4948,
+   "lon": -179.4827,
+   "depth": 453.487,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791025545564,
+   "mag": 4.4,
+   "place": "116 km NNE of Finschhafen, Papua New Guinea",
+   "lat": -5.6287,
+   "lon": 148.3446,
+   "depth": 232.07,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791021777391,
+   "mag": 4.2,
+   "place": "189 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "lat": 51.9144,
+   "lon": 160.6848,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791020250841,
+   "mag": 4.4,
+   "place": "79 km WSW of Masachapa, Nicaragua",
+   "lat": 11.5447,
+   "lon": -87.2,
+   "depth": 37.535,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791007521157,
+   "mag": 4.8,
+   "place": "112 km S of Koshima, Japan",
+   "lat": 29.221,
+   "lon": 130.6125,
+   "depth": 37.466,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1791000811661,
+   "mag": 4.2,
+   "place": "16 km ENE of Parbhani, India",
+   "lat": 19.3072,
+   "lon": 76.922,
+   "depth": 16.033,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790996346296,
+   "mag": 5.0,
+   "place": "163 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "lat": 52.0836,
+   "lon": 160.4217,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790989392099,
+   "mag": 4.1,
+   "place": "34 km S of Adak, Alaska",
+   "lat": 51.5689,
+   "lon": -176.6858,
+   "depth": 49.148,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790986861071,
+   "mag": 4.4,
+   "place": "15 km WSW of Yelizovo, Russia",
+   "lat": 53.1493,
+   "lon": 158.1531,
+   "depth": 98.544,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790986298239,
+   "mag": 4.5,
+   "place": "7 km NNW of Ibusuki, Japan",
+   "lat": 31.2953,
+   "lon": 130.6093,
+   "depth": 126.853,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790985698784,
+   "mag": 4.8,
+   "place": "121 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.9749,
+   "lon": 159.2731,
+   "depth": 38.69,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790985566824,
+   "mag": 4.6,
+   "place": "174 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.5846,
+   "lon": 159.7182,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790985253503,
+   "mag": 4.7,
+   "place": "153 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.7161,
+   "lon": 159.4679,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790980733650,
+   "mag": 4.6,
+   "place": "southern East Pacific Rise",
+   "lat": -49.3851,
+   "lon": -116.9235,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790975646969,
+   "mag": 4.6,
+   "place": "125 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.9667,
+   "lon": 159.3701,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790975106532,
+   "mag": 4.4,
+   "place": "52 km WSW of Paratunka, Russia",
+   "lat": 52.7302,
+   "lon": 157.5867,
+   "depth": 93.182,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790974453732,
+   "mag": 5.0,
+   "place": "168 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.6328,
+   "lon": 159.6651,
+   "depth": 20.89,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790973501109,
+   "mag": 4.7,
+   "place": "52 km SSW of Vilyuchinsk, Russia",
+   "lat": 52.4691,
+   "lon": 158.2168,
+   "depth": 89.108,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790973468318,
+   "mag": 4.6,
+   "place": "46 km SSW of Paratunka, Russia",
+   "lat": 52.5605,
+   "lon": 158.0496,
+   "depth": 74.647,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790973296862,
+   "mag": 4.5,
+   "place": "86 km E of Noda, Japan",
+   "lat": 40.0341,
+   "lon": 142.8232,
+   "depth": 49.952,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790972848083,
+   "mag": 5.0,
+   "place": "176 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.5289,
+   "lon": 159.612,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790972762878,
+   "mag": 4.6,
+   "place": "67 km ESE of Kokopo, Papua New Guinea",
+   "lat": -4.565,
+   "lon": 152.8363,
+   "depth": 86.736,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790972730852,
+   "mag": 4.9,
+   "place": "151 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.7752,
+   "lon": 159.5713,
+   "depth": 50.41,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790970200395,
+   "mag": 4.4,
+   "place": "Kermadec Islands region",
+   "lat": -30.5008,
+   "lon": -179.9819,
+   "depth": 430.69,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790965520940,
+   "mag": 5.0,
+   "place": "179 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.5775,
+   "lon": 159.8307,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790962098887,
+   "mag": 4.3,
+   "place": "30 km NNW of Valparaíso, Chile",
+   "lat": -32.773,
+   "lon": -71.7075,
+   "depth": 32.14,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790960133449,
+   "mag": 4.5,
+   "place": "56 km SSE of Mawlaik, Burma (Myanmar)",
+   "lat": 23.1453,
+   "lon": 94.5469,
+   "depth": 103.866,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790958881010,
+   "mag": 5.8,
+   "place": "165 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.6873,
+   "lon": 159.7398,
+   "depth": 29.477,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790958685762,
+   "mag": 5.0,
+   "place": "26 km SSW of Güiria, Venezuela",
+   "lat": 10.3698,
+   "lon": -62.4223,
+   "depth": 9.763,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790956930426,
+   "mag": 4.6,
+   "place": "20 km ESE of Petropavlovsk-Kamchatsky, Russia",
+   "lat": 53.0163,
+   "lon": 158.9242,
+   "depth": 99.084,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790956899581,
+   "mag": 4.7,
+   "place": "5 km NNE of Korumburra, Australia",
+   "lat": -38.3802,
+   "lon": 145.8401,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790954802710,
+   "mag": 4.5,
+   "place": "7 km NE of Chalandrítsa, Greece",
+   "lat": 38.1524,
+   "lon": 21.8509,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790953819729,
+   "mag": 4.8,
+   "place": "78 km WSW of San Nicolas, Philippines",
+   "lat": 14.571,
+   "lon": 119.4593,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790949435838,
+   "mag": 5.0,
+   "place": "6 km E of Inglewood, New Zealand",
+   "lat": -39.1598,
+   "lon": 174.2598,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790940916003,
+   "mag": 4.2,
+   "place": "9 km SSW of Yepocapa, Guatemala",
+   "lat": 14.4208,
+   "lon": -90.9832,
+   "depth": 115.214,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790939654383,
+   "mag": 5.0,
+   "place": "63 km SW of Panguna, Papua New Guinea",
+   "lat": -6.6368,
+   "lon": 155.0136,
+   "depth": 38.25,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790924015007,
+   "mag": 4.8,
+   "place": "35 km SSW of El Colomo, Mexico",
+   "lat": 18.7561,
+   "lon": -104.3753,
+   "depth": 23.972,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790923686954,
+   "mag": 4.5,
+   "place": "101 km NE of Ruteng, Indonesia",
+   "lat": -7.9511,
+   "lon": 121.0985,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790920977320,
+   "mag": 4.0,
+   "place": "75 km SE of Adak, Alaska",
+   "lat": 51.328,
+   "lon": -175.993,
+   "depth": 17.3,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790919535084,
+   "mag": 4.8,
+   "place": "192 km WNW of Tobelo, Indonesia",
+   "lat": 2.5781,
+   "lon": 126.4944,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790916293423,
+   "mag": 5.1,
+   "place": "159 km SE of Gizo, Solomon Islands",
+   "lat": -8.9326,
+   "lon": 158.0215,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790915225754,
+   "mag": 5.0,
+   "place": "south of the Fiji Islands",
+   "lat": -24.7752,
+   "lon": 178.6446,
+   "depth": 557.245,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790914258487,
+   "mag": 4.9,
+   "place": "97 km S of Panguna, Papua New Guinea",
+   "lat": -7.1852,
+   "lon": 155.6075,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790906554584,
+   "mag": 4.7,
+   "place": "49 km S of Lata, Solomon Islands",
+   "lat": -11.1735,
+   "lon": 165.794,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790888501707,
+   "mag": 4.5,
+   "place": "2 km NE of Satte, Japan",
+   "lat": 36.0904,
+   "lon": 139.7487,
+   "depth": 65.032,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790884834322,
+   "mag": 5.1,
+   "place": "176 km SE of Lata, Solomon Islands",
+   "lat": -11.6728,
+   "lon": 167.0918,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790883481795,
+   "mag": 5.1,
+   "place": "171 km SE of Lata, Solomon Islands",
+   "lat": -11.7706,
+   "lon": 166.961,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790880892633,
+   "mag": 4.3,
+   "place": "248 km W of Houma, Tonga",
+   "lat": -21.2549,
+   "lon": -177.6908,
+   "depth": 433.822,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790876231734,
+   "mag": 4.6,
+   "place": "83 km NE of Ruteng, Indonesia",
+   "lat": -7.9896,
+   "lon": 120.9009,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790875040097,
+   "mag": 5.1,
+   "place": "108 km ENE of Miyako, Japan",
+   "lat": 39.8778,
+   "lon": 143.1734,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790874578469,
+   "mag": 4.3,
+   "place": "204 km WNW of Abepura, Indonesia",
+   "lat": -1.9255,
+   "lon": 138.9179,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790870528161,
+   "mag": 4.2,
+   "place": "23 km S of Ashkāsham, Afghanistan",
+   "lat": 36.4688,
+   "lon": 71.5499,
+   "depth": 105.107,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790865979877,
+   "mag": 4.8,
+   "place": "127 km S of False Pass, Alaska",
+   "lat": 53.7226,
+   "lon": -163.7238,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790864399078,
+   "mag": 5.0,
+   "place": "176 km NNE of Ruteng, Indonesia",
+   "lat": -7.0805,
+   "lon": 120.9136,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790861475432,
+   "mag": 4.4,
+   "place": "198 km WNW of Abepura, Indonesia",
+   "lat": -2.0857,
+   "lon": 138.9249,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790859783246,
+   "mag": 4.2,
+   "place": "2 km SW of Thívai, Greece",
+   "lat": 38.3117,
+   "lon": 23.3018,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790859635477,
+   "mag": 4.3,
+   "place": "110 km SE of Kuril’sk, Russia",
+   "lat": 44.6606,
+   "lon": 149.0324,
+   "depth": 57.373,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790857631864,
+   "mag": 5.3,
+   "place": "0 km NNE of Yōkaichiba, Japan",
+   "lat": 35.7025,
+   "lon": 140.5507,
+   "depth": 41.649,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790851902236,
+   "mag": 4.5,
+   "place": "8 km ENE of Zaqatala, Azerbaijan",
+   "lat": 41.6704,
+   "lon": 46.7292,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790848995128,
+   "mag": 4.7,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 31.0444,
+   "lon": -41.428,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790844344312,
+   "mag": 4.9,
+   "place": "145 km ESE of Neiafu, Tonga",
+   "lat": -19.141,
+   "lon": -172.7038,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790842679307,
+   "mag": 4.5,
+   "place": "49 km SSE of Toktogul, Kyrgyzstan",
+   "lat": 41.4538,
+   "lon": 73.1419,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790842499626,
+   "mag": 4.1,
+   "place": "28 km SW of Buenos Aires, Mexico",
+   "lat": 14.7356,
+   "lon": -92.6959,
+   "depth": 71.276,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790840406605,
+   "mag": 4.6,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 31.2357,
+   "lon": -41.5851,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790832850634,
+   "mag": 5.0,
+   "place": "38 km WSW of Palimbang, Philippines",
+   "lat": 6.1116,
+   "lon": 123.8599,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790829676232,
+   "mag": 4.2,
+   "place": "280 km SW of Houma, Tonga",
+   "lat": -22.8694,
+   "lon": -177.3105,
+   "depth": 246.958,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790822440210,
+   "mag": 4.4,
+   "place": "Fiji region",
+   "lat": -20.9019,
+   "lon": -179.2476,
+   "depth": 637.906,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790820559068,
+   "mag": 4.5,
+   "place": "272 km WSW of Tual, Indonesia",
+   "lat": -6.154,
+   "lon": 130.346,
+   "depth": 94.793,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790818283443,
+   "mag": 4.6,
+   "place": "45 km ENE of Luwuk, Indonesia",
+   "lat": -0.863,
+   "lon": 123.1839,
+   "depth": 116.392,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790818160694,
+   "mag": 5.2,
+   "place": "7 km ESE of Baghlān, Afghanistan",
+   "lat": 36.0991,
+   "lon": 68.7818,
+   "depth": 49.602,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790814502644,
+   "mag": 4.9,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 19.2756,
+   "lon": -43.0353,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790806329936,
+   "mag": 4.4,
+   "place": "68 km ENE of Tadine, New Caledonia",
+   "lat": -21.3854,
+   "lon": 168.5187,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790805326296,
+   "mag": 5.6,
+   "place": "91 km SW of Tamarindo, Costa Rica",
+   "lat": 9.7776,
+   "lon": -86.4861,
+   "depth": 8,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790803013382,
+   "mag": 4.4,
+   "place": "10 km SSE of Hasaki, Japan",
+   "lat": 35.6453,
+   "lon": 140.882,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790802717653,
+   "mag": 4.6,
+   "place": "130 km SE of Itoman, Japan",
+   "lat": 25.2304,
+   "lon": 128.5174,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790795409166,
+   "mag": 4.2,
+   "place": "286 km W of Adak, Alaska",
+   "lat": 51.8805,
+   "lon": 179.2118,
+   "depth": 119.22,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790793382667,
+   "mag": 4.9,
+   "place": "136 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "lat": 52.3676,
+   "lon": 160.2895,
+   "depth": 31.929,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790792479257,
+   "mag": 5.0,
+   "place": "142 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "lat": 52.3167,
+   "lon": 160.3332,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790785772799,
+   "mag": 4.4,
+   "place": "48 km WNW of Luwuk, Indonesia",
+   "lat": -0.7769,
+   "lon": 122.3906,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790769778808,
+   "mag": 4.6,
+   "place": "83 km S of Yonakuni, Japan",
+   "lat": 23.725,
+   "lon": 122.8749,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790767481639,
+   "mag": 4.4,
+   "place": "47 km S of Trà My, Vietnam",
+   "lat": 14.9174,
+   "lon": 108.2955,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790767291407,
+   "mag": 4.5,
+   "place": "271 km S of Dunhuang, China",
+   "lat": 37.7681,
+   "lon": 95.2949,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790765930586,
+   "mag": 5.0,
+   "place": "27 km N of Kupang, Indonesia",
+   "lat": -9.9243,
+   "lon": 123.6462,
+   "depth": 19.368,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790756117486,
+   "mag": 5.1,
+   "place": "121 km S of Kokopo, Papua New Guinea",
+   "lat": -5.435,
+   "lon": 152.1328,
+   "depth": 28.026,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790753942750,
+   "mag": 4.2,
+   "place": "11 km WNW of Ashkāsham, Afghanistan",
+   "lat": 36.734,
+   "lon": 71.4151,
+   "depth": 171.389,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790752036005,
+   "mag": 5.2,
+   "place": "Balleny Islands region",
+   "lat": -63.5619,
+   "lon": 171.414,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790751003339,
+   "mag": 5.0,
+   "place": "83 km NE of Tadine, New Caledonia",
+   "lat": -20.988,
+   "lon": 168.4237,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790745659067,
+   "mag": 4.6,
+   "place": "3 km W of Thívai, Greece",
+   "lat": 38.3276,
+   "lon": 23.2795,
+   "depth": 9.833,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790744424971,
+   "mag": 5.6,
+   "place": "74 km S of Yonakuni, Japan",
+   "lat": 23.8027,
+   "lon": 122.9149,
+   "depth": 10.792,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790743686031,
+   "mag": 5.4,
+   "place": "Balleny Islands region",
+   "lat": -63.0088,
+   "lon": 169.2156,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790741219706,
+   "mag": 4.2,
+   "place": "39 km W of Plan de Ayala, Mexico",
+   "lat": 17.4713,
+   "lon": -93.8603,
+   "depth": 177.736,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790735750369,
+   "mag": 4.5,
+   "place": "112 km SSW of Banda Aceh, Indonesia",
+   "lat": 4.6488,
+   "lon": 94.8515,
+   "depth": 33.873,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790735444716,
+   "mag": 4.5,
+   "place": "104 km SSE of Sarangani, Philippines",
+   "lat": 4.5021,
+   "lon": 125.7472,
+   "depth": 156.847,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790732045751,
+   "mag": 4.8,
+   "place": "18 km SW of Tayaman, Philippines",
+   "lat": 13.0922,
+   "lon": 120.4734,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790731067844,
+   "mag": 4.8,
+   "place": "75 km NE of Tadine, New Caledonia",
+   "lat": -21.0085,
+   "lon": 168.3284,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790727924904,
+   "mag": 4.4,
+   "place": "150 km SW of La Esperanza (El Zapotal), Mexico",
+   "lat": 14.3319,
+   "lon": -93.9639,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790725583167,
+   "mag": 4.4,
+   "place": "27 km ESE of San Jose Village, Northern Mariana Islands",
+   "lat": 14.8879,
+   "lon": 145.8645,
+   "depth": 110.997,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790724037855,
+   "mag": 4.3,
+   "place": "168 km WNW of Tiksi, Russia",
+   "lat": 72.5635,
+   "lon": 124.8598,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790723905135,
+   "mag": 4.3,
+   "place": "74 km NE of Tadine, New Caledonia",
+   "lat": -21.1438,
+   "lon": 168.4578,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790722085254,
+   "mag": 4.3,
+   "place": "106 km SE of Kimbe, Papua New Guinea",
+   "lat": -6.1406,
+   "lon": 150.8926,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790720253171,
+   "mag": 4.6,
+   "place": "Carlsberg Ridge",
+   "lat": -0.9462,
+   "lon": 67.7065,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790718629908,
+   "mag": 4.4,
+   "place": "13 km SSW of Roncesvalles, Colombia",
+   "lat": 3.8893,
+   "lon": -75.634,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790715956370,
+   "mag": 4.2,
+   "place": "6 km WNW of Wauna, Washington",
+   "lat": 47.4003333333333,
+   "lon": -122.722,
+   "depth": 27.92,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790714750983,
+   "mag": 4.7,
+   "place": "49 km N of Dicabisagan, Philippines",
+   "lat": 17.5267,
+   "lon": 122.4136,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790706109888,
+   "mag": 4.1,
+   "place": "92 km NE of San Pedro de Atacama, Chile",
+   "lat": -22.3093,
+   "lon": -67.5824,
+   "depth": 178.025,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790698382568,
+   "mag": 4.7,
+   "place": "50 km N of Fangale’ounga, Tonga",
+   "lat": -19.2971,
+   "lon": -174.2536,
+   "depth": 56.776,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790695878586,
+   "mag": 4.6,
+   "place": "West Chile Rise",
+   "lat": -40.9373,
+   "lon": -91.4145,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790695038167,
+   "mag": 4.8,
+   "place": "South Sandwich Islands region",
+   "lat": -58.7473,
+   "lon": -25.9552,
+   "depth": 114.229,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790692828155,
+   "mag": 4.4,
+   "place": "192 km ESE of Mil’kovo, Russia",
+   "lat": 54.0783,
+   "lon": 161.3866,
+   "depth": 54.014,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790691245529,
+   "mag": 4.9,
+   "place": "61 km NW of Pante Makasar, Timor Leste",
+   "lat": -8.8321,
+   "lon": 123.9679,
+   "depth": 153.006,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790687169941,
+   "mag": 5.5,
+   "place": "southern Mid-Atlantic Ridge",
+   "lat": -35.2758,
+   "lon": -16.0771,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790685635064,
+   "mag": 5.4,
+   "place": "99 km SSE of Pangai, Tonga",
+   "lat": -20.6773,
+   "lon": -174.0813,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790681799240,
+   "mag": 4.8,
+   "place": "97 km W of Petrolia, CA",
+   "lat": 40.4225,
+   "lon": -125.418333333333,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790681268406,
+   "mag": 4.8,
+   "place": "98 km SW of Port-Vila, Vanuatu",
+   "lat": -18.2306,
+   "lon": 167.5446,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790678577409,
+   "mag": 5.0,
+   "place": "77 km ENE of Tadine, New Caledonia",
+   "lat": -21.3447,
+   "lon": 168.5924,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790677477599,
+   "mag": 4.0,
+   "place": "64 km SE of King Cove, Alaska",
+   "lat": 54.66,
+   "lon": -161.5901,
+   "depth": 49.875,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790677334613,
+   "mag": 4.5,
+   "place": "96 km ENE of Alianza Cristiana, Peru",
+   "lat": -3.1213,
+   "lon": -75.6413,
+   "depth": 134.763,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790670116906,
+   "mag": 4.5,
+   "place": "95 km SSW of Ocós, Guatemala",
+   "lat": 13.7623,
+   "lon": -92.6345,
+   "depth": 41.479,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790663929006,
+   "mag": 4.8,
+   "place": "South Sandwich Islands region",
+   "lat": -55.2555,
+   "lon": -28.4628,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790662594063,
+   "mag": 4.4,
+   "place": "102 km E of Miyako, Japan",
+   "lat": 39.6854,
+   "lon": 143.1352,
+   "depth": 36.868,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790655387199,
+   "mag": 4.8,
+   "place": "South Sandwich Islands region",
+   "lat": -55.3157,
+   "lon": -28.2098,
+   "depth": 35.08,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790652234418,
+   "mag": 5.3,
+   "place": "76 km NE of Tadine, New Caledonia",
+   "lat": -21.0716,
+   "lon": 168.4092,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790640703259,
+   "mag": 4.4,
+   "place": "180 km NNE of Caluula, Somalia",
+   "lat": 13.5371,
+   "lon": 51.2043,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790640324143,
+   "mag": 4.5,
+   "place": "169 km SE of Atlasovo, Russia",
+   "lat": 54.5671,
+   "lon": 161.5817,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790638193863,
+   "mag": 4.4,
+   "place": "85 km NE of Ruteng, Indonesia",
+   "lat": -7.9943,
+   "lon": 120.9269,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790634357777,
+   "mag": 4.4,
+   "place": "south of the Fiji Islands",
+   "lat": -25.2061,
+   "lon": 179.9012,
+   "depth": 487.436,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790624707515,
+   "mag": 4.9,
+   "place": "2 km SW of Sakai, Japan",
+   "lat": 36.0809,
+   "lon": 139.7782,
+   "depth": 70.972,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790619644330,
+   "mag": 4.6,
+   "place": "36 km SE of Hualien City, Taiwan",
+   "lat": 23.702,
+   "lon": 121.8063,
+   "depth": 19.011,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790617075108,
+   "mag": 4.8,
+   "place": "155 km NNW of Kilmia, Yemen",
+   "lat": 13.3879,
+   "lon": 51.4935,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790607699183,
+   "mag": 4.9,
+   "place": "124 km SE of Pondaguitan, Philippines",
+   "lat": 5.634,
+   "lon": 127.0338,
+   "depth": 78.202,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790607355260,
+   "mag": 4.2,
+   "place": "7 km SE of Denali National Park, Alaska",
+   "lat": 63.492,
+   "lon": -151.62,
+   "depth": 5,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790606590687,
+   "mag": 4.7,
+   "place": "115 km WSW of Banda Aceh, Indonesia",
+   "lat": 5.2548,
+   "lon": 94.3303,
+   "depth": 45.734,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790606550993,
+   "mag": 4.3,
+   "place": "4 km N of Cepitá, Colombia",
+   "lat": 6.7914,
+   "lon": -72.9801,
+   "depth": 150.603,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790604766221,
+   "mag": 4.3,
+   "place": "69 km NE of Tadine, New Caledonia",
+   "lat": -21.1066,
+   "lon": 168.3561,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790604039304,
+   "mag": 4.3,
+   "place": "Izu Islands, Japan region",
+   "lat": 31.7322,
+   "lon": 138.9275,
+   "depth": 273.951,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790602720679,
+   "mag": 4.9,
+   "place": "20 km NW of Malango, Solomon Islands",
+   "lat": -9.5836,
+   "lon": 159.57,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790601759698,
+   "mag": 5.4,
+   "place": "north of Svalbard",
+   "lat": 82.5871,
+   "lon": -7.4402,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790597664032,
+   "mag": 4.7,
+   "place": "Fiji region",
+   "lat": -20.6932,
+   "lon": -178.4971,
+   "depth": 573.114,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790586819402,
+   "mag": 5.2,
+   "place": "190 km WSW of Port McNeill, Canada",
+   "lat": 50.171,
+   "lon": -129.6785,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790584795313,
+   "mag": 4.3,
+   "place": "26 km WNW of Chaparral, Colombia",
+   "lat": 3.7929,
+   "lon": -75.7141,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790583373363,
+   "mag": 4.7,
+   "place": "65 km E of Pilar, Philippines",
+   "lat": 9.9585,
+   "lon": 126.6861,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790580115131,
+   "mag": 4.4,
+   "place": "20 km SW of El Colomo, Mexico",
+   "lat": 18.9102,
+   "lon": -104.3766,
+   "depth": 51.814,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790577476356,
+   "mag": 4.7,
+   "place": "149 km NE of Hicks Bay, New Zealand",
+   "lat": -36.8177,
+   "lon": 179.6666,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790574329689,
+   "mag": 5.2,
+   "place": "67 km ENE of Tadine, New Caledonia",
+   "lat": -21.2247,
+   "lon": 168.4274,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790574152024,
+   "mag": 4.9,
+   "place": "39 km ENE of Tadine, New Caledonia",
+   "lat": -21.3968,
+   "lon": 168.2294,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790574141379,
+   "mag": 4.6,
+   "place": "63 km ENE of Tadine, New Caledonia",
+   "lat": -21.2372,
+   "lon": 168.3953,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790573288891,
+   "mag": 5.1,
+   "place": "78 km ENE of Tadine, New Caledonia",
+   "lat": -21.2065,
+   "lon": 168.5459,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790570576780,
+   "mag": 4.6,
+   "place": "northwest of the Kuril Islands",
+   "lat": 49.0259,
+   "lon": 151.5708,
+   "depth": 258.706,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790570493467,
+   "mag": 4.9,
+   "place": "South Sandwich Islands region",
+   "lat": -57.6502,
+   "lon": -25.347,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790570481639,
+   "mag": 5.4,
+   "place": "231 km WSW of Port McNeill, Canada",
+   "lat": 50.0527,
+   "lon": -130.2208,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790567024172,
+   "mag": 5.1,
+   "place": "South Sandwich Islands region",
+   "lat": -57.6701,
+   "lon": -25.2785,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790565906893,
+   "mag": 5.3,
+   "place": "60 km NE of Tadine, New Caledonia",
+   "lat": -21.2245,
+   "lon": 168.3545,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790565354201,
+   "mag": 4.7,
+   "place": "59 km NE of Tadine, New Caledonia",
+   "lat": -21.1166,
+   "lon": 168.2188,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790564023974,
+   "mag": 4.9,
+   "place": "195 km WSW of Port McNeill, Canada",
+   "lat": 50.2372,
+   "lon": -129.7765,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790556882901,
+   "mag": 4.9,
+   "place": "40 km W of Palauig, Philippines",
+   "lat": 15.4079,
+   "lon": 119.5249,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790556453215,
+   "mag": 4.8,
+   "place": "78 km E of Tadine, New Caledonia",
+   "lat": -21.448,
+   "lon": 168.6318,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790556017586,
+   "mag": 4.5,
+   "place": "90 km ENE of Tadine, New Caledonia",
+   "lat": -21.3408,
+   "lon": 168.7282,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790555879308,
+   "mag": 4.5,
+   "place": "83 km SE of Ossora, Russia",
+   "lat": 58.6379,
+   "lon": 163.9067,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790555125825,
+   "mag": 4.3,
+   "place": "83 km NE of Tadine, New Caledonia",
+   "lat": -21.05,
+   "lon": 168.4894,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790553348477,
+   "mag": 4.3,
+   "place": "south of the Fiji Islands",
+   "lat": -22.066,
+   "lon": -179.7648,
+   "depth": 596.833,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790549226874,
+   "mag": 4.8,
+   "place": "117 km SSE of Panguna, Papua New Guinea",
+   "lat": -7.3468,
+   "lon": 155.7466,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790548854813,
+   "mag": 4.4,
+   "place": "93 km NE of Tadine, New Caledonia",
+   "lat": -21.0758,
+   "lon": 168.6301,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790546272940,
+   "mag": 4.6,
+   "place": "23 km SW of Sipí, Colombia",
+   "lat": 4.503,
+   "lon": -76.7895,
+   "depth": 71.66,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790545787506,
+   "mag": 4.8,
+   "place": "7 km WSW of Guaymate, Dominican Republic",
+   "lat": 18.5643,
+   "lon": -69.0412,
+   "depth": 113.02,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790543684538,
+   "mag": 4.6,
+   "place": "59 km WNW of Pante Makasar, Timor Leste",
+   "lat": -8.9624,
+   "lon": 123.8981,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790543615077,
+   "mag": 5.0,
+   "place": "South Sandwich Islands region",
+   "lat": -59.1168,
+   "lon": -25.9907,
+   "depth": 117.745,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790542161865,
+   "mag": 4.4,
+   "place": "269 km S of Severo-Kuril’sk, Russia",
+   "lat": 48.2909,
+   "lon": 156.778,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790542160522,
+   "mag": 4.0,
+   "place": "32 km N of Whakatane, New Zealand",
+   "lat": -37.6646,
+   "lon": 177.0077,
+   "depth": 151.349,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790537611936,
+   "mag": 4.1,
+   "place": "Kermadec Islands region",
+   "lat": -31.4255,
+   "lon": -179.8502,
+   "depth": 348.65,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790536930805,
+   "mag": 4.0,
+   "place": "Iceland region",
+   "lat": 68.8489,
+   "lon": -17.176,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790535912429,
+   "mag": 4.6,
+   "place": "102 km ENE of Tadine, New Caledonia",
+   "lat": -21.3015,
+   "lon": 168.8338,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790535343669,
+   "mag": 4.3,
+   "place": "17 km SSE of Chaitén, Chile",
+   "lat": -43.0656,
+   "lon": -72.6484,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790535262598,
+   "mag": 4.0,
+   "place": "Pagan region, Northern Mariana Islands",
+   "lat": 18.4685,
+   "lon": 145.675,
+   "depth": 178.407,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790533798261,
+   "mag": 4.6,
+   "place": "19 km NW of Yongning, China",
+   "lat": 27.9739,
+   "lon": 100.5554,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790527390268,
+   "mag": 5.0,
+   "place": "191 km NW of Oula Xiuma, China",
+   "lat": 35.3861,
+   "lon": 99.5536,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790523664974,
+   "mag": 5.3,
+   "place": "Balleny Islands region",
+   "lat": -62.5354,
+   "lon": 165.9549,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790506627641,
+   "mag": 4.3,
+   "place": "Iceland region",
+   "lat": 68.9242,
+   "lon": -17.2234,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790505121985,
+   "mag": 4.2,
+   "place": "4 km NNE of Mangatainoka, New Zealand",
+   "lat": -40.3738,
+   "lon": 175.8819,
+   "depth": 48.51,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790505026420,
+   "mag": 4.4,
+   "place": "259 km WSW of Adak, Alaska",
+   "lat": 51.2307,
+   "lon": 179.7625,
+   "depth": 18.012,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790503628075,
+   "mag": 4.2,
+   "place": "13 km SSW of Bayaguana, Dominican Republic",
+   "lat": 18.647,
+   "lon": -69.6988,
+   "depth": 98.093,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790499247495,
+   "mag": 4.1,
+   "place": "20 km W of Preston, Nevada",
+   "lat": 38.9229,
+   "lon": -115.2989,
+   "depth": 6,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790495291749,
+   "mag": 4.6,
+   "place": "Rat Islands, Aleutian Islands, Alaska",
+   "lat": 50.9044,
+   "lon": 179.3215,
+   "depth": 46.522,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790492501497,
+   "mag": 4.1,
+   "place": "21 km W of Preston, Nevada",
+   "lat": 38.9319,
+   "lon": -115.3083,
+   "depth": 6,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790485621279,
+   "mag": 4.2,
+   "place": "80 km ENE of Tadine, New Caledonia",
+   "lat": -21.3755,
+   "lon": 168.6348,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790485188847,
+   "mag": 4.9,
+   "place": "159 km ESE of Gizo, Solomon Islands",
+   "lat": -8.8929,
+   "lon": 158.0533,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790482484454,
+   "mag": 4.5,
+   "place": "145 km WNW of Lebu, Chile",
+   "lat": -37.1357,
+   "lon": -75.1898,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790479640796,
+   "mag": 4.2,
+   "place": "114 km S of Mişrātah, Libya",
+   "lat": 31.341,
+   "lon": 15.1559,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790475730562,
+   "mag": 5.1,
+   "place": "90 km ENE of Tadine, New Caledonia",
+   "lat": -21.2857,
+   "lon": 168.7073,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790471905822,
+   "mag": 5.0,
+   "place": "61 km ENE of Tadine, New Caledonia",
+   "lat": -21.4298,
+   "lon": 168.4566,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790469922364,
+   "mag": 4.3,
+   "place": "1 km SSW of Kōzaki, Japan",
+   "lat": 35.8881,
+   "lon": 140.3909,
+   "depth": 76.46,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790459367543,
+   "mag": 4.9,
+   "place": "78 km ESE of Kokopo, Papua New Guinea",
+   "lat": -4.6357,
+   "lon": 152.9096,
+   "depth": 63.571,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790458280667,
+   "mag": 4.0,
+   "place": "81 km SSW of Nikolski, Alaska",
+   "lat": 52.2872,
+   "lon": -169.4239,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790452091708,
+   "mag": 4.4,
+   "place": "59 km W of Ollagüe, Chile",
+   "lat": -21.3183,
+   "lon": -68.82,
+   "depth": 111.572,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790451421041,
+   "mag": 4.9,
+   "place": "53 km NNW of Ruteng, Indonesia",
+   "lat": -8.1482,
+   "lon": 120.3303,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790451235065,
+   "mag": 4.5,
+   "place": "80 km ENE of Tadine, New Caledonia",
+   "lat": -21.3519,
+   "lon": 168.6277,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790447778103,
+   "mag": 4.4,
+   "place": "77 km ENE of Tadine, New Caledonia",
+   "lat": -21.3494,
+   "lon": 168.6006,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790447502676,
+   "mag": 4.7,
+   "place": "15 km WNW of Bowangshan, China",
+   "lat": 28.3378,
+   "lon": 104.8984,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790447123615,
+   "mag": 4.8,
+   "place": "81 km ENE of Tadine, New Caledonia",
+   "lat": -21.3737,
+   "lon": 168.6475,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790445020700,
+   "mag": 4.6,
+   "place": "south of Africa",
+   "lat": -48.6061,
+   "lon": 31.0969,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790443817544,
+   "mag": 4.2,
+   "place": "112 km WSW of Puerto Madero, Mexico",
+   "lat": 14.2867,
+   "lon": -93.3619,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790442117594,
+   "mag": 4.4,
+   "place": "282 km WSW of Adak, Alaska",
+   "lat": 50.9448,
+   "lon": 179.5818,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790440423256,
+   "mag": 5.2,
+   "place": "148 km NW of Kilmia, Yemen",
+   "lat": 13.2872,
+   "lon": 51.4567,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790438808430,
+   "mag": 4.8,
+   "place": "72 km E of Tadine, New Caledonia",
+   "lat": -21.4649,
+   "lon": 168.5787,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790434896315,
+   "mag": 5.0,
+   "place": "78 km ENE of Tadine, New Caledonia",
+   "lat": -21.268,
+   "lon": 168.5731,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790431698875,
+   "mag": 5.6,
+   "place": "72 km ESE of Kokopo, Papua New Guinea",
+   "lat": -4.6288,
+   "lon": 152.8611,
+   "depth": 69.51,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790430529760,
+   "mag": 4.8,
+   "place": "83 km NE of Tadine, New Caledonia",
+   "lat": -21.0512,
+   "lon": 168.4849,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790429895958,
+   "mag": 4.6,
+   "place": "145 km NE of Maumere, Indonesia",
+   "lat": -7.8646,
+   "lon": 123.2938,
+   "depth": 235.082,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790425214463,
+   "mag": 4.5,
+   "place": "98 km NE of Tadine, New Caledonia",
+   "lat": -20.9118,
+   "lon": 168.5452,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790425101450,
+   "mag": 4.5,
+   "place": "77 km ENE of Tadine, New Caledonia",
+   "lat": -21.2449,
+   "lon": 168.5535,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790424889867,
+   "mag": 5.3,
+   "place": "72 km ENE of Tadine, New Caledonia",
+   "lat": -21.2902,
+   "lon": 168.528,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790424860324,
+   "mag": 5.0,
+   "place": "78 km NE of Tadine, New Caledonia",
+   "lat": -21.149,
+   "lon": 168.506,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790424661704,
+   "mag": 4.7,
+   "place": "78 km NE of Tadine, New Caledonia",
+   "lat": -21.1453,
+   "lon": 168.5033,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790422576670,
+   "mag": 4.4,
+   "place": "76 km ENE of Tadine, New Caledonia",
+   "lat": -21.2811,
+   "lon": 168.5661,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790419995187,
+   "mag": 4.7,
+   "place": "North Indian Ocean",
+   "lat": 1.8786,
+   "lon": 89.5213,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790419884949,
+   "mag": 4.6,
+   "place": "86 km ENE of Tadine, New Caledonia",
+   "lat": -21.2217,
+   "lon": 168.6429,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790418066059,
+   "mag": 4.9,
+   "place": "71 km NE of Tadine, New Caledonia",
+   "lat": -21.1642,
+   "lon": 168.4377,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790413830999,
+   "mag": 4.8,
+   "place": "80 km ENE of Tadine, New Caledonia",
+   "lat": -21.1671,
+   "lon": 168.5433,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790413687036,
+   "mag": 4.8,
+   "place": "82 km NE of Tadine, New Caledonia",
+   "lat": -21.0755,
+   "lon": 168.4941,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790413639587,
+   "mag": 4.7,
+   "place": "71 km NE of Tadine, New Caledonia",
+   "lat": -21.1835,
+   "lon": 168.4453,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790412843961,
+   "mag": 4.7,
+   "place": "97 km NE of Tadine, New Caledonia",
+   "lat": -21.0172,
+   "lon": 168.6325,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790411098743,
+   "mag": 5.0,
+   "place": "78 km ENE of Tadine, New Caledonia",
+   "lat": -21.2116,
+   "lon": 168.5478,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790407332908,
+   "mag": 5.0,
+   "place": "84 km ENE of Tadine, New Caledonia",
+   "lat": -21.2249,
+   "lon": 168.614,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790406482558,
+   "mag": 5.1,
+   "place": "68 km NE of Tadine, New Caledonia",
+   "lat": -21.1943,
+   "lon": 168.4225,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790404699029,
+   "mag": 4.6,
+   "place": "25 km W of Roncesvalles, Colombia",
+   "lat": 4.018,
+   "lon": -75.8315,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790401848716,
+   "mag": 5.1,
+   "place": "64 km ENE of Tadine, New Caledonia",
+   "lat": -21.227,
+   "lon": 168.4033,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790391175988,
+   "mag": 4.5,
+   "place": "Iceland region",
+   "lat": 68.8565,
+   "lon": -16.9554,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790387872736,
+   "mag": 4.4,
+   "place": "80 km E of Tadine, New Caledonia",
+   "lat": -21.4167,
+   "lon": 168.6466,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790386279592,
+   "mag": 4.4,
+   "place": "4 km NNE of Uto, Japan",
+   "lat": 32.7187,
+   "lon": 130.6922,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790385435531,
+   "mag": 4.7,
+   "place": "80 km ENE of Tadine, New Caledonia",
+   "lat": -21.2949,
+   "lon": 168.6129,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790385019430,
+   "mag": 5.3,
+   "place": "58 km ENE of Tadine, New Caledonia",
+   "lat": -21.2883,
+   "lon": 168.3721,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790384680881,
+   "mag": 4.9,
+   "place": "87 km ENE of Tadine, New Caledonia",
+   "lat": -21.297,
+   "lon": 168.6801,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790380653361,
+   "mag": 5.0,
+   "place": "15 km NNW of Xunchang, China",
+   "lat": 28.5792,
+   "lon": 104.6428,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790380355158,
+   "mag": 5.4,
+   "place": "69 km ENE of Tadine, New Caledonia",
+   "lat": -21.2023,
+   "lon": 168.4346,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790379581392,
+   "mag": 5.5,
+   "place": "61 km ENE of Tadine, New Caledonia",
+   "lat": -21.3748,
+   "lon": 168.4446,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790379164392,
+   "mag": 4.9,
+   "place": "78 km NE of Tadine, New Caledonia",
+   "lat": -21.1532,
+   "lon": 168.5092,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790377110213,
+   "mag": 4.8,
+   "place": "84 km ENE of Tadine, New Caledonia",
+   "lat": -21.2156,
+   "lon": 168.6112,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790374054791,
+   "mag": 5.1,
+   "place": "78 km ENE of Tadine, New Caledonia",
+   "lat": -21.2728,
+   "lon": 168.5744,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790371383309,
+   "mag": 6.6,
+   "place": "80 km ENE of Tadine, New Caledonia",
+   "lat": -21.2982,
+   "lon": 168.61,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790370087262,
+   "mag": 5.0,
+   "place": "13 km N of Xunchang, China",
+   "lat": 28.5744,
+   "lon": 104.7032,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790369012619,
+   "mag": 4.5,
+   "place": "south of the Fiji Islands",
+   "lat": -24.0533,
+   "lon": -179.9919,
+   "depth": 482.813,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790368869329,
+   "mag": 4.6,
+   "place": "144 km SE of Lata, Solomon Islands",
+   "lat": -11.7022,
+   "lon": 166.6797,
+   "depth": 223.583,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790365169552,
+   "mag": 4.8,
+   "place": "42 km N of Ruteng, Indonesia",
+   "lat": -8.2281,
+   "lon": 120.4296,
+   "depth": 14.458,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790363693531,
+   "mag": 4.7,
+   "place": "36 km ENE of Kunigami, Japan",
+   "lat": 26.8398,
+   "lon": 128.5171,
+   "depth": 14.142,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790350147875,
+   "mag": 5.2,
+   "place": "69 km SW of San Antonio, Chile",
+   "lat": -33.9903,
+   "lon": -72.1838,
+   "depth": 18.7,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790348991296,
+   "mag": 4.4,
+   "place": "Pagan region, Northern Mariana Islands",
+   "lat": 18.2589,
+   "lon": 146.049,
+   "depth": 109.354,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790344047392,
+   "mag": 4.7,
+   "place": "71 km SW of Labuan, Indonesia",
+   "lat": -6.8071,
+   "lon": 105.3486,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790339836665,
+   "mag": 4.9,
+   "place": "Drake Passage",
+   "lat": -59.849,
+   "lon": -61.371,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790337201312,
+   "mag": 4.5,
+   "place": "72 km E of Thang, India",
+   "lat": 34.8425,
+   "lon": 77.5756,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790334735838,
+   "mag": 5.3,
+   "place": "Vanuatu region",
+   "lat": -21.8904,
+   "lon": 174.0792,
+   "depth": 23.966,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790321451563,
+   "mag": 4.2,
+   "place": "51 km NNW of Te Anau, New Zealand",
+   "lat": -45.0264,
+   "lon": 167.3555,
+   "depth": 107.746,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790320780131,
+   "mag": 4.4,
+   "place": "27 km ENE of La Cumbre, Colombia",
+   "lat": 3.8547,
+   "lon": -75.8157,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790320702835,
+   "mag": 4.1,
+   "place": "6 km E of Kariwa, Japan",
+   "lat": 37.4345,
+   "lon": 138.6909,
+   "depth": 167.123,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790314550000,
+   "mag": 4.3,
+   "place": "52 km NNW of Khandūd, Afghanistan",
+   "lat": 37.4128,
+   "lon": 72.1784,
+   "depth": 212.621,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790310460435,
+   "mag": 5.0,
+   "place": "124 km N of Metinaro, Timor Leste",
+   "lat": -7.4036,
+   "lon": 125.6985,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790310390062,
+   "mag": 4.4,
+   "place": "32 km SSW of Huacho, Peru",
+   "lat": -11.3812,
+   "lon": -77.721,
+   "depth": 45.943,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790308626267,
+   "mag": 4.2,
+   "place": "18 km WNW of Chaparral, Colombia",
+   "lat": 3.7579,
+   "lon": -75.6505,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790304151424,
+   "mag": 4.1,
+   "place": "16 km SSW of Vardane, Russia",
+   "lat": 43.5977,
+   "lon": 39.4641,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790297827267,
+   "mag": 4.5,
+   "place": "39 km WSW of Sipí, Colombia",
+   "lat": 4.5217,
+   "lon": -76.9788,
+   "depth": 52.219,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790292628053,
+   "mag": 5.3,
+   "place": "72 km NW of Finschhafen, Papua New Guinea",
+   "lat": -6.0863,
+   "lon": 147.3935,
+   "depth": 53.586,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790291974354,
+   "mag": 4.2,
+   "place": "63 km WSW of Andacollo, Argentina",
+   "lat": -37.4621,
+   "lon": -71.293,
+   "depth": 174.336,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790288579185,
+   "mag": 4.9,
+   "place": "Kermadec Islands, New Zealand",
+   "lat": -29.4432,
+   "lon": -177.6601,
+   "depth": 48.811,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790282905498,
+   "mag": 4.3,
+   "place": "35 km SSW of Jucuarán, El Salvador",
+   "lat": 12.9448,
+   "lon": -88.3466,
+   "depth": 70.193,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790280326333,
+   "mag": 4.6,
+   "place": "156 km NW of Ternate, Indonesia",
+   "lat": 1.8906,
+   "lon": 126.5037,
+   "depth": 52.325,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790272848142,
+   "mag": 5.1,
+   "place": "33 km S of Kokopo, Papua New Guinea",
+   "lat": -4.6457,
+   "lon": 152.2545,
+   "depth": 100.83,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790270074608,
+   "mag": 4.1,
+   "place": "25 km NE of La Cumbre, Colombia",
+   "lat": 3.896,
+   "lon": -75.8681,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790268391643,
+   "mag": 4.6,
+   "place": "23 km NNW of Rioblanco, Colombia",
+   "lat": 3.7112,
+   "lon": -75.7489,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790267281662,
+   "mag": 4.5,
+   "place": "108 km SW of Abepura, Indonesia",
+   "lat": -3.3098,
+   "lon": 139.9601,
+   "depth": 83.261,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790265164415,
+   "mag": 4.1,
+   "place": "17 km NE of Hihifo, Tonga",
+   "lat": -15.8584,
+   "lon": -173.6714,
+   "depth": 99.241,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790264246218,
+   "mag": 4.5,
+   "place": "57 km S of Buala, Solomon Islands",
+   "lat": -8.658,
+   "lon": 159.5421,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790258562293,
+   "mag": 4.5,
+   "place": "106 km SW of Puerto Madero, Mexico",
+   "lat": 14.1475,
+   "lon": -93.213,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790252998824,
+   "mag": 5.2,
+   "place": "139 km SW of Kokopo, Papua New Guinea",
+   "lat": -5.3396,
+   "lon": 151.4915,
+   "depth": 95.598,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790248104838,
+   "mag": 4.9,
+   "place": "Kermadec Islands, New Zealand",
+   "lat": -30.2344,
+   "lon": -177.8691,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790239455857,
+   "mag": 4.3,
+   "place": "191 km SSW of Severo-Kuril’sk, Russia",
+   "lat": 49.1727,
+   "lon": 154.8382,
+   "depth": 79.83,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790238447340,
+   "mag": 4.4,
+   "place": "10 km S of Hasaki, Japan",
+   "lat": 35.6375,
+   "lon": 140.8168,
+   "depth": 51.549,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790235658085,
+   "mag": 5.1,
+   "place": "20 km SW of Hilvan, Turkey",
+   "lat": 37.4638,
+   "lon": 38.7755,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790234538558,
+   "mag": 4.1,
+   "place": "145 km S of False Pass, Alaska",
+   "lat": 53.5607,
+   "lon": -163.6974,
+   "depth": 37.057,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790233624384,
+   "mag": 4.4,
+   "place": "57 km WSW of San Antonio, Chile",
+   "lat": -33.8528,
+   "lon": -72.1461,
+   "depth": 26.66,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790220626013,
+   "mag": 4.5,
+   "place": "31 km NNW of Komodo, Indonesia",
+   "lat": -8.33,
+   "lon": 119.3665,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790211230791,
+   "mag": 4.3,
+   "place": "282 km WNW of Neiafu, Tonga",
+   "lat": -17.2621,
+   "lon": -176.2226,
+   "depth": 338.174,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790209598374,
+   "mag": 4.6,
+   "place": "223 km WNW of Abepura, Indonesia",
+   "lat": -1.8133,
+   "lon": 138.7809,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790202680377,
+   "mag": 4.5,
+   "place": "50 km E of Finschhafen, Papua New Guinea",
+   "lat": -6.6396,
+   "lon": 148.2939,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790199324892,
+   "mag": 4.4,
+   "place": "36 km NNE of Kuji, Japan",
+   "lat": 40.4629,
+   "lon": 141.994,
+   "depth": 69.964,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790198968362,
+   "mag": 4.1,
+   "place": "1 km WNW of Llano Suchiapa, Mexico",
+   "lat": 16.8708,
+   "lon": -95.0705,
+   "depth": 91.422,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790194184688,
+   "mag": 4.6,
+   "place": "9 km S of San Antonio, Colombia",
+   "lat": 3.8318,
+   "lon": -75.4702,
+   "depth": 74.535,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790185566554,
+   "mag": 5.0,
+   "place": "139 km NNE of Ba, Fiji",
+   "lat": -16.3155,
+   "lon": 178.0237,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790184032721,
+   "mag": 4.9,
+   "place": "193 km SE of Mata-Utu, Wallis and Futuna",
+   "lat": -14.6397,
+   "lon": -175.0529,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790182117534,
+   "mag": 4.6,
+   "place": "64 km WNW of San Antonio de los Cobres, Argentina",
+   "lat": -24.0947,
+   "lon": -66.9376,
+   "depth": 188.827,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790181392521,
+   "mag": 4.4,
+   "place": "197 km N of Fais, Micronesia",
+   "lat": 11.5503,
+   "lon": 140.6463,
+   "depth": 54.289,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790179112927,
+   "mag": 4.4,
+   "place": "132 km SSW of Merizo Village, Guam",
+   "lat": 12.1231,
+   "lon": 144.3018,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790176881433,
+   "mag": 4.4,
+   "place": "62 km ENE of Shikotan, Russia",
+   "lat": 43.949,
+   "lon": 147.4706,
+   "depth": 58.311,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790174738284,
+   "mag": 4.6,
+   "place": "south of the Fiji Islands",
+   "lat": -23.9074,
+   "lon": 178.9955,
+   "depth": 548.399,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790174462688,
+   "mag": 5.7,
+   "place": "197 km NW of Hihifo, Tonga",
+   "lat": -14.8019,
+   "lon": -175.1949,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790173172083,
+   "mag": 4.2,
+   "place": "20 km W of Luzon, Philippines",
+   "lat": 6.4935,
+   "lon": 125.9073,
+   "depth": 148.83,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790168511754,
+   "mag": 5.0,
+   "place": "Mariana Islands region",
+   "lat": 21.6538,
+   "lon": 143.0012,
+   "depth": 306.98,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790166200274,
+   "mag": 4.6,
+   "place": "106 km WNW of Ternate, Indonesia",
+   "lat": 1.217,
+   "lon": 126.5263,
+   "depth": 48.462,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790159585103,
+   "mag": 4.4,
+   "place": "Socotra region",
+   "lat": 13.8587,
+   "lon": 56.8032,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790155274600,
+   "mag": 5.3,
+   "place": "51 km WSW of Arauco, Argentina",
+   "lat": -28.7298,
+   "lon": -67.2912,
+   "depth": 121.534,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790154253285,
+   "mag": 4.2,
+   "place": "17 km SW of Roncesvalles, Colombia",
+   "lat": 3.9146,
+   "lon": -75.7321,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790152918018,
+   "mag": 4.9,
+   "place": "Scotia Sea",
+   "lat": -60.2661,
+   "lon": -47.6004,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790148984790,
+   "mag": 4.9,
+   "place": "southern East Pacific Rise",
+   "lat": -35.0606,
+   "lon": -107.0125,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790142371056,
+   "mag": 4.7,
+   "place": "30 km SE of Khorugh, Tajikistan",
+   "lat": 37.2772,
+   "lon": 71.768,
+   "depth": 141.19,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790138800514,
+   "mag": 4.2,
+   "place": "25 km SSW of Roncesvalles, Colombia",
+   "lat": 3.8154,
+   "lon": -75.7193,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790138196621,
+   "mag": 4.2,
+   "place": "26 km NNW of Rioblanco, Colombia",
+   "lat": 3.7317,
+   "lon": -75.7776,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790135526685,
+   "mag": 4.6,
+   "place": "South Sandwich Islands region",
+   "lat": -57.7093,
+   "lon": -25.5725,
+   "depth": 29.227,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790132828150,
+   "mag": 4.3,
+   "place": "36 km NNW of La Serena, Chile",
+   "lat": -29.6204,
+   "lon": -71.4313,
+   "depth": 60.405,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790131654663,
+   "mag": 4.1,
+   "place": "151 km SSE of Amahai, Indonesia",
+   "lat": -4.5474,
+   "lon": 129.5608,
+   "depth": 173.637,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790128963786,
+   "mag": 4.4,
+   "place": "59 km NE of Ruteng, Indonesia",
+   "lat": -8.1714,
+   "lon": 120.7818,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790127855112,
+   "mag": 4.4,
+   "place": "Kuril Islands",
+   "lat": 46.8379,
+   "lon": 153.0445,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790124254951,
+   "mag": 4.3,
+   "place": "56 km SW of Borūjen, Iran",
+   "lat": 31.5442,
+   "lon": 50.9455,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790123403268,
+   "mag": 4.5,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 30.2005,
+   "lon": -42.0943,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790119804890,
+   "mag": 4.5,
+   "place": "South Sandwich Islands region",
+   "lat": -57.6506,
+   "lon": -25.7932,
+   "depth": 74.851,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790116059202,
+   "mag": 4.5,
+   "place": "71 km SW of Labuan, Indonesia",
+   "lat": -6.9129,
+   "lon": 105.4674,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790115146626,
+   "mag": 4.6,
+   "place": "25 km WSW of Roncesvalles, Colombia",
+   "lat": 3.9539,
+   "lon": -75.8291,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790109283245,
+   "mag": 4.7,
+   "place": "19 km ENE of Union, Philippines",
+   "lat": 9.7992,
+   "lon": 126.285,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790108923916,
+   "mag": 4.4,
+   "place": "4 km NE of Polkowice, Poland",
+   "lat": 51.5331,
+   "lon": 16.1149,
+   "depth": 5,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790107909199,
+   "mag": 5.0,
+   "place": "47 km NW of Houma, Tonga",
+   "lat": -20.8795,
+   "lon": -175.6376,
+   "depth": 94.085,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790102914683,
+   "mag": 4.3,
+   "place": "south of the Fiji Islands",
+   "lat": -25.1618,
+   "lon": -178.5945,
+   "depth": 407.569,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790093349440,
+   "mag": 4.5,
+   "place": "51 km W of Kuqa, China",
+   "lat": 41.7997,
+   "lon": 82.3165,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790085375091,
+   "mag": 4.6,
+   "place": "37 km SE of Severo-Kuril’sk, Russia",
+   "lat": 50.4343,
+   "lon": 156.4937,
+   "depth": 83.948,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790084899982,
+   "mag": 4.4,
+   "place": "115 km ENE of Miyako, Japan",
+   "lat": 39.9178,
+   "lon": 143.248,
+   "depth": 38.179,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790077425547,
+   "mag": 4.7,
+   "place": "7 km WNW of La Gomera, Guatemala",
+   "lat": 14.113,
+   "lon": -91.1165,
+   "depth": 88.793,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790077032130,
+   "mag": 4.4,
+   "place": "121 km E of Miyako, Japan",
+   "lat": 39.6629,
+   "lon": 143.3539,
+   "depth": 25.669,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790076581886,
+   "mag": 4.4,
+   "place": "38 km S of Jurm, Afghanistan",
+   "lat": 36.5213,
+   "lon": 70.898,
+   "depth": 192.749,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790073982312,
+   "mag": 5.1,
+   "place": "88 km NNW of Uken, Japan",
+   "lat": 29.0367,
+   "lon": 128.8944,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790073522183,
+   "mag": 4.1,
+   "place": "25 km SSW of Roncesvalles, Colombia",
+   "lat": 3.8183,
+   "lon": -75.7321,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790073019045,
+   "mag": 4.6,
+   "place": "296 km S of Ambon, Indonesia",
+   "lat": -6.3408,
+   "lon": 128.6303,
+   "depth": 295.618,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790071231232,
+   "mag": 4.3,
+   "place": "south of the Fiji Islands",
+   "lat": -26.3979,
+   "lon": -179.3736,
+   "depth": 431.374,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790070582085,
+   "mag": 4.4,
+   "place": "12 km SSW of Dykanka, Ukraine",
+   "lat": 49.7217,
+   "lon": 34.4683,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790069710144,
+   "mag": 4.3,
+   "place": "58 km NNE of Calama, Chile",
+   "lat": -21.9846,
+   "lon": -68.6595,
+   "depth": 110.957,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790059689705,
+   "mag": 4.6,
+   "place": "19 km ENE of Nailong, Philippines",
+   "lat": 11.0957,
+   "lon": 124.2096,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790057470037,
+   "mag": 4.9,
+   "place": "Volcano Islands, Japan region",
+   "lat": 23.003,
+   "lon": 142.3395,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790055093019,
+   "mag": 4.0,
+   "place": "282 km S of Alo, Wallis and Futuna",
+   "lat": -16.8256,
+   "lon": -177.6628,
+   "depth": 428.123,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790054304687,
+   "mag": 5.0,
+   "place": "Volcano Islands, Japan region",
+   "lat": 23.1331,
+   "lon": 142.4369,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790048185949,
+   "mag": 4.7,
+   "place": "54 km NNW of Ende, Indonesia",
+   "lat": -8.3909,
+   "lon": 121.4677,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790035684727,
+   "mag": 4.8,
+   "place": "67 km N of Claveria, Philippines",
+   "lat": 19.2155,
+   "lon": 121.0898,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790035634638,
+   "mag": 4.2,
+   "place": "36 km S of Jurm, Afghanistan",
+   "lat": 36.5406,
+   "lon": 70.7921,
+   "depth": 194.318,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790034493188,
+   "mag": 5.3,
+   "place": "96 km S of Sarangani, Philippines",
+   "lat": 4.5364,
+   "lon": 125.3444,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790032533754,
+   "mag": 4.4,
+   "place": "23 km SSW of Roncesvalles, Colombia",
+   "lat": 3.8161,
+   "lon": -75.6817,
+   "depth": 13.28,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790031501971,
+   "mag": 4.2,
+   "place": "2 km E of Roncesvalles, Colombia",
+   "lat": 4.0089,
+   "lon": -75.5843,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790029799302,
+   "mag": 4.5,
+   "place": "91 km E of Namie, Japan",
+   "lat": 37.5254,
+   "lon": 142.0357,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790028115964,
+   "mag": 4.4,
+   "place": "103 km SW of Brisas Barra de Suchiate, Mexico",
+   "lat": 13.8129,
+   "lon": -92.8335,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790026624841,
+   "mag": 5.0,
+   "place": "South Sandwich Islands region",
+   "lat": -56.5177,
+   "lon": -24.1611,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790023995330,
+   "mag": 4.4,
+   "place": "Fiji region",
+   "lat": -19.1674,
+   "lon": -177.5914,
+   "depth": 583.701,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790022872515,
+   "mag": 4.6,
+   "place": "Kermadec Islands region",
+   "lat": -28.701,
+   "lon": -176.4408,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790016524872,
+   "mag": 4.5,
+   "place": "1 km SE of San Antonio, Colombia",
+   "lat": 3.9032,
+   "lon": -75.4687,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790012322560,
+   "mag": 4.5,
+   "place": "116 km SE of Ollagüe, Chile",
+   "lat": -22.0428,
+   "lon": -67.5392,
+   "depth": 193.19,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790012016265,
+   "mag": 4.2,
+   "place": "231 km SW of Merizo Village, Guam",
+   "lat": 11.6894,
+   "lon": 143.2666,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790011366683,
+   "mag": 4.2,
+   "place": "Fiji region",
+   "lat": -18.8082,
+   "lon": -177.4321,
+   "depth": 411.504,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790007800229,
+   "mag": 4.3,
+   "place": "20 km SSW of Roncesvalles, Colombia",
+   "lat": 3.8443,
+   "lon": -75.6871,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1790006180800,
+   "mag": 4.5,
+   "place": "Izu Islands, Japan region",
+   "lat": 31.8597,
+   "lon": 142.3866,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789999103480,
+   "mag": 4.2,
+   "place": "153 km N of Agats, Indonesia",
+   "lat": -4.1726,
+   "lon": 137.9294,
+   "depth": 138.538,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789997912301,
+   "mag": 4.7,
+   "place": "40 km E of Nobeoka, Japan",
+   "lat": 32.5581,
+   "lon": 132.0918,
+   "depth": 46.166,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789993025292,
+   "mag": 4.7,
+   "place": "76 km W of Ollagüe, Chile",
+   "lat": -21.2643,
+   "lon": -68.9887,
+   "depth": 121.183,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789991308996,
+   "mag": 5.2,
+   "place": "167 km WNW of Mejillones, Chile",
+   "lat": -22.3643,
+   "lon": -71.8678,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789988558555,
+   "mag": 4.2,
+   "place": "15 km SW of El Ramal (Porvenir), Mexico",
+   "lat": 15.7541,
+   "lon": -93.0352,
+   "depth": 142.841,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789987696231,
+   "mag": 4.7,
+   "place": "95 km ENE of Khorugh, Tajikistan",
+   "lat": 37.9169,
+   "lon": 72.4916,
+   "depth": 129.316,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789982622552,
+   "mag": 4.0,
+   "place": "9 km WNW of Solway, New Zealand",
+   "lat": -40.9249,
+   "lon": 175.51,
+   "depth": 26.042,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789976140400,
+   "mag": 4.2,
+   "place": "245 km E of Levuka, Fiji",
+   "lat": -17.9326,
+   "lon": -178.3723,
+   "depth": 533.686,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789975867967,
+   "mag": 5.0,
+   "place": "34 km WNW of Luwuk, Indonesia",
+   "lat": -0.8563,
+   "lon": 122.4959,
+   "depth": 9.863,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789964920661,
+   "mag": 4.7,
+   "place": "156 km NNW of Hicks Bay, New Zealand",
+   "lat": -36.2456,
+   "lon": 177.7978,
+   "depth": 213.01,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789963104483,
+   "mag": 4.5,
+   "place": "4 km W of Victor Raul, Peru",
+   "lat": -8.397,
+   "lon": -78.8646,
+   "depth": 73.088,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789959562004,
+   "mag": 4.4,
+   "place": "203 km NW of Oula Xiuma, China",
+   "lat": 35.468,
+   "lon": 99.4691,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789955876096,
+   "mag": 4.1,
+   "place": "236 km ESE of Makarov, Russia",
+   "lat": 48.1117,
+   "lon": 145.8742,
+   "depth": 493.918,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789954896445,
+   "mag": 5.0,
+   "place": "35 km NNE of Ruteng, Indonesia",
+   "lat": -8.3118,
+   "lon": 120.5899,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789952853402,
+   "mag": 4.3,
+   "place": "11 km ENE of Chinchaypujio, Peru",
+   "lat": -13.5811,
+   "lon": -72.1402,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789952524084,
+   "mag": 4.9,
+   "place": "25 km NNW of Andırın, Turkey",
+   "lat": 37.7931,
+   "lon": 36.261,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789949319895,
+   "mag": 4.6,
+   "place": "54 km S of Sarangani, Philippines",
+   "lat": 4.9141,
+   "lon": 125.3922,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789947406916,
+   "mag": 4.6,
+   "place": "east of the South Sandwich Islands",
+   "lat": -58.8153,
+   "lon": -14.8256,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789946737454,
+   "mag": 4.6,
+   "place": "26 km SSW of Shikotan, Russia",
+   "lat": 43.596,
+   "lon": 146.5523,
+   "depth": 57.31,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789944680032,
+   "mag": 5.0,
+   "place": "201 km SSE of Lata, Solomon Islands",
+   "lat": -12.4424,
+   "lon": 166.4026,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789942199182,
+   "mag": 4.9,
+   "place": "southeast of the Loyalty Islands",
+   "lat": -23.0473,
+   "lon": 171.7522,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789938380169,
+   "mag": 5.0,
+   "place": "244 km SSE of False Pass, Alaska",
+   "lat": 52.7316,
+   "lon": -162.4841,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789937677205,
+   "mag": 5.5,
+   "place": "south of Africa",
+   "lat": -48.4518,
+   "lon": 31.2519,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789936880572,
+   "mag": 4.5,
+   "place": "41 km ESE of Khuzdar, Pakistan",
+   "lat": 27.6892,
+   "lon": 67.0066,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789926693268,
+   "mag": 4.4,
+   "place": "74 km SSW of Lembar, Indonesia",
+   "lat": -9.3228,
+   "lon": 115.7528,
+   "depth": 79.43,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789925962762,
+   "mag": 4.2,
+   "place": "Pagan region, Northern Mariana Islands",
+   "lat": 18.6185,
+   "lon": 145.5524,
+   "depth": 146.59,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789924626405,
+   "mag": 4.3,
+   "place": "128 km SW of Hihifo, Tonga",
+   "lat": -16.7758,
+   "lon": -174.6407,
+   "depth": 168.23,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789918766574,
+   "mag": 4.6,
+   "place": "178 km NNE of Lospalos, Timor Leste",
+   "lat": -6.9664,
+   "lon": 127.4259,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789918673357,
+   "mag": 4.6,
+   "place": "2 km S of Buenavista, Philippines",
+   "lat": 9.0946,
+   "lon": 126.1574,
+   "depth": 87.203,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789918430990,
+   "mag": 4.5,
+   "place": "280 km WNW of Houma, Tonga",
+   "lat": -20.3729,
+   "lon": -177.8624,
+   "depth": 513.308,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789915406595,
+   "mag": 4.1,
+   "place": "30 km S of Merizo Village, Guam",
+   "lat": 12.9922,
+   "lon": 144.648,
+   "depth": 56.166,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789912547125,
+   "mag": 4.6,
+   "place": "102 km WSW of Nikolski, Alaska",
+   "lat": 52.7501,
+   "lon": -170.3466,
+   "depth": 87.277,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789912515584,
+   "mag": 4.6,
+   "place": "38 km W of San Pedro de Atacama, Chile",
+   "lat": -22.9629,
+   "lon": -68.5704,
+   "depth": 110.65,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789912496985,
+   "mag": 4.7,
+   "place": "58 km SE of Shima, Japan",
+   "lat": 33.9889,
+   "lon": 137.3197,
+   "depth": 357.877,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789909245411,
+   "mag": 5.2,
+   "place": "104 km W of Hihifo, Tonga",
+   "lat": -15.8731,
+   "lon": -174.7672,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789908353415,
+   "mag": 5.4,
+   "place": "68 km NNE of Kainantu, Papua New Guinea",
+   "lat": -5.7711,
+   "lon": 146.2041,
+   "depth": 116.019,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789907062144,
+   "mag": 4.8,
+   "place": "92 km W of Lata, Solomon Islands",
+   "lat": -10.6446,
+   "lon": 164.9562,
+   "depth": 33.9,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789904605187,
+   "mag": 4.4,
+   "place": "Volcano Islands, Japan region",
+   "lat": 25.0379,
+   "lon": 141.1682,
+   "depth": 162.51,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789895855624,
+   "mag": 6.4,
+   "place": "49 km NNE of Kainantu, Papua New Guinea",
+   "lat": -5.9021,
+   "lon": 146.0922,
+   "depth": 104.329,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789895123416,
+   "mag": 4.4,
+   "place": "115 km WSW of Gorontalo, Indonesia",
+   "lat": 0.1391,
+   "lon": 122.1049,
+   "depth": 197.143,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789894074359,
+   "mag": 5.3,
+   "place": "61 km WNW of Cafayate, Argentina",
+   "lat": -25.958,
+   "lon": -66.5832,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789889578042,
+   "mag": 4.6,
+   "place": "94 km ESE of Yigo Village, Guam",
+   "lat": 13.2388,
+   "lon": 145.7099,
+   "depth": 22.894,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789889302963,
+   "mag": 5.1,
+   "place": "17 km WNW of Naze, Japan",
+   "lat": 28.4442,
+   "lon": 129.3273,
+   "depth": 68.899,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789887493460,
+   "mag": 4.4,
+   "place": "Kermadec Islands, New Zealand",
+   "lat": -30.3693,
+   "lon": -177.9563,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789886877789,
+   "mag": 4.9,
+   "place": "99 km ESE of Yigo Village, Guam",
+   "lat": 13.2611,
+   "lon": 145.7678,
+   "depth": 16.578,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789885914082,
+   "mag": 4.1,
+   "place": "29 km ESE of Kichera, Russia",
+   "lat": 55.814,
+   "lon": 110.5119,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789885807316,
+   "mag": 4.3,
+   "place": "Fiji region",
+   "lat": -19.2217,
+   "lon": -177.6569,
+   "depth": 578.701,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789880823090,
+   "mag": 5.0,
+   "place": "78 km W of Hihifo, Tonga",
+   "lat": -15.9518,
+   "lon": -174.5258,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789875804202,
+   "mag": 5.3,
+   "place": "120 km ESE of Yigo Village, Guam",
+   "lat": 13.0833,
+   "lon": 145.9048,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789875572208,
+   "mag": 4.1,
+   "place": "298 km NW of Qamdo, China",
+   "lat": 33.3717,
+   "lon": 95.4277,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789872609824,
+   "mag": 4.2,
+   "place": "Vanuatu region",
+   "lat": -14.5749,
+   "lon": 170.4038,
+   "depth": 665.057,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789872261505,
+   "mag": 4.5,
+   "place": "56 km ENE of Sainte-Marie, Martinique",
+   "lat": 15.0645,
+   "lon": -60.5545,
+   "depth": 53.782,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789867822221,
+   "mag": 4.4,
+   "place": "Reykjanes Ridge",
+   "lat": 57.2155,
+   "lon": -33.8175,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789865894450,
+   "mag": 5.3,
+   "place": "Reykjanes Ridge",
+   "lat": 57.0167,
+   "lon": -33.5695,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789864401352,
+   "mag": 4.8,
+   "place": "85 km W of Hihifo, Tonga",
+   "lat": -15.9521,
+   "lon": -174.5969,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789862046366,
+   "mag": 4.2,
+   "place": "113 km NNE of Lospalos, Timor Leste",
+   "lat": -7.5851,
+   "lon": 127.4122,
+   "depth": 151.002,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789860015326,
+   "mag": 4.3,
+   "place": "23 km S of Sipí, Colombia",
+   "lat": 4.4429,
+   "lon": -76.6617,
+   "depth": 78.959,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789858416892,
+   "mag": 4.3,
+   "place": "1 km ENE of General Mosconi, Argentina",
+   "lat": -22.5879,
+   "lon": -63.7985,
+   "depth": 532.877,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789854290579,
+   "mag": 4.1,
+   "place": "246 km N of Likisá, Timor Leste",
+   "lat": -6.3951,
+   "lon": 124.9233,
+   "depth": 548.872,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789851331546,
+   "mag": 4.4,
+   "place": "36 km N of Malfa, Italy",
+   "lat": 38.9023,
+   "lon": 14.7957,
+   "depth": 270.169,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789849482324,
+   "mag": 5.3,
+   "place": "Reykjanes Ridge",
+   "lat": 57.1264,
+   "lon": -33.4238,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789849443799,
+   "mag": 4.1,
+   "place": "Reykjanes Ridge",
+   "lat": 57.1583,
+   "lon": -33.4809,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789833234494,
+   "mag": 4.5,
+   "place": "75 km SE of Kuqa, China",
+   "lat": 41.1968,
+   "lon": 83.518,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789826160869,
+   "mag": 5.1,
+   "place": "67 km NE of Ruteng, Indonesia",
+   "lat": -8.1668,
+   "lon": 120.8819,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789825475732,
+   "mag": 4.8,
+   "place": "29 km WSW of Sipí, Colombia",
+   "lat": 4.5179,
+   "lon": -76.8729,
+   "depth": 58.204,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789824303351,
+   "mag": 4.4,
+   "place": "34 km NW of Coquimbo, Chile",
+   "lat": -29.7229,
+   "lon": -71.5754,
+   "depth": 39.048,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789821843379,
+   "mag": 4.0,
+   "place": "85 km SSW of Nikolski, Alaska",
+   "lat": 52.2629,
+   "lon": -169.4516,
+   "depth": 37.555,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789820394779,
+   "mag": 4.5,
+   "place": "269 km NNW of Dêqên, China",
+   "lat": 32.0205,
+   "lon": 89.2208,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789819632229,
+   "mag": 4.7,
+   "place": "26 km NNW of Ushibukamachi, Japan",
+   "lat": 32.4073,
+   "lon": 129.8761,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789818890192,
+   "mag": 4.3,
+   "place": "148 km SSW of Hihifo, Tonga",
+   "lat": -17.1516,
+   "lon": -174.4227,
+   "depth": 172.322,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789813877203,
+   "mag": 4.8,
+   "place": "8 km WSW of Mongar, Bhutan",
+   "lat": 27.2385,
+   "lon": 91.1652,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789811997562,
+   "mag": 5.0,
+   "place": "South Sandwich Islands region",
+   "lat": -55.5609,
+   "lon": -28.1387,
+   "depth": 58.01,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789811762123,
+   "mag": 4.4,
+   "place": "6 km NNE of Límni, Greece",
+   "lat": 38.8152,
+   "lon": 23.3491,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789810444631,
+   "mag": 4.8,
+   "place": "269 km E of Dolinsk, Russia",
+   "lat": 47.4404,
+   "lon": 146.3571,
+   "depth": 395.036,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789807671187,
+   "mag": 4.0,
+   "place": "166 km SW of Nikolski, Alaska",
+   "lat": 52.026,
+   "lon": -170.799,
+   "depth": 18.5,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789807664610,
+   "mag": 4.8,
+   "place": "152 km S of Lata, Solomon Islands",
+   "lat": -12.0883,
+   "lon": 165.9791,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789803865478,
+   "mag": 4.8,
+   "place": "210 km W of Abepura, Indonesia",
+   "lat": -2.5871,
+   "lon": 138.7377,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789801947058,
+   "mag": 4.9,
+   "place": "117 km NW of Barranca, Peru",
+   "lat": -4.0134,
+   "lon": -77.349,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789801703856,
+   "mag": 4.6,
+   "place": "57 km ESE of Koseda, Japan",
+   "lat": 30.1668,
+   "lon": 131.1901,
+   "depth": 38.536,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789794108911,
+   "mag": 4.3,
+   "place": "29 km SSW of Sipí, Colombia",
+   "lat": 4.415,
+   "lon": -76.7636,
+   "depth": 74.036,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789791515219,
+   "mag": 5.2,
+   "place": "209 km WNW of Abepura, Indonesia",
+   "lat": -1.8343,
+   "lon": 138.9067,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789789926570,
+   "mag": 4.4,
+   "place": "Southwest Indian Ridge",
+   "lat": -28.7111,
+   "lon": 62.2751,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789775466683,
+   "mag": 4.7,
+   "place": "South Pacific Ocean",
+   "lat": -7.4544,
+   "lon": -132.1293,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789773508404,
+   "mag": 5.3,
+   "place": "Kermadec Islands region",
+   "lat": -27.8162,
+   "lon": -177.3008,
+   "depth": 94.069,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789769517654,
+   "mag": 4.3,
+   "place": "17 km E of Istiaía, Greece",
+   "lat": 38.9581,
+   "lon": 23.359,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789758997535,
+   "mag": 4.5,
+   "place": "112 km ESE of Ust’-Kamchatsk Staryy, Russia",
+   "lat": 55.7503,
+   "lon": 164.062,
+   "depth": 30.943,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789757036910,
+   "mag": 4.2,
+   "place": "Pagan region, Northern Mariana Islands",
+   "lat": 18.8207,
+   "lon": 145.8607,
+   "depth": 119.65,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789756883319,
+   "mag": 4.5,
+   "place": "28 km S of Sipí, Colombia",
+   "lat": 4.3989,
+   "lon": -76.6893,
+   "depth": 83.3,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789753357843,
+   "mag": 4.5,
+   "place": "216 km SSW of Pelabuhanratu, Indonesia",
+   "lat": -8.7071,
+   "lon": 105.6209,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789750327849,
+   "mag": 4.8,
+   "place": "28 km ENE of Villa Presidente Frei, Chile",
+   "lat": -33.322,
+   "lon": -70.3171,
+   "depth": 100.054,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789749443949,
+   "mag": 4.6,
+   "place": "34 km S of Bengkulu, Indonesia",
+   "lat": -4.1133,
+   "lon": 102.2302,
+   "depth": 86.112,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789748836244,
+   "mag": 4.4,
+   "place": "78 km NNW of Uken, Japan",
+   "lat": 28.9552,
+   "lon": 128.9327,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789742559134,
+   "mag": 4.1,
+   "place": "72 km SE of Palca, Peru",
+   "lat": -18.1468,
+   "lon": -69.394,
+   "depth": 152.137,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789742178354,
+   "mag": 5.2,
+   "place": "182 km SSW of Pelabuhanratu, Indonesia",
+   "lat": -8.4912,
+   "lon": 105.8744,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789739879791,
+   "mag": 4.6,
+   "place": "94 km NW of Sola, Vanuatu",
+   "lat": -13.1808,
+   "lon": 167.0421,
+   "depth": 226.828,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789737575140,
+   "mag": 4.8,
+   "place": "5 km SW of Guánica, Puerto Rico",
+   "lat": 17.9391,
+   "lon": -66.9455,
+   "depth": 7,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789737169370,
+   "mag": 4.6,
+   "place": "125 km SSW of La Esperanza (El Zapotal), Mexico",
+   "lat": 14.3814,
+   "lon": -93.5556,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789734056630,
+   "mag": 4.7,
+   "place": "34 km NNE of Ruteng, Indonesia",
+   "lat": -8.3213,
+   "lon": 120.5723,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789733388959,
+   "mag": 4.6,
+   "place": "204 km N of Daocheng, China",
+   "lat": 30.8534,
+   "lon": 99.922,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789733258239,
+   "mag": 4.2,
+   "place": "34 km S of Jurm, Afghanistan",
+   "lat": 36.5552,
+   "lon": 70.8569,
+   "depth": 179.456,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789721121605,
+   "mag": 4.4,
+   "place": "7 km SW of Juradó, Colombia",
+   "lat": 7.0509,
+   "lon": -77.7982,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789720745687,
+   "mag": 4.6,
+   "place": "Izu Islands, Japan region",
+   "lat": 32.3403,
+   "lon": 141.3279,
+   "depth": 38.88,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789716909817,
+   "mag": 4.4,
+   "place": "West Chile Rise",
+   "lat": -41.5677,
+   "lon": -86.8102,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789716071062,
+   "mag": 4.5,
+   "place": "Izu Islands, Japan region",
+   "lat": 32.371,
+   "lon": 141.2894,
+   "depth": 43.854,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789715969154,
+   "mag": 5.0,
+   "place": "Izu Islands, Japan region",
+   "lat": 32.3036,
+   "lon": 141.402,
+   "depth": 38.867,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789713749274,
+   "mag": 4.7,
+   "place": "Fiji region",
+   "lat": -21.9479,
+   "lon": -179.3724,
+   "depth": 548.378,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789713726708,
+   "mag": 4.3,
+   "place": "15 km NW of Mantoúdi, Greece",
+   "lat": 38.915,
+   "lon": 23.3755,
+   "depth": 4.385,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789713403030,
+   "mag": 4.1,
+   "place": "5 km S of Pāhala, Hawaii",
+   "lat": 19.1576666666667,
+   "lon": -155.476333333333,
+   "depth": 12.42,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789712223598,
+   "mag": 4.7,
+   "place": "40 km SSW of Sipí, Colombia",
+   "lat": 4.3224,
+   "lon": -76.7931,
+   "depth": 68.374,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789702203623,
+   "mag": 4.2,
+   "place": "Kuril Islands",
+   "lat": 46.7406,
+   "lon": 153.6303,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789697548063,
+   "mag": 4.5,
+   "place": "Izu Islands, Japan region",
+   "lat": 32.3391,
+   "lon": 141.3639,
+   "depth": 32.628,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789694942062,
+   "mag": 4.2,
+   "place": "40 km S of Khorugh, Tajikistan",
+   "lat": 37.128,
+   "lon": 71.5093,
+   "depth": 110.372,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789693651854,
+   "mag": 4.5,
+   "place": "9 km ESE of Tsunō, Japan",
+   "lat": 32.2324,
+   "lon": 131.6664,
+   "depth": 62.101,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789683101739,
+   "mag": 4.2,
+   "place": "60 km NE of María Elena, Chile",
+   "lat": -21.9418,
+   "lon": -69.2655,
+   "depth": 87.28,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789679425511,
+   "mag": 4.7,
+   "place": "24 km SW of Sipí, Colombia",
+   "lat": 4.4797,
+   "lon": -76.7816,
+   "depth": 57.974,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789676625505,
+   "mag": 4.6,
+   "place": "217 km W of Tual, Indonesia",
+   "lat": -5.6816,
+   "lon": 130.7889,
+   "depth": 69.002,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789672957378,
+   "mag": 4.1,
+   "place": "256 km WNW of Houma, Tonga",
+   "lat": -20.3719,
+   "lon": -177.6181,
+   "depth": 422.654,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789672746820,
+   "mag": 4.9,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 30.1814,
+   "lon": -42.1941,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789672653061,
+   "mag": 4.5,
+   "place": "214 km SW of Labuan, Indonesia",
+   "lat": -7.7582,
+   "lon": 104.4708,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789672048160,
+   "mag": 4.2,
+   "place": "44 km ENE of Luganville, Vanuatu",
+   "lat": -15.3798,
+   "lon": 167.5511,
+   "depth": 116.765,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789671959050,
+   "mag": 4.3,
+   "place": "137 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "lat": 52.1293,
+   "lon": 159.9552,
+   "depth": 38.931,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789660278117,
+   "mag": 4.6,
+   "place": "26 km WSW of Osorno, Chile",
+   "lat": -40.6345,
+   "lon": -73.4372,
+   "depth": 59.712,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789655982037,
+   "mag": 4.1,
+   "place": "173 km W of Nikolski, Alaska",
+   "lat": 52.8259,
+   "lon": -171.4285,
+   "depth": 97.243,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789654792472,
+   "mag": 6.5,
+   "place": "177 km W of Nikolski, Alaska",
+   "lat": 52.9564,
+   "lon": -171.5033,
+   "depth": 98,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789654753030,
+   "mag": 4.3,
+   "place": "Macquarie Island region",
+   "lat": -57.7827,
+   "lon": 157.5175,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789651850164,
+   "mag": 4.7,
+   "place": "105 km SE of Vilyuchinsk, Russia",
+   "lat": 52.2672,
+   "lon": 159.5083,
+   "depth": 64.295,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789648297057,
+   "mag": 4.2,
+   "place": "37 km ENE of Nelson, Canada",
+   "lat": 49.6652,
+   "lon": -116.8318,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789633705531,
+   "mag": 4.5,
+   "place": "74 km NNW of Ende, Indonesia",
+   "lat": -8.1916,
+   "lon": 121.4748,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789627721638,
+   "mag": 5.0,
+   "place": "South Atlantic Ocean",
+   "lat": -22.6059,
+   "lon": -20.2867,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789627360709,
+   "mag": 5.3,
+   "place": "189 km SE of Mata-Utu, Wallis and Futuna",
+   "lat": -14.3959,
+   "lon": -174.8386,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789626728637,
+   "mag": 4.7,
+   "place": "59 km SSE of Lakatoro, Vanuatu",
+   "lat": -16.6078,
+   "lon": 167.5939,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789626048427,
+   "mag": 5.2,
+   "place": "130 km WNW of Ternate, Indonesia",
+   "lat": 1.2794,
+   "lon": 126.3131,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789623748710,
+   "mag": 4.1,
+   "place": "89 km SSE of Shima, Japan",
+   "lat": 33.578,
+   "lon": 137.1789,
+   "depth": 362.863,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789623169642,
+   "mag": 4.2,
+   "place": "97 km SW of Champerico, Guatemala",
+   "lat": 13.6771,
+   "lon": -92.5623,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789622812894,
+   "mag": 4.3,
+   "place": "23 km SW of Puerto San José, Guatemala",
+   "lat": 13.8071,
+   "lon": -91.0031,
+   "depth": 59.892,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789622671743,
+   "mag": 4.6,
+   "place": "26 km WSW of Puerto San José, Guatemala",
+   "lat": 13.8344,
+   "lon": -91.0436,
+   "depth": 68.49,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789618013715,
+   "mag": 5.3,
+   "place": "152 km SSE of Hihifo, Tonga",
+   "lat": -17.2943,
+   "lon": -173.4778,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789609675628,
+   "mag": 4.5,
+   "place": "216 km SSE of Alo, Wallis and Futuna",
+   "lat": -16.2143,
+   "lon": -177.6458,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789607569694,
+   "mag": 4.4,
+   "place": "21 km SW of Sipí, Colombia",
+   "lat": 4.5186,
+   "lon": -76.788,
+   "depth": 63.112,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789605793231,
+   "mag": 4.5,
+   "place": "Kermadec Islands region",
+   "lat": -31.6743,
+   "lon": -178.8397,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789597876884,
+   "mag": 4.1,
+   "place": "4 km NW of Gostagayevskaya, Russia",
+   "lat": 45.0552,
+   "lon": 37.4685,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789594173994,
+   "mag": 4.5,
+   "place": "Balleny Islands region",
+   "lat": -62.7008,
+   "lon": 166.362,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789592812537,
+   "mag": 5.0,
+   "place": "136 km ENE of Georgetown, Saint Helena",
+   "lat": -7.304,
+   "lon": -13.3461,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789592100902,
+   "mag": 4.7,
+   "place": "27 km SW of Sipí, Colombia",
+   "lat": 4.46,
+   "lon": -76.8006,
+   "depth": 51.459,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789590084473,
+   "mag": 5.1,
+   "place": "190 km ESE of Kimbe, Papua New Guinea",
+   "lat": -6.0303,
+   "lon": 151.7908,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789589572374,
+   "mag": 4.9,
+   "place": "24 km WSW of Sipí, Colombia",
+   "lat": 4.5496,
+   "lon": -76.8399,
+   "depth": 66.069,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789589015025,
+   "mag": 4.9,
+   "place": "Kermadec Islands, New Zealand",
+   "lat": -30.2154,
+   "lon": -177.5927,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789587425143,
+   "mag": 4.6,
+   "place": "43 km SE of Madang, Papua New Guinea",
+   "lat": -5.5399,
+   "lon": 146.0172,
+   "depth": 59.858,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789582000400,
+   "mag": 5.1,
+   "place": "80 km SSW of San Jose Village, Northern Mariana Islands",
+   "lat": 14.2719,
+   "lon": 145.4199,
+   "depth": 106.631,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789579271343,
+   "mag": 4.4,
+   "place": "54 km NNW of Fangale’ounga, Tonga",
+   "lat": -19.2842,
+   "lon": -174.4919,
+   "depth": 138.245,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789573682572,
+   "mag": 4.1,
+   "place": "Fiji region",
+   "lat": -21.4848,
+   "lon": -178.9634,
+   "depth": 565.73,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789571258656,
+   "mag": 4.8,
+   "place": "1 km SE of Ishige, Japan",
+   "lat": 36.1092,
+   "lon": 139.9782,
+   "depth": 79.922,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789562003511,
+   "mag": 4.4,
+   "place": "9 km WNW of Āwash, Ethiopia",
+   "lat": 9.0153,
+   "lon": 40.0911,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789561727790,
+   "mag": 4.3,
+   "place": "130 km WSW of Abepura, Indonesia",
+   "lat": -3.02,
+   "lon": 139.5405,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789559411675,
+   "mag": 4.8,
+   "place": "74 km E of Kinablangan, Philippines",
+   "lat": 7.7801,
+   "lon": 127.2229,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789556229631,
+   "mag": 4.5,
+   "place": "31 km WSW of Ovalle, Chile",
+   "lat": -30.7072,
+   "lon": -71.502,
+   "depth": 39.35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789552660493,
+   "mag": 4.6,
+   "place": "64 km SW of Rabaul, Papua New Guinea",
+   "lat": -4.5484,
+   "lon": 151.6961,
+   "depth": 165.609,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789551707079,
+   "mag": 4.6,
+   "place": "8 km W of Port-Olry, Vanuatu",
+   "lat": -15.0362,
+   "lon": 166.9915,
+   "depth": 58.078,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789551439079,
+   "mag": 4.4,
+   "place": "222 km NE of Lospalos, Timor Leste",
+   "lat": -7.3604,
+   "lon": 128.6479,
+   "depth": 113.79,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789547820247,
+   "mag": 5.1,
+   "place": "162 km ESE of San Jose Village, Northern Mariana Islands",
+   "lat": 14.363,
+   "lon": 146.9994,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789542132284,
+   "mag": 4.8,
+   "place": "45 km WSW of Bahía Solano, Colombia",
+   "lat": 6.0548,
+   "lon": -77.7752,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789539484823,
+   "mag": 4.6,
+   "place": "30 km SW of Sipí, Colombia",
+   "lat": 4.4322,
+   "lon": -76.8119,
+   "depth": 63.356,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789537923085,
+   "mag": 5.0,
+   "place": "279 km SSE of Dunhuang, China",
+   "lat": 37.7271,
+   "lon": 95.4934,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789536572571,
+   "mag": 4.4,
+   "place": "69 km W of Tobelo, Indonesia",
+   "lat": 1.8431,
+   "lon": 127.392,
+   "depth": 101.263,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789536437950,
+   "mag": 4.4,
+   "place": "13 km S of Borāzjān, Iran",
+   "lat": 29.1514,
+   "lon": 51.1947,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789530302896,
+   "mag": 5.0,
+   "place": "71 km SSW of Ocós, Guatemala",
+   "lat": 13.9242,
+   "lon": -92.4659,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789522637469,
+   "mag": 4.5,
+   "place": "44 km NNW of Duaca, Venezuela",
+   "lat": 10.6763,
+   "lon": -69.2761,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789519187845,
+   "mag": 4.0,
+   "place": "91 km N of Payakumbuh, Indonesia",
+   "lat": 0.5964,
+   "lon": 100.4997,
+   "depth": 217.435,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789518887234,
+   "mag": 4.4,
+   "place": "Kepulauan Babar, Indonesia",
+   "lat": -7.9107,
+   "lon": 129.829,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789518700754,
+   "mag": 4.1,
+   "place": "122 km NNW of Finschhafen, Papua New Guinea",
+   "lat": -5.6338,
+   "lon": 147.244,
+   "depth": 149.491,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789516019088,
+   "mag": 4.7,
+   "place": "157 km N of Caluula, Somalia",
+   "lat": 13.3907,
+   "lon": 50.7844,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789515906526,
+   "mag": 4.5,
+   "place": "12 km WNW of Palora, Ecuador",
+   "lat": -1.6399,
+   "lon": -78.06,
+   "depth": 155.75,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789512191450,
+   "mag": 4.0,
+   "place": "57 km NW of Jumla, Nepal",
+   "lat": 29.6348,
+   "lon": 81.7592,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789509925953,
+   "mag": 4.7,
+   "place": "106 km NE of Hihifo, Tonga",
+   "lat": -15.2159,
+   "lon": -173.1664,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789506578606,
+   "mag": 4.2,
+   "place": "11 km NW of Izumi, Japan",
+   "lat": 32.162,
+   "lon": 130.289,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789506034916,
+   "mag": 4.7,
+   "place": "94 km NE of Yonakuni, Japan",
+   "lat": 25.0843,
+   "lon": 123.6411,
+   "depth": 8.769,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789505429739,
+   "mag": 4.3,
+   "place": "Fiji region",
+   "lat": -19.2426,
+   "lon": -177.7345,
+   "depth": 582.523,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789504430465,
+   "mag": 4.4,
+   "place": "30 km SSW of Pangai, Tonga",
+   "lat": -20.0791,
+   "lon": -174.426,
+   "depth": 131.378,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789502771362,
+   "mag": 4.1,
+   "place": "55 km WNW of Jumla, Nepal",
+   "lat": 29.4419,
+   "lon": 81.6398,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789499259413,
+   "mag": 4.1,
+   "place": "22 km WSW of Brisas Barra de Suchiate, Mexico",
+   "lat": 14.464,
+   "lon": -92.4204,
+   "depth": 84.513,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789496793216,
+   "mag": 4.3,
+   "place": "53 km NNW of Ruteng, Indonesia",
+   "lat": -8.1691,
+   "lon": 120.2775,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789494249588,
+   "mag": 4.1,
+   "place": "109 km SW of Puerto Madero, Mexico",
+   "lat": 14.0647,
+   "lon": -93.1817,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789494085931,
+   "mag": 4.4,
+   "place": "45 km SW of Cachí, Argentina",
+   "lat": -25.4271,
+   "lon": -66.4652,
+   "depth": 191.044,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789492608391,
+   "mag": 4.3,
+   "place": "88 km NNW of Ishigaki, Japan",
+   "lat": 25.013,
+   "lon": 123.6776,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789491379663,
+   "mag": 4.6,
+   "place": "West Chile Rise",
+   "lat": -43.0338,
+   "lon": -83.2775,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789488769612,
+   "mag": 4.4,
+   "place": "56 km SSW of Bengkulu, Indonesia",
+   "lat": -4.2779,
+   "lon": 102.0928,
+   "depth": 78.693,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789486054622,
+   "mag": 4.3,
+   "place": "West Chile Rise",
+   "lat": -42.6833,
+   "lon": -83.6443,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789485103557,
+   "mag": 4.2,
+   "place": "210 km E of Levuka, Fiji",
+   "lat": -17.943,
+   "lon": -178.6962,
+   "depth": 631.314,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789482758168,
+   "mag": 4.0,
+   "place": "119 km E of Chignik, Alaska",
+   "lat": 56.199,
+   "lon": -156.488,
+   "depth": 17.9,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789481770973,
+   "mag": 4.4,
+   "place": "255 km E of Lospalos, Timor Leste",
+   "lat": -8.3101,
+   "lon": 129.3069,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789480221885,
+   "mag": 4.0,
+   "place": "47 km SSE of Irpa Irpa, Bolivia",
+   "lat": -18.074,
+   "lon": -66.0254,
+   "depth": 359.303,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789479359701,
+   "mag": 4.5,
+   "place": "184 km WSW of Sigatoka, Fiji",
+   "lat": -18.6855,
+   "lon": 175.8527,
+   "depth": 22.156,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789479064555,
+   "mag": 4.5,
+   "place": "185 km WSW of Sigatoka, Fiji",
+   "lat": -18.6796,
+   "lon": 175.8399,
+   "depth": 16.311,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789475191454,
+   "mag": 4.2,
+   "place": "250 km E of Levuka, Fiji",
+   "lat": -18.1302,
+   "lon": -178.3223,
+   "depth": 551.739,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789472098352,
+   "mag": 4.7,
+   "place": "116 km S of Panguna, Papua New Guinea",
+   "lat": -7.3655,
+   "lon": 155.3707,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789470408043,
+   "mag": 4.2,
+   "place": "69 km SW of Angoram, Papua New Guinea",
+   "lat": -4.5629,
+   "lon": 143.6895,
+   "depth": 104.62,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789468006010,
+   "mag": 4.3,
+   "place": "76 km NNE of Wabag, Papua New Guinea",
+   "lat": -4.8669,
+   "lon": 144.0237,
+   "depth": 103.018,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789467614081,
+   "mag": 4.7,
+   "place": "105 km S of Panguna, Papua New Guinea",
+   "lat": -7.257,
+   "lon": 155.3122,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789465898674,
+   "mag": 4.3,
+   "place": "69 km SSW of Kaktovik, Alaska",
+   "lat": 69.542,
+   "lon": -144.23,
+   "depth": 6.6,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789458818901,
+   "mag": 4.6,
+   "place": "124 km NNW of Tobelo, Indonesia",
+   "lat": 2.7551,
+   "lon": 127.5492,
+   "depth": 81.203,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789452473383,
+   "mag": 4.8,
+   "place": "289 km WSW of Tual, Indonesia",
+   "lat": -6.6237,
+   "lon": 130.3368,
+   "depth": 91.713,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789451595072,
+   "mag": 4.6,
+   "place": "46 km SSW of Sola, Vanuatu",
+   "lat": -14.2811,
+   "lon": 167.4324,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789447945841,
+   "mag": 4.6,
+   "place": "239 km E of Tadine, New Caledonia",
+   "lat": -21.6425,
+   "lon": 170.1947,
+   "depth": 98.934,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789445559296,
+   "mag": 4.5,
+   "place": "southeast of Easter Island",
+   "lat": -36.3867,
+   "lon": -100.2436,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789445436935,
+   "mag": 4.2,
+   "place": "68 km WNW of Port-Vila, Vanuatu",
+   "lat": -17.5065,
+   "lon": 167.713,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789444120350,
+   "mag": 4.5,
+   "place": "Owen Fracture Zone region",
+   "lat": 14.5154,
+   "lon": 56.1208,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789437825468,
+   "mag": 4.8,
+   "place": "22 km ESE of Socorro, Philippines",
+   "lat": 9.5334,
+   "lon": 126.148,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789434679414,
+   "mag": 4.5,
+   "place": "South Sandwich Islands region",
+   "lat": -57.7558,
+   "lon": -23.2342,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789429967098,
+   "mag": 5.0,
+   "place": "127 km NW of Lautoka, Fiji",
+   "lat": -16.7951,
+   "lon": 176.6053,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789427389986,
+   "mag": 4.4,
+   "place": "217 km SSW of Pelabuhanratu, Indonesia",
+   "lat": -8.7704,
+   "lon": 105.7106,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789425887054,
+   "mag": 4.5,
+   "place": "64 km SSW of Patea, New Zealand",
+   "lat": -40.2954,
+   "lon": 174.1808,
+   "depth": 97.8,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789425776776,
+   "mag": 4.2,
+   "place": "103 km WSW of Puerto Madero, Mexico",
+   "lat": 14.2041,
+   "lon": -93.2228,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789425543955,
+   "mag": 4.5,
+   "place": "24 km SW of Sipí, Colombia",
+   "lat": 4.4807,
+   "lon": -76.7835,
+   "depth": 69.4,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789425516257,
+   "mag": 4.1,
+   "place": "169 km ESE of Labasa, Fiji",
+   "lat": -16.8785,
+   "lon": -179.1178,
+   "depth": 506.592,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789423613302,
+   "mag": 5.0,
+   "place": "68 km NW of Lae, Papua New Guinea",
+   "lat": -6.2902,
+   "lon": 146.5582,
+   "depth": 120.677,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789420645272,
+   "mag": 4.5,
+   "place": "226 km NW of Tobelo, Indonesia",
+   "lat": 3.1402,
+   "lon": 126.5358,
+   "depth": 70.038,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789420397396,
+   "mag": 4.9,
+   "place": "24 km SW of Sipí, Colombia",
+   "lat": 4.5125,
+   "lon": -76.8188,
+   "depth": 64.581,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789419997569,
+   "mag": 4.2,
+   "place": "60 km WNW of Zangguy, China",
+   "lat": 37.5314,
+   "lon": 78.1633,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789419528680,
+   "mag": 4.5,
+   "place": "Mid-Indian Ridge",
+   "lat": -20.0229,
+   "lon": 67.4078,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789419209631,
+   "mag": 4.3,
+   "place": "Mid-Indian Ridge",
+   "lat": -20.1526,
+   "lon": 67.6319,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789418756107,
+   "mag": 4.3,
+   "place": "177 km SSE of Vilyuchinsk, Russia",
+   "lat": 51.524,
+   "lon": 159.6317,
+   "depth": 37.494,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789418339588,
+   "mag": 5.3,
+   "place": "off the coast of Michoacan, Mexico",
+   "lat": 15.117,
+   "lon": -104.2162,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789416484768,
+   "mag": 4.6,
+   "place": "28 km SW of Sipí, Colombia",
+   "lat": 4.4634,
+   "lon": -76.8214,
+   "depth": 52.692,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789416290939,
+   "mag": 4.4,
+   "place": "17 km SSW of Sipí, Colombia",
+   "lat": 4.5069,
+   "lon": -76.6921,
+   "depth": 71.459,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789416124673,
+   "mag": 4.9,
+   "place": "18 km SSW of Sipí, Colombia",
+   "lat": 4.5034,
+   "lon": -76.7177,
+   "depth": 63.624,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789415294687,
+   "mag": 4.1,
+   "place": "35 km ESE of Farkhār, Afghanistan",
+   "lat": 36.4612,
+   "lon": 70.2314,
+   "depth": 217.496,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789414133689,
+   "mag": 4.8,
+   "place": "148 km ESE of Kandrian, Papua New Guinea",
+   "lat": -6.8916,
+   "lon": 150.7071,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789413409717,
+   "mag": 4.8,
+   "place": "107 km WSW of Alianza Cristiana, Peru",
+   "lat": -3.7448,
+   "lon": -77.3641,
+   "depth": 104.887,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789408873646,
+   "mag": 4.3,
+   "place": "87 km SSE of Karakenja, Tajikistan",
+   "lat": 38.5308,
+   "lon": 71.9867,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789408515372,
+   "mag": 4.6,
+   "place": "154 km SSE of Labuha, Indonesia",
+   "lat": -1.8336,
+   "lon": 128.1779,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789406966753,
+   "mag": 4.0,
+   "place": "184 km SSE of Baubau, Indonesia",
+   "lat": -7.029,
+   "lon": 123.1812,
+   "depth": 664.571,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789402505794,
+   "mag": 5.1,
+   "place": "147 km SE of Gizo, Solomon Islands",
+   "lat": -8.973,
+   "lon": 157.8632,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789397830300,
+   "mag": 4.5,
+   "place": "16 km SSW of Sipí, Colombia",
+   "lat": 4.5173,
+   "lon": -76.6989,
+   "depth": 65.22,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789386318710,
+   "mag": 4.2,
+   "place": "236 km E of Levuka, Fiji",
+   "lat": -17.9654,
+   "lon": -178.4492,
+   "depth": 598.312,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789383594632,
+   "mag": 4.6,
+   "place": "54 km E of Namie, Japan",
+   "lat": 37.5333,
+   "lon": 141.613,
+   "depth": 55.352,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789383483188,
+   "mag": 5.6,
+   "place": "79 km NNE of Tobelo, Indonesia",
+   "lat": 2.4234,
+   "lon": 128.1898,
+   "depth": 163.086,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789383312049,
+   "mag": 4.3,
+   "place": "66 km ESE of Onagawa Chō, Japan",
+   "lat": 38.2104,
+   "lon": 142.1507,
+   "depth": 49.054,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789379902712,
+   "mag": 4.1,
+   "place": "8 km WNW of Murghob, Tajikistan",
+   "lat": 38.1906,
+   "lon": 73.879,
+   "depth": 162.389,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789379030821,
+   "mag": 4.6,
+   "place": "Mid-Indian Ridge",
+   "lat": -20.3553,
+   "lon": 67.5226,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789378058111,
+   "mag": 5.3,
+   "place": "209 km SSW of Pelabuhanratu, Indonesia",
+   "lat": -8.6882,
+   "lon": 105.7213,
+   "depth": 12,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789377884143,
+   "mag": 4.2,
+   "place": "149 km N of Ruteng, Indonesia",
+   "lat": -7.2579,
+   "lon": 120.4636,
+   "depth": 393.103,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789376849435,
+   "mag": 4.5,
+   "place": "65 km NE of Simao, China",
+   "lat": 23.2157,
+   "lon": 101.4146,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789375173651,
+   "mag": 4.4,
+   "place": "19 km WNW of Tamugan, Philippines",
+   "lat": 7.2742,
+   "lon": 125.2024,
+   "depth": 241.134,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789371184570,
+   "mag": 4.5,
+   "place": "104 km E of Tomioka, Japan",
+   "lat": 37.2656,
+   "lon": 142.1886,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789366749831,
+   "mag": 4.5,
+   "place": "102 km NNE of Mount Hagen, Papua New Guinea",
+   "lat": -4.9942,
+   "lon": 144.5731,
+   "depth": 88.97,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789365838299,
+   "mag": 4.4,
+   "place": "40 km NNW of Dededo Village, Guam",
+   "lat": 13.8382,
+   "lon": 144.6503,
+   "depth": 155.245,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789362192883,
+   "mag": 4.3,
+   "place": "67 km W of San Antonio de los Cobres, Argentina",
+   "lat": -24.1717,
+   "lon": -66.9763,
+   "depth": 185.943,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789358085812,
+   "mag": 4.1,
+   "place": "Pagan region, Northern Mariana Islands",
+   "lat": 18.4861,
+   "lon": 145.6826,
+   "depth": 202.961,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789354617937,
+   "mag": 4.9,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 25.6619,
+   "lon": -45.406,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789354577944,
+   "mag": 5.4,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 25.5217,
+   "lon": -45.438,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789354499849,
+   "mag": 4.8,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 25.5128,
+   "lon": -45.3286,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789350128793,
+   "mag": 4.8,
+   "place": "122 km S of Dampit, Indonesia",
+   "lat": -9.309,
+   "lon": 112.8866,
+   "depth": 31.867,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789349931010,
+   "mag": 4.2,
+   "place": "48 km NNE of Kāshmar, Iran",
+   "lat": 35.632,
+   "lon": 58.7029,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789347227074,
+   "mag": 4.5,
+   "place": "55 km NNW of Ruteng, Indonesia",
+   "lat": -8.1416,
+   "lon": 120.2945,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789346462762,
+   "mag": 4.4,
+   "place": "western Indian-Antarctic Ridge",
+   "lat": -49.5314,
+   "lon": 126.3639,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789345259829,
+   "mag": 4.5,
+   "place": "Mid-Indian Ridge",
+   "lat": -20.1658,
+   "lon": 67.3888,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789342898317,
+   "mag": 4.4,
+   "place": "south of the Fiji Islands",
+   "lat": -23.6215,
+   "lon": -179.7128,
+   "depth": 523.958,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789342067729,
+   "mag": 4.6,
+   "place": "Mid-Indian Ridge",
+   "lat": -20.1437,
+   "lon": 67.5504,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789339481107,
+   "mag": 4.6,
+   "place": "116 km NE of Hengchun, Taiwan",
+   "lat": 22.6859,
+   "lon": 121.6013,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789339201463,
+   "mag": 5.0,
+   "place": "50 km NE of Labuan Bajo, Indonesia",
+   "lat": -8.2071,
+   "lon": 120.2454,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789337837426,
+   "mag": 4.3,
+   "place": "47 km SE of Hengchun, Taiwan",
+   "lat": 21.6745,
+   "lon": 121.0315,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789337108417,
+   "mag": 4.1,
+   "place": "56 km WSW of Kastrí, Greece",
+   "lat": 34.7184,
+   "lon": 23.4875,
+   "depth": 50.934,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789329253900,
+   "mag": 4.4,
+   "place": "76 km SSW of Isangel, Vanuatu",
+   "lat": -20.1573,
+   "lon": 168.9406,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789328503064,
+   "mag": 4.8,
+   "place": "74 km SSW of Isangel, Vanuatu",
+   "lat": -20.1089,
+   "lon": 168.9078,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789328425496,
+   "mag": 4.7,
+   "place": "64 km W of Cafayate, Argentina",
+   "lat": -26.1509,
+   "lon": -66.6119,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789327295024,
+   "mag": 4.2,
+   "place": "50 km SSW of Hualien City, Taiwan",
+   "lat": 23.5578,
+   "lon": 121.4213,
+   "depth": 12.661,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789322125301,
+   "mag": 4.3,
+   "place": "12 km S of Piedecuesta, Colombia",
+   "lat": 6.8723,
+   "lon": -73.0435,
+   "depth": 151.933,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789315104004,
+   "mag": 4.2,
+   "place": "242 km E of Levuka, Fiji",
+   "lat": -17.9129,
+   "lon": -178.4,
+   "depth": 622.86,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789307217265,
+   "mag": 4.1,
+   "place": "16 km NNW of Basse-Pointe, Martinique",
+   "lat": 15.0083,
+   "lon": -61.1587,
+   "depth": 159.136,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789304123518,
+   "mag": 4.2,
+   "place": "66 km SSW of La Tirana, Chile",
+   "lat": -20.8076,
+   "lon": -70.4481,
+   "depth": 29.754,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789302768802,
+   "mag": 4.4,
+   "place": "45 km WSW of Sarangani, Philippines",
+   "lat": 5.2132,
+   "lon": 125.1029,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789300849109,
+   "mag": 4.4,
+   "place": "173 km W of Pyay, Burma (Myanmar)",
+   "lat": 18.58,
+   "lon": 93.5969,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789298379626,
+   "mag": 4.2,
+   "place": "36 km NE of Kuji, Japan",
+   "lat": 40.4596,
+   "lon": 142.0137,
+   "depth": 59.188,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789296225036,
+   "mag": 4.2,
+   "place": "south of the Kermadec Islands",
+   "lat": -32.0945,
+   "lon": -177.5607,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789294010985,
+   "mag": 4.2,
+   "place": "83 km S of Pelabuhanratu, Indonesia",
+   "lat": -7.7296,
+   "lon": 106.4201,
+   "depth": 41.414,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789293434828,
+   "mag": 4.5,
+   "place": "Kermadec Islands region",
+   "lat": -31.6957,
+   "lon": -176.7275,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789288275508,
+   "mag": 4.7,
+   "place": "28 km N of Mutsu, Japan",
+   "lat": 41.5429,
+   "lon": 141.2795,
+   "depth": 125.794,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789285691232,
+   "mag": 4.0,
+   "place": "Maug Islands region, Northern Mariana Islands",
+   "lat": 19.2737,
+   "lon": 144.934,
+   "depth": 397.341,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789284623229,
+   "mag": 5.0,
+   "place": "southeast of the Loyalty Islands",
+   "lat": -22.3898,
+   "lon": 171.2181,
+   "depth": 97.479,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789283963968,
+   "mag": 5.2,
+   "place": "35 km NE of Luganville, Vanuatu",
+   "lat": -15.2804,
+   "lon": 167.3824,
+   "depth": 154.069,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789283685071,
+   "mag": 4.4,
+   "place": "65 km ESE of Isen, Japan",
+   "lat": 27.3582,
+   "lon": 129.494,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789283428766,
+   "mag": 4.3,
+   "place": "21 km WSW of Sipí, Colombia",
+   "lat": 4.6073,
+   "lon": -76.8281,
+   "depth": 76.445,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789273359187,
+   "mag": 4.2,
+   "place": "Carlsberg Ridge",
+   "lat": 4.1354,
+   "lon": 63.2202,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789271431912,
+   "mag": 4.8,
+   "place": "Bonin Islands, Japan region",
+   "lat": 26.257,
+   "lon": 142.3174,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789269282043,
+   "mag": 4.5,
+   "place": "44 km NNW of Ende, Indonesia",
+   "lat": -8.4577,
+   "lon": 121.5341,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789267442338,
+   "mag": 4.1,
+   "place": "30 km SW of Urakawa, Japan",
+   "lat": 41.9562,
+   "lon": 142.5285,
+   "depth": 83.251,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789266784736,
+   "mag": 4.1,
+   "place": "81 km SSW of Masachapa, Nicaragua",
+   "lat": 11.108,
+   "lon": -86.799,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789259234685,
+   "mag": 4.1,
+   "place": "23 km ENE of Owase, Japan",
+   "lat": 34.1606,
+   "lon": 136.4312,
+   "depth": 363.296,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789252824688,
+   "mag": 4.3,
+   "place": "29 km E of Lata, Solomon Islands",
+   "lat": -10.735,
+   "lon": 166.0627,
+   "depth": 179.26,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789251243306,
+   "mag": 4.3,
+   "place": "93 km NNE of Rabaul, Papua New Guinea",
+   "lat": -3.3764,
+   "lon": 152.3509,
+   "depth": 368.234,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789248946049,
+   "mag": 4.1,
+   "place": "28 km ENE of Sibolga, Indonesia",
+   "lat": 1.8773,
+   "lon": 98.9972,
+   "depth": 133.114,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789245177905,
+   "mag": 5.1,
+   "place": "99 km S of Yudomari, Japan",
+   "lat": 29.3365,
+   "lon": 130.3836,
+   "depth": 35.096,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789240723102,
+   "mag": 4.2,
+   "place": "118 km SSE of Shimoda, Japan",
+   "lat": 33.6477,
+   "lon": 139.2798,
+   "depth": 15.235,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789235504742,
+   "mag": 4.8,
+   "place": "21 km WSW of Lixoúri, Greece",
+   "lat": 38.1323,
+   "lon": 20.2022,
+   "depth": 28.35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789229076328,
+   "mag": 4.3,
+   "place": "1 km E of Camilaca, Peru",
+   "lat": -17.2691,
+   "lon": -70.3678,
+   "depth": 127.066,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789228899630,
+   "mag": 4.3,
+   "place": "126 km WNW of Panguna, Papua New Guinea",
+   "lat": -5.9672,
+   "lon": 154.3958,
+   "depth": 393.797,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789228568509,
+   "mag": 4.5,
+   "place": "39 km NNE of Port-Olry, Vanuatu",
+   "lat": -14.7164,
+   "lon": 167.2132,
+   "depth": 179.185,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789225226857,
+   "mag": 4.0,
+   "place": "5 km SSW of Wawa, Philippines",
+   "lat": 13.6885,
+   "lon": 121.041,
+   "depth": 158.451,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789223526575,
+   "mag": 4.4,
+   "place": "108 km NW of Arawa, Papua New Guinea",
+   "lat": -5.5197,
+   "lon": 154.8922,
+   "depth": 314.198,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789223287662,
+   "mag": 4.8,
+   "place": "166 km WSW of Port-Vila, Vanuatu",
+   "lat": -18.3098,
+   "lon": 166.8626,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789220604494,
+   "mag": 4.3,
+   "place": "Kermadec Islands, New Zealand",
+   "lat": -29.3582,
+   "lon": -178.9769,
+   "depth": 301.453,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789219436862,
+   "mag": 4.0,
+   "place": "Fiji region",
+   "lat": -21.8513,
+   "lon": -179.1424,
+   "depth": 580.657,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789218387766,
+   "mag": 4.3,
+   "place": "132 km NNE of Hicks Bay, New Zealand",
+   "lat": -36.5291,
+   "lon": 178.9662,
+   "depth": 62.389,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789217176016,
+   "mag": 4.6,
+   "place": "143 km SE of Kokopo, Papua New Guinea",
+   "lat": -5.1136,
+   "lon": 153.3109,
+   "depth": 41.179,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789217106821,
+   "mag": 4.4,
+   "place": "96 km ESE of Pondaguitan, Philippines",
+   "lat": 6.0372,
+   "lon": 126.9902,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789213691112,
+   "mag": 4.1,
+   "place": "91 km NNW of Maumere, Indonesia",
+   "lat": -7.8399,
+   "lon": 121.9369,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789211771650,
+   "mag": 4.7,
+   "place": "32 km SW of Sipí, Colombia",
+   "lat": 4.4611,
+   "lon": -76.8685,
+   "depth": 68.129,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789211146433,
+   "mag": 4.9,
+   "place": "South Sandwich Islands region",
+   "lat": -56.2951,
+   "lon": -26.9013,
+   "depth": 102.352,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789205749382,
+   "mag": 4.8,
+   "place": "124 km WNW of Sola, Vanuatu",
+   "lat": -13.4125,
+   "lon": 166.4985,
+   "depth": 43.204,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789202797963,
+   "mag": 4.5,
+   "place": "64 km WSW of Santiago, Peru",
+   "lat": -14.4624,
+   "lon": -76.236,
+   "depth": 22.918,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789201052896,
+   "mag": 4.2,
+   "place": "58 km SW of Ocós, Guatemala",
+   "lat": 14.0942,
+   "lon": -92.5296,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789197700897,
+   "mag": 4.2,
+   "place": "103 km E of Noda, Japan",
+   "lat": 40.272,
+   "lon": 143.0081,
+   "depth": 38.637,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789193673093,
+   "mag": 4.8,
+   "place": "259 km WSW of Tual, Indonesia",
+   "lat": -6.1537,
+   "lon": 130.4655,
+   "depth": 157.703,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789189703749,
+   "mag": 4.7,
+   "place": "93 km WNW of Ternate, Indonesia",
+   "lat": 1.042,
+   "lon": 126.5838,
+   "depth": 41.867,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789186214081,
+   "mag": 4.5,
+   "place": "14 km NNE of Namuac, Philippines",
+   "lat": 18.7346,
+   "lon": 121.1983,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789185549231,
+   "mag": 4.5,
+   "place": "157 km SSE of Port Blair, India",
+   "lat": 10.3114,
+   "lon": 93.1932,
+   "depth": 68.633,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789184227182,
+   "mag": 4.4,
+   "place": "153 km NNW of Tobelo, Indonesia",
+   "lat": 3.025,
+   "lon": 127.5099,
+   "depth": 119.009,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789184097277,
+   "mag": 4.4,
+   "place": "43 km NNE of Ruteng, Indonesia",
+   "lat": -8.2401,
+   "lon": 120.5917,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789178390236,
+   "mag": 4.7,
+   "place": "0 km NE of Manaca Civil, Panama",
+   "lat": 8.329,
+   "lon": -82.8155,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789174508581,
+   "mag": 5.1,
+   "place": "South Sandwich Islands region",
+   "lat": -59.1133,
+   "lon": -24.9256,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789172338915,
+   "mag": 4.5,
+   "place": "11 km ESE of Tocota, Peru",
+   "lat": -15.6804,
+   "lon": -73.9864,
+   "depth": 101.191,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789165943530,
+   "mag": 4.9,
+   "place": "236 km W of Puerto Chacabuco, Chile",
+   "lat": -45.7364,
+   "lon": -75.8244,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789162299888,
+   "mag": 4.0,
+   "place": "71 km WSW of Puerto Madero, Mexico",
+   "lat": 14.3745,
+   "lon": -92.9782,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789161835815,
+   "mag": 6.5,
+   "place": "121 km NNE of Teluknaga, Indonesia",
+   "lat": -5.0271,
+   "lon": 106.8682,
+   "depth": 372,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789160200713,
+   "mag": 4.2,
+   "place": "43 km WNW of Anse à Galets, Haiti",
+   "lat": 18.9589,
+   "lon": -73.2613,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789155782476,
+   "mag": 4.4,
+   "place": "18 km NNE of Wonosobo, Indonesia",
+   "lat": -7.2062,
+   "lon": 109.963,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789153188359,
+   "mag": 4.4,
+   "place": "146 km WSW of Merizo Village, Guam",
+   "lat": 12.9557,
+   "lon": 143.3537,
+   "depth": 200.212,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789152809398,
+   "mag": 4.5,
+   "place": "118 km E of Noda, Japan",
+   "lat": 40.0877,
+   "lon": 143.2113,
+   "depth": 22.504,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789150264685,
+   "mag": 4.3,
+   "place": "south of the Kermadec Islands",
+   "lat": -32.6963,
+   "lon": -179.0913,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789149380857,
+   "mag": 4.1,
+   "place": "34 km WNW of Sarupathar, India",
+   "lat": 26.3399,
+   "lon": 96.4986,
+   "depth": 124.164,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789148420835,
+   "mag": 4.2,
+   "place": "Pagan region, Northern Mariana Islands",
+   "lat": 18.5359,
+   "lon": 146.3923,
+   "depth": 80.681,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789147144297,
+   "mag": 4.2,
+   "place": "54 km NNW of Asan-Maina Village, Guam",
+   "lat": 13.9424,
+   "lon": 144.5609,
+   "depth": 186.479,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789144951376,
+   "mag": 4.7,
+   "place": "27 km SW of Sipí, Colombia",
+   "lat": 4.4626,
+   "lon": -76.8003,
+   "depth": 68.328,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789141475533,
+   "mag": 4.9,
+   "place": "south of the Kermadec Islands",
+   "lat": -32.5696,
+   "lon": -178.8259,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789132875827,
+   "mag": 4.1,
+   "place": "57 km S of Isangel, Vanuatu",
+   "lat": -20.0581,
+   "lon": 169.2953,
+   "depth": 112.609,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789127783356,
+   "mag": 5.9,
+   "place": "254 km ENE of Lospalos, Timor Leste",
+   "lat": -7.3079,
+   "lon": 128.9589,
+   "depth": 115,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789123971833,
+   "mag": 4.1,
+   "place": "152 km SW of Adak, Alaska",
+   "lat": 51.1165,
+   "lon": -178.4728,
+   "depth": 28.118,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789123632115,
+   "mag": 5.1,
+   "place": "149 km WSW of Adak, Alaska",
+   "lat": 51.173,
+   "lon": -178.4675,
+   "depth": 37.202,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789119931807,
+   "mag": 4.5,
+   "place": "99 km NNW of Mosquera, Colombia",
+   "lat": 3.2591,
+   "lon": -78.9412,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789117198609,
+   "mag": 4.5,
+   "place": "271 km WNW of Longyearbyen, Svalbard and Jan Mayen",
+   "lat": 79.5726,
+   "lon": 5.088,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789117088788,
+   "mag": 4.6,
+   "place": "160 km W of Neiafu, Tonga",
+   "lat": -18.7044,
+   "lon": -175.5055,
+   "depth": 208.177,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789115204458,
+   "mag": 4.3,
+   "place": "northern Mid-Atlantic Ridge",
+   "lat": 25.8297,
+   "lon": -45.2283,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789111906340,
+   "mag": 4.5,
+   "place": "89 km S of False Pass, Alaska",
+   "lat": 54.0611,
+   "lon": -163.1545,
+   "depth": 50.317,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789111450695,
+   "mag": 4.3,
+   "place": "107 km SE of Gorontalo, Indonesia",
+   "lat": -0.2586,
+   "lon": 123.6096,
+   "depth": 154.914,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789110622460,
+   "mag": 4.0,
+   "place": "41 km NNW of Glacier View, Alaska",
+   "lat": 62.17,
+   "lon": -147.835,
+   "depth": 27.2,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789110294348,
+   "mag": 4.0,
+   "place": "41 km S of Camiña, Chile",
+   "lat": -19.686,
+   "lon": -69.3914,
+   "depth": 100.893,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789105473509,
+   "mag": 4.2,
+   "place": "130 km SW of Brisas Barra de Suchiate, Mexico",
+   "lat": 13.7757,
+   "lon": -93.1502,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789101744912,
+   "mag": 4.3,
+   "place": "60 km NW of Valparaíso, Chile",
+   "lat": -32.5866,
+   "lon": -71.9912,
+   "depth": 26.338,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789100704268,
+   "mag": 4.1,
+   "place": "50 km W of Turangi, New Zealand",
+   "lat": -38.9372,
+   "lon": 175.2339,
+   "depth": 19.536,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789099780299,
+   "mag": 4.4,
+   "place": "5 km WNW of Kalbay, Philippines",
+   "lat": 5.7424,
+   "lon": 125.4567,
+   "depth": 14.157,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789093690598,
+   "mag": 4.7,
+   "place": "79 km NNE of Isangel, Vanuatu",
+   "lat": -18.8482,
+   "lon": 169.4767,
+   "depth": 9.835,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789088029025,
+   "mag": 4.4,
+   "place": "70 km NE of Palu, Indonesia",
+   "lat": -0.4457,
+   "lon": 120.3067,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789081390729,
+   "mag": 4.0,
+   "place": "8 km SE of Port Clarence, Alaska",
+   "lat": 65.211,
+   "lon": -166.721,
+   "depth": 5,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789080852391,
+   "mag": 4.9,
+   "place": "130 km WNW of Sola, Vanuatu",
+   "lat": -13.4005,
+   "lon": 166.4529,
+   "depth": 15.15,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789077231807,
+   "mag": 4.3,
+   "place": "38 km S of Weining, China",
+   "lat": 26.51,
+   "lon": 104.296,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789074842367,
+   "mag": 4.0,
+   "place": "Rat Islands, Aleutian Islands, Alaska",
+   "lat": 51.7173,
+   "lon": 178.598,
+   "depth": 97.665,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789073182746,
+   "mag": 4.9,
+   "place": "south of Tonga",
+   "lat": -24.6675,
+   "lon": -175.3398,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789070135690,
+   "mag": 4.5,
+   "place": "159 km WNW of Panguna, Papua New Guinea",
+   "lat": -5.5451,
+   "lon": 154.2701,
+   "depth": 141.149,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789066631977,
+   "mag": 4.1,
+   "place": "62 km NNW of Barishal, Pakistan",
+   "lat": 36.8038,
+   "lon": 74.3388,
+   "depth": 61.034,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789065880075,
+   "mag": 5.3,
+   "place": "80 km E of Lospalos, Timor Leste",
+   "lat": -8.5223,
+   "lon": 127.729,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789064479077,
+   "mag": 5.4,
+   "place": "southern East Pacific Rise",
+   "lat": -34.7752,
+   "lon": -109.1447,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789063727970,
+   "mag": 4.1,
+   "place": "13 km ESE of Tyre, Lebanon",
+   "lat": 33.2456,
+   "lon": 35.3376,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789063444276,
+   "mag": 4.6,
+   "place": "28 km S of Quepos, Costa Rica",
+   "lat": 9.1718,
+   "lon": -84.1473,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789062862881,
+   "mag": 4.4,
+   "place": "southern East Pacific Rise",
+   "lat": -34.8042,
+   "lon": -108.9866,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789059213841,
+   "mag": 4.7,
+   "place": "70 km WSW of Zhaotong, China",
+   "lat": 27.1446,
+   "lon": 103.0297,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789049753168,
+   "mag": 4.7,
+   "place": "263 km N of Puerto Ayora, Ecuador",
+   "lat": 1.6184,
+   "lon": -90.6441,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789047678740,
+   "mag": 4.2,
+   "place": "122 km NNE of Tobelo, Indonesia",
+   "lat": 2.7051,
+   "lon": 128.5296,
+   "depth": 242.1,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789047497656,
+   "mag": 4.4,
+   "place": "258 km N of Puerto Ayora, Ecuador",
+   "lat": 1.5749,
+   "lon": -90.624,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789047305103,
+   "mag": 4.7,
+   "place": "168 km SSW of Merizo Village, Guam",
+   "lat": 11.945,
+   "lon": 143.9047,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789046943836,
+   "mag": 4.5,
+   "place": "86 km SW of Puerto Madero, Mexico",
+   "lat": 14.1688,
+   "lon": -92.9951,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789046895938,
+   "mag": 5.1,
+   "place": "163 km SW of Merizo Village, Guam",
+   "lat": 12.0362,
+   "lon": 143.8288,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789045782708,
+   "mag": 4.3,
+   "place": "61 km NNW of Arthurs Point, New Zealand",
+   "lat": -44.4799,
+   "lon": 168.3294,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789042869563,
+   "mag": 4.3,
+   "place": "106 km W of Murghob, Tajikistan",
+   "lat": 38.108,
+   "lon": 72.7522,
+   "depth": 128.984,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789041953722,
+   "mag": 4.8,
+   "place": "38 km S of Cliza, Bolivia",
+   "lat": -17.9319,
+   "lon": -65.8794,
+   "depth": 371.07,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789039075407,
+   "mag": 4.5,
+   "place": "98 km NNE of Tobelo, Indonesia",
+   "lat": 2.5366,
+   "lon": 128.3812,
+   "depth": 222.293,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789036775482,
+   "mag": 4.7,
+   "place": "119 km WSW of Alianza Cristiana, Peru",
+   "lat": -3.9494,
+   "lon": -77.4016,
+   "depth": 16.861,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789030292698,
+   "mag": 4.2,
+   "place": "92 km SE of Modisi, Indonesia",
+   "lat": -0.1618,
+   "lon": 125.0064,
+   "depth": 54.016,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789029714283,
+   "mag": 4.3,
+   "place": "60 km ENE of Ruteng, Indonesia",
+   "lat": -8.4186,
+   "lon": 120.9781,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789028813928,
+   "mag": 5.0,
+   "place": "44 km SSE of Quepos, Costa Rica",
+   "lat": 9.057,
+   "lon": -84.0167,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789025234276,
+   "mag": 4.3,
+   "place": "179 km WNW of Manado, Indonesia",
+   "lat": 2.2614,
+   "lon": 123.431,
+   "depth": 451.154,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789022560227,
+   "mag": 5.3,
+   "place": "123 km WSW of Alianza Cristiana, Peru",
+   "lat": -3.8999,
+   "lon": -77.4661,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789020527419,
+   "mag": 4.4,
+   "place": "107 km SW of Puerto Madero, Mexico",
+   "lat": 14.0795,
+   "lon": -93.1652,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789017488805,
+   "mag": 4.2,
+   "place": "66 km WNW of Lake Louise, Alaska",
+   "lat": 62.506,
+   "lon": -147.742,
+   "depth": 15.8,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789015314917,
+   "mag": 4.1,
+   "place": "Fiji region",
+   "lat": -19.252,
+   "lon": -177.5816,
+   "depth": 573.156,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789008796795,
+   "mag": 4.0,
+   "place": "147 km W of Neiafu, Tonga",
+   "lat": -18.4365,
+   "lon": -175.3618,
+   "depth": 228.165,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1789005456656,
+   "mag": 4.3,
+   "place": "86 km SSE of La Tirana, Chile",
+   "lat": -21.004,
+   "lon": -69.2222,
+   "depth": 119.704,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788994882967,
+   "mag": 4.4,
+   "place": "186 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "lat": 51.8713,
+   "lon": 160.5574,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788989394366,
+   "mag": 4.8,
+   "place": "Mid-Indian Ridge",
+   "lat": -28.559,
+   "lon": 74.3255,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788988110964,
+   "mag": 4.3,
+   "place": "102 km SW of Puerto Madero, Mexico",
+   "lat": 14.1582,
+   "lon": -93.1815,
+   "depth": 35,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788985272084,
+   "mag": 4.7,
+   "place": "158 km SSE of Isangel, Vanuatu",
+   "lat": -20.8661,
+   "lon": 169.8461,
+   "depth": 90.849,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788985054974,
+   "mag": 4.4,
+   "place": "30 km N of Bardaskan, Iran",
+   "lat": 35.5336,
+   "lon": 58.0239,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788985030315,
+   "mag": 4.6,
+   "place": "25 km SE of Rasht, Tajikistan",
+   "lat": 38.8791,
+   "lon": 70.5965,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788982155706,
+   "mag": 4.0,
+   "place": "197 km WNW of Abepura, Indonesia",
+   "lat": -2.043,
+   "lon": 138.9476,
+   "depth": 28.867,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788981982523,
+   "mag": 4.3,
+   "place": "118 km SE of Bushehr, Iran",
+   "lat": 28.1035,
+   "lon": 51.5562,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788981311749,
+   "mag": 4.9,
+   "place": "78 km ESE of Isangel, Vanuatu",
+   "lat": -19.7045,
+   "lon": 170.0126,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788981263606,
+   "mag": 4.2,
+   "place": "277 km ESE of Sola, Vanuatu",
+   "lat": -14.4903,
+   "lon": 170.0448,
+   "depth": 614.125,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788977942792,
+   "mag": 4.6,
+   "place": "Fiji region",
+   "lat": -20.6761,
+   "lon": -178.1379,
+   "depth": 502.116,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788976967467,
+   "mag": 4.4,
+   "place": "36 km SSW of Ashkāsham, Afghanistan",
+   "lat": 36.3609,
+   "lon": 71.4373,
+   "depth": 112.97,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788976742321,
+   "mag": 4.6,
+   "place": "62 km E of Saipan, Northern Mariana Islands",
+   "lat": 15.2793,
+   "lon": 146.3353,
+   "depth": 56.217,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788975952505,
+   "mag": 4.6,
+   "place": "61 km NW of Pante Makasar, Timor Leste",
+   "lat": -8.805,
+   "lon": 123.9956,
+   "depth": 72.426,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788974325412,
+   "mag": 5.1,
+   "place": "85 km ESE of Isangel, Vanuatu",
+   "lat": -19.7601,
+   "lon": 170.0654,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788973405668,
+   "mag": 4.0,
+   "place": "28 km SE of Chayek, Kyrgyzstan",
+   "lat": 41.7682,
+   "lon": 74.7934,
+   "depth": 12.111,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788973312187,
+   "mag": 5.2,
+   "place": "77 km ESE of Isangel, Vanuatu",
+   "lat": -19.8119,
+   "lon": 169.9611,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788958516814,
+   "mag": 4.4,
+   "place": "75 km ESE of Isangel, Vanuatu",
+   "lat": -19.8372,
+   "lon": 169.9323,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788956298632,
+   "mag": 4.5,
+   "place": "97 km NNE of Hihifo, Tonga",
+   "lat": -15.1723,
+   "lon": -173.3756,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788952335206,
+   "mag": 4.5,
+   "place": "63 km N of Naisano Dua, Indonesia",
+   "lat": -9.0233,
+   "lon": 123.7265,
+   "depth": 64.58,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788951099030,
+   "mag": 4.6,
+   "place": "30 km WSW of Jiyuan, China",
+   "lat": 34.9738,
+   "lon": 112.2721,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788950281945,
+   "mag": 4.5,
+   "place": "southeast of Easter Island",
+   "lat": -36.2377,
+   "lon": -100.0386,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788948728894,
+   "mag": 4.6,
+   "place": "224 km NE of Xilin Hot, China",
+   "lat": 45.2076,
+   "lon": 118.2598,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788948417769,
+   "mag": 4.9,
+   "place": "62 km W of Cafayate, Argentina",
+   "lat": -26.0568,
+   "lon": -66.6066,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788942797696,
+   "mag": 4.4,
+   "place": "Fiji region",
+   "lat": -18.3639,
+   "lon": -177.6354,
+   "depth": 515.428,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788940467789,
+   "mag": 4.3,
+   "place": "Banda Sea",
+   "lat": -6.8302,
+   "lon": 129.7347,
+   "depth": 175.023,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788937622446,
+   "mag": 5.0,
+   "place": "162 km SSW of Sarangani, Philippines",
+   "lat": 3.9944,
+   "lon": 125.0457,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788927455375,
+   "mag": 4.2,
+   "place": "23 km ENE of Calama, Chile",
+   "lat": -22.374,
+   "lon": -68.7091,
+   "depth": 113.384,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788920526221,
+   "mag": 4.5,
+   "place": "east of the Kuril Islands",
+   "lat": 46.8141,
+   "lon": 155.8112,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788919817390,
+   "mag": 4.9,
+   "place": "Pacific-Antarctic Ridge",
+   "lat": -56.1698,
+   "lon": -138.8564,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788919586017,
+   "mag": 4.9,
+   "place": "Pacific-Antarctic Ridge",
+   "lat": -55.989,
+   "lon": -138.9676,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788918795663,
+   "mag": 4.5,
+   "place": "central East Pacific Rise",
+   "lat": -9.0824,
+   "lon": -108.2788,
+   "depth": 10,
+   "country": "לא זוהתה מדינה"
+  },
+  {
+   "time": 1788915868107,
+   "mag": 4.1,
+   "place": "72 km SE of Tambolaka, Indonesia",
+   "lat": -9.9366,
+   "lon": 119.6516,
+   "depth": 41.48,
+   "country": "לא זוהתה מדינה"
+  }
+ ]
+};
