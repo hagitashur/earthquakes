@@ -16,10 +16,11 @@
 - `docs/SPEC.md` – אפיון, `docs/PLAN.md` – תוכנית עבודה, `docs/CHANGELOG.md` – יומן שינויים
 - `SOURCES.md` – מקורות
 
-## איך מפעילים
-1. בגיטהאב: לשונית **Actions** → **fetch-quakes** → **Run workflow**.
-2. אחרי שההרצה מסתיימת, קובץ `data/quakes.js` מופיע בריפו.
-3. פותחים את `index.html` בדפדפן (או דרך GitHub Pages).
+## עדכון הנתונים
+הנתונים מתעדכנים **אוטומטית פעם ביום** (03:17 UTC, כ-06:17 שעון ישראל בקיץ). אפשר גם להריץ ידנית: לשונית **Actions** → **fetch-quakes** → **Run workflow**.
+
+## צפייה
+הדשבורד חי ב-GitHub Pages: https://hagitashur.github.io/earthquakes/ (או פותחים את `index.html` מקומית).
 
 ## מצב נוכחי
 השליפה מ-USGS עובדת ונבדקה מול המקור. פירוט ב-`docs/CHANGELOG.md`.

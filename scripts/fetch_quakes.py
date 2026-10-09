@@ -60,7 +60,9 @@ def area_from_place(place):
     כשאין פסיק (למשל 'Mid-Atlantic Ridge') מוחזר הטקסט כולו."""
     if not place:
         return ""
-    return place.rsplit(",", 1)[1].strip() if "," in place else place.strip()
+    area = place.rsplit(",", 1)[1].strip() if "," in place else place.strip()
+    # "Japan region" -> "Japan": USGS מוסיף "region" לאזורים שאין להם מיקום מדויק
+    return area[: -len(" region")] if area.endswith(" region") and len(area) > len(" region") else area
 
 
 def parse_events(geojson):
