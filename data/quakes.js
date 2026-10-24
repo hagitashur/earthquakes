@@ -1,17 +1,17 @@
 window.QUAKES_DATA = {
  "meta": {
-  "fetched_at_utc": "2026-10-23T08:39:20+00:00",
-  "range_start_utc": "2026-09-23T08:39:20+00:00",
-  "range_end_utc": "2026-10-23T08:39:20+00:00",
+  "fetched_at_utc": "2026-10-24T08:14:15+00:00",
+  "range_start_utc": "2026-09-24T08:14:15+00:00",
+  "range_end_utc": "2026-10-24T08:14:15+00:00",
   "min_magnitude": 4.0,
   "source_is_local_test_file": false
  },
  "summary": {
-  "total_4_and_above": 1107,
+  "total_4_and_above": 1143,
   "buckets": {
-   "4.0-4.9": 924,
-   "5.0-5.9": 168,
-   "6.0-6.9": 13,
+   "4.0-4.9": 949,
+   "5.0-5.9": 177,
+   "6.0-6.9": 15,
    "7.0 ומעלה": 2
   },
   "strongest": {
@@ -25,6 +25,402 @@ window.QUAKES_DATA = {
   }
  },
  "events": [
+  {
+   "time": 1792827084597,
+   "mag": 4.4,
+   "place": "74 km SSW of Puerto Madero, Mexico",
+   "area": "Mexico",
+   "lat": 14.1588,
+   "lon": -92.7995,
+   "depth": 35
+  },
+  {
+   "time": 1792825083586,
+   "mag": 4.7,
+   "place": "195 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.8532,
+   "lon": 165.7268,
+   "depth": 10
+  },
+  {
+   "time": 1792824724142,
+   "mag": 5.0,
+   "place": "219 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.8777,
+   "lon": 165.4237,
+   "depth": 10
+  },
+  {
+   "time": 1792824189602,
+   "mag": 5.5,
+   "place": "55 km NNE of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.5918,
+   "lon": 167.3063,
+   "depth": 194.632
+  },
+  {
+   "time": 1792822856869,
+   "mag": 4.6,
+   "place": "206 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.8228,
+   "lon": 165.6213,
+   "depth": 10
+  },
+  {
+   "time": 1792821856367,
+   "mag": 5.3,
+   "place": "174 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.1278,
+   "lon": 165.7535,
+   "depth": 10
+  },
+  {
+   "time": 1792820266052,
+   "mag": 4.5,
+   "place": "175 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.051,
+   "lon": 165.8047,
+   "depth": 10
+  },
+  {
+   "time": 1792820154921,
+   "mag": 4.5,
+   "place": "184 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.9786,
+   "lon": 165.7483,
+   "depth": 10
+  },
+  {
+   "time": 1792819420747,
+   "mag": 5.8,
+   "place": "182 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.0833,
+   "lon": 165.6982,
+   "depth": 10
+  },
+  {
+   "time": 1792818634753,
+   "mag": 4.8,
+   "place": "219 km WNW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.0054,
+   "lon": 165.3365,
+   "depth": 10
+  },
+  {
+   "time": 1792817361707,
+   "mag": 5.1,
+   "place": "217 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.8521,
+   "lon": 165.4673,
+   "depth": 10
+  },
+  {
+   "time": 1792817085324,
+   "mag": 5.0,
+   "place": "161 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.165,
+   "lon": 165.8739,
+   "depth": 10
+  },
+  {
+   "time": 1792815578628,
+   "mag": 5.3,
+   "place": "216 km W of Sola, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.7325,
+   "lon": 165.551,
+   "depth": 10
+  },
+  {
+   "time": 1792815125337,
+   "mag": 5.8,
+   "place": "203 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.9017,
+   "lon": 165.5967,
+   "depth": 10
+  },
+  {
+   "time": 1792814736800,
+   "mag": 5.7,
+   "place": "205 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.9084,
+   "lon": 165.5627,
+   "depth": 10
+  },
+  {
+   "time": 1792813895267,
+   "mag": 4.9,
+   "place": "186 km WNW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.1222,
+   "lon": 165.625,
+   "depth": 10
+  },
+  {
+   "time": 1792811875755,
+   "mag": 5.2,
+   "place": "202 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.8805,
+   "lon": 165.6161,
+   "depth": 10
+  },
+  {
+   "time": 1792811325463,
+   "mag": 5.1,
+   "place": "170 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.1211,
+   "lon": 165.8052,
+   "depth": 10
+  },
+  {
+   "time": 1792809357362,
+   "mag": 6.3,
+   "place": "170 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.0424,
+   "lon": 165.8666,
+   "depth": 10
+  },
+  {
+   "time": 1792809088641,
+   "mag": 6.9,
+   "place": "197 km WNW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.0558,
+   "lon": 165.5455,
+   "depth": 10
+  },
+  {
+   "time": 1792801664940,
+   "mag": 4.5,
+   "place": "195 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.9871,
+   "lon": 165.6177,
+   "depth": 10
+  },
+  {
+   "time": 1792800476787,
+   "mag": 4.9,
+   "place": "209 km ENE of Nagqu, China",
+   "area": "China",
+   "lat": 32.5271,
+   "lon": 93.9004,
+   "depth": 10
+  },
+  {
+   "time": 1792796905010,
+   "mag": 4.0,
+   "place": "65 km NNW of Nikolski, Alaska",
+   "area": "Alaska",
+   "lat": 53.502,
+   "lon": -169.17,
+   "depth": 242.9
+  },
+  {
+   "time": 1792795371088,
+   "mag": 4.9,
+   "place": "115 km NE of Norsup, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -15.4328,
+   "lon": 168.2523,
+   "depth": 10
+  },
+  {
+   "time": 1792795150336,
+   "mag": 4.3,
+   "place": "210 km NE of Nagqu, China",
+   "area": "China",
+   "lat": 32.596,
+   "lon": 93.8538,
+   "depth": 10
+  },
+  {
+   "time": 1792794256303,
+   "mag": 4.8,
+   "place": "6 km ENE of Starobachaty, Russia",
+   "area": "Russia",
+   "lat": 54.2668,
+   "lon": 86.2951,
+   "depth": 10
+  },
+  {
+   "time": 1792793395248,
+   "mag": 4.1,
+   "place": "55 km ESE of Farkhār, Afghanistan",
+   "area": "Afghanistan",
+   "lat": 36.4546,
+   "lon": 70.4579,
+   "depth": 211.11
+  },
+  {
+   "time": 1792793110711,
+   "mag": 5.1,
+   "place": "203 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.8764,
+   "lon": 165.6172,
+   "depth": 10
+  },
+  {
+   "time": 1792791664400,
+   "mag": 4.6,
+   "place": "73 km ENE of Kinablangan, Philippines",
+   "area": "Philippines",
+   "lat": 7.9163,
+   "lon": 127.1813,
+   "depth": 10
+  },
+  {
+   "time": 1792788496356,
+   "mag": 4.9,
+   "place": "35 km ESE of Hualien City, Taiwan",
+   "area": "Taiwan",
+   "lat": 23.8528,
+   "lon": 121.929,
+   "depth": 13.817
+  },
+  {
+   "time": 1792787861989,
+   "mag": 4.8,
+   "place": "209 km ENE of Nagqu, China",
+   "area": "China",
+   "lat": 32.4693,
+   "lon": 93.943,
+   "depth": 10
+  },
+  {
+   "time": 1792775185116,
+   "mag": 4.6,
+   "place": "91 km ESE of Tuensang, India",
+   "area": "India",
+   "lat": 25.9295,
+   "lon": 95.6545,
+   "depth": 116.703
+  },
+  {
+   "time": 1792771671754,
+   "mag": 5.1,
+   "place": "72 km ENE of Noda, Japan",
+   "area": "Japan",
+   "lat": 40.4159,
+   "lon": 142.572,
+   "depth": 38.138
+  },
+  {
+   "time": 1792769533051,
+   "mag": 4.7,
+   "place": "52 km WNW of Malfa, Italy",
+   "area": "Italy",
+   "lat": 38.8141,
+   "lon": 14.3074,
+   "depth": 10
+  },
+  {
+   "time": 1792766476206,
+   "mag": 4.5,
+   "place": "233 km ENE of Nagqu, China",
+   "area": "China",
+   "lat": 32.5642,
+   "lon": 94.1749,
+   "depth": 10
+  },
+  {
+   "time": 1792764844311,
+   "mag": 4.7,
+   "place": "215 km NE of Nagqu, China",
+   "area": "China",
+   "lat": 32.5717,
+   "lon": 93.9443,
+   "depth": 10
+  },
+  {
+   "time": 1792763736149,
+   "mag": 5.2,
+   "place": "50 km WNW of Malfa, Italy",
+   "area": "Italy",
+   "lat": 38.7787,
+   "lon": 14.315,
+   "depth": 10
+  },
+  {
+   "time": 1792761080125,
+   "mag": 4.2,
+   "place": "197 km W of Tual, Indonesia",
+   "area": "Indonesia",
+   "lat": -5.6817,
+   "lon": 130.9736,
+   "depth": 81.955
+  },
+  {
+   "time": 1792758264746,
+   "mag": 4.5,
+   "place": "207 km NE of Lospalos, Timor Leste",
+   "area": "Timor Leste",
+   "lat": -7.3421,
+   "lon": 128.4666,
+   "depth": 128.107
+  },
+  {
+   "time": 1792757987354,
+   "mag": 4.5,
+   "place": "193 km ENE of Levuka, Fiji",
+   "area": "Fiji",
+   "lat": -17.6833,
+   "lon": -178.9021,
+   "depth": 571.735
+  },
+  {
+   "time": 1792750756729,
+   "mag": 5.7,
+   "place": "61 km WNW of Leni, Italy",
+   "area": "Italy",
+   "lat": 38.7199,
+   "lon": 14.152,
+   "depth": 10
+  },
+  {
+   "time": 1792749099628,
+   "mag": 4.9,
+   "place": "53 km WNW of Leni, Italy",
+   "area": "Italy",
+   "lat": 38.7219,
+   "lon": 14.2527,
+   "depth": 10
+  },
+  {
+   "time": 1792746576956,
+   "mag": 4.5,
+   "place": "18 km WNW of Bantogon, Philippines",
+   "area": "Philippines",
+   "lat": 6.5678,
+   "lon": 123.8685,
+   "depth": 591.289
+  },
+  {
+   "time": 1792743430700,
+   "mag": 4.5,
+   "place": "Balleny Islands region",
+   "area": "Balleny Islands",
+   "lat": -61.6714,
+   "lon": 154.0786,
+   "depth": 10
+  },
   {
    "time": 1792737889518,
    "mag": 4.2,
@@ -413,6 +809,15 @@ window.QUAKES_DATA = {
    "depth": 103.228
   },
   {
+   "time": 1792628738898,
+   "mag": 5.0,
+   "place": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
+   "lat": -55.9673,
+   "lon": -27.0602,
+   "depth": 60.915
+  },
+  {
    "time": 1792619927741,
    "mag": 5.0,
    "place": "Reykjanes Ridge",
@@ -555,6 +960,15 @@ window.QUAKES_DATA = {
    "lat": 53.4261,
    "lon": -163.4612,
    "depth": 20.471
+  },
+  {
+   "time": 1792581856732,
+   "mag": 4.9,
+   "place": "Ascension Island region",
+   "area": "Ascension Island",
+   "lat": -6.8385,
+   "lon": -11.3498,
+   "depth": 10
   },
   {
    "time": 1792579561943,
@@ -843,6 +1257,15 @@ window.QUAKES_DATA = {
    "lat": 18.2529,
    "lon": 146.0345,
    "depth": 129.361
+  },
+  {
+   "time": 1792457910683,
+   "mag": 4.8,
+   "place": "197 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.9281,
+   "lon": 165.6441,
+   "depth": 10
   },
   {
    "time": 1792457792769,
@@ -1268,6 +1691,15 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
+   "time": 1792344526925,
+   "mag": 4.6,
+   "place": "36 km S of Inarajan Village, Guam",
+   "area": "Guam",
+   "lat": 12.9409,
+   "lon": 144.7428,
+   "depth": 44.439
+  },
+  {
    "time": 1792339975030,
    "mag": 4.5,
    "place": "0 km NE of Río Grande, Panama",
@@ -1310,6 +1742,15 @@ window.QUAKES_DATA = {
    "area": "New Zealand",
    "lat": -30.1265,
    "lon": -177.3838,
+   "depth": 10
+  },
+  {
+   "time": 1792315838551,
+   "mag": 4.6,
+   "place": "Carlsberg Ridge",
+   "area": "Carlsberg Ridge",
+   "lat": -2.7505,
+   "lon": 67.981,
    "depth": 10
   },
   {
@@ -1574,6 +2015,15 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
+   "time": 1792172858353,
+   "mag": 4.4,
+   "place": "283 km ENE of Lospalos, Timor Leste",
+   "area": "Timor Leste",
+   "lat": -7.1931,
+   "lon": 129.1949,
+   "depth": 169.517
+  },
+  {
    "time": 1792167962635,
    "mag": 4.4,
    "place": "111 km ESE of Bitung, Indonesia",
@@ -1700,12 +2150,21 @@ window.QUAKES_DATA = {
    "depth": 593.722
   },
   {
-   "time": 1792140933418,
-   "mag": 4.4,
-   "place": "66 km N of Mīnāb, Iran",
+   "time": 1792141170109,
+   "mag": 4.5,
+   "place": "66 km NNE of Mīnāb, Iran",
    "area": "Iran",
-   "lat": 27.7269,
-   "lon": 57.1201,
+   "lat": 27.6863,
+   "lon": 57.3424,
+   "depth": 10
+  },
+  {
+   "time": 1792140933291,
+   "mag": 4.5,
+   "place": "65 km NNE of Mīnāb, Iran",
+   "area": "Iran",
+   "lat": 27.6891,
+   "lon": 57.2959,
    "depth": 10
   },
   {
@@ -1880,13 +2339,49 @@ window.QUAKES_DATA = {
    "depth": 63.291
   },
   {
-   "time": 1792041931942,
+   "time": 1792054255833,
+   "mag": 4.7,
+   "place": "Southwest Indian Ridge",
+   "area": "Southwest Indian Ridge",
+   "lat": -27.8222,
+   "lon": 64.2871,
+   "depth": 10
+  },
+  {
+   "time": 1792051803751,
+   "mag": 4.2,
+   "place": "Mariana Islands region",
+   "area": "Mariana Islands",
+   "lat": 19.5947,
+   "lon": 146.1939,
+   "depth": 74.826
+  },
+  {
+   "time": 1792042566637,
+   "mag": 4.7,
+   "place": "172 km SSW of Merizo Village, Guam",
+   "area": "Guam",
+   "lat": 11.9332,
+   "lon": 143.8365,
+   "depth": 10
+  },
+  {
+   "time": 1792041931982,
    "mag": 5.3,
-   "place": "43 km SSE of Otorohanga, New Zealand",
+   "place": "46 km SSE of Otorohanga, New Zealand",
    "area": "New Zealand",
-   "lat": -38.5478,
-   "lon": 175.3814,
-   "depth": 286.008
+   "lat": -38.5782,
+   "lon": 175.3818,
+   "depth": 283.842
+  },
+  {
+   "time": 1792041008544,
+   "mag": 4.2,
+   "place": "9 km W of Ōami, Japan",
+   "area": "Japan",
+   "lat": 35.5286,
+   "lon": 140.2166,
+   "depth": 56.581
   },
   {
    "time": 1792039273820,
@@ -2546,22 +3041,40 @@ window.QUAKES_DATA = {
    "depth": 35
   },
   {
-   "time": 1791821545209,
-   "mag": 4.2,
-   "place": "76 km ESE of Maumere, Indonesia",
+   "time": 1791824198596,
+   "mag": 4.1,
+   "place": "32 km W of Tambolaka, Indonesia",
    "area": "Indonesia",
-   "lat": -8.795,
-   "lon": 122.8849,
-   "depth": 98.413
+   "lat": -9.4513,
+   "lon": 118.9409,
+   "depth": 65.645
   },
   {
-   "time": 1791819873749,
+   "time": 1791821545341,
+   "mag": 4.2,
+   "place": "74 km ESE of Maumere, Indonesia",
+   "area": "Indonesia",
+   "lat": -8.7752,
+   "lon": 122.8745,
+   "depth": 100.903
+  },
+  {
+   "time": 1791819873908,
    "mag": 4.9,
-   "place": "283 km SSW of Severo-Kuril’sk, Russia",
+   "place": "278 km SSW of Severo-Kuril’sk, Russia",
    "area": "Russia",
-   "lat": 48.2626,
-   "lon": 154.8502,
+   "lat": 48.297,
+   "lon": 154.9229,
    "depth": 35
+  },
+  {
+   "time": 1791819727338,
+   "mag": 4.4,
+   "place": "38 km SSE of Kupang, Indonesia",
+   "area": "Indonesia",
+   "lat": -10.4787,
+   "lon": 123.7701,
+   "depth": 10
   },
   {
    "time": 1791819441474,
@@ -2915,13 +3428,31 @@ window.QUAKES_DATA = {
    "depth": 83.386
   },
   {
-   "time": 1791735865015,
+   "time": 1791737282052,
    "mag": 4.7,
-   "place": "6 km ESE of Tōgane, Japan",
+   "place": "18 km NNW of Igugunu, Tanzania",
+   "area": "Tanzania",
+   "lat": -4.4024,
+   "lon": 34.5941,
+   "depth": 10
+  },
+  {
+   "time": 1791737265972,
+   "mag": 4.5,
+   "place": "23 km SSW of Katesh, Tanzania",
+   "area": "Tanzania",
+   "lat": -4.714,
+   "lon": 35.2899,
+   "depth": 10
+  },
+  {
+   "time": 1791735865965,
+   "mag": 4.7,
+   "place": "4 km SE of Narutō, Japan",
    "area": "Japan",
-   "lat": 35.5301,
-   "lon": 140.4377,
-   "depth": 55.788
+   "lat": 35.5747,
+   "lon": 140.4517,
+   "depth": 66.923
   },
   {
    "time": 1791730655632,
@@ -4661,12 +5192,12 @@ window.QUAKES_DATA = {
    "depth": 61.654
   },
   {
-   "time": 1791347966324,
+   "time": 1791347965867,
    "mag": 4.9,
    "place": "South Sandwich Islands region",
    "area": "South Sandwich Islands",
-   "lat": -55.6737,
-   "lon": -30.0294,
+   "lat": -55.7058,
+   "lon": -29.9571,
    "depth": 10
   },
   {
@@ -5696,22 +6227,22 @@ window.QUAKES_DATA = {
    "depth": 53.321
   },
   {
-   "time": 1791074921995,
+   "time": 1791074921989,
    "mag": 4.3,
-   "place": "5 km SSW of Zonianá, Greece",
+   "place": "1 km W of Zonianá, Greece",
    "area": "Greece",
-   "lat": 35.2454,
-   "lon": 24.8055,
+   "lat": 35.2973,
+   "lon": 24.8149,
    "depth": 10
   },
   {
-   "time": 1791070654235,
+   "time": 1791070654268,
    "mag": 5.3,
-   "place": "81 km SSW of Banda Aceh, Indonesia",
+   "place": "85 km SSW of Banda Aceh, Indonesia",
    "area": "Indonesia",
-   "lat": 4.8247,
-   "lon": 95.1622,
-   "depth": 56.274
+   "lat": 4.7986,
+   "lon": 95.1352,
+   "depth": 55.019
   },
   {
    "time": 1791069287143,
@@ -5723,13 +6254,13 @@ window.QUAKES_DATA = {
    "depth": 78.176
   },
   {
-   "time": 1791069275782,
+   "time": 1791069275937,
    "mag": 4.5,
-   "place": "293 km SSE of Tabiauan, Philippines",
+   "place": "288 km SSE of Tabiauan, Philippines",
    "area": "Philippines",
-   "lat": 3.5895,
-   "lon": 122.9296,
-   "depth": 575.042
+   "lat": 3.6319,
+   "lon": 122.9136,
+   "depth": 573.378
   },
   {
    "time": 1791068155358,
@@ -5741,12 +6272,12 @@ window.QUAKES_DATA = {
    "depth": 45.951
   },
   {
-   "time": 1791066443407,
+   "time": 1791066443571,
    "mag": 4.3,
    "place": "Izu Islands, Japan region",
    "area": "Japan",
-   "lat": 29.053,
-   "lon": 142.8123,
+   "lat": 29.0144,
+   "lon": 142.7267,
    "depth": 10
   },
   {
@@ -6218,13 +6749,40 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1790949435825,
+   "time": 1790949435823,
    "mag": 5.0,
    "place": "4 km ENE of Inglewood, New Zealand",
    "area": "New Zealand",
-   "lat": -39.1361,
-   "lon": 174.2299,
+   "lat": -39.144,
+   "lon": 174.2319,
    "depth": 10
+  },
+  {
+   "time": 1790944488528,
+   "mag": 4.2,
+   "place": "Fiji region",
+   "area": "Fiji",
+   "lat": -20.8712,
+   "lon": -178.596,
+   "depth": 570.683
+  },
+  {
+   "time": 1790943807797,
+   "mag": 4.5,
+   "place": "121 km NW of Fangale’ounga, Tonga",
+   "area": "Tonga",
+   "lat": -19.0377,
+   "lon": -175.2047,
+   "depth": 114.188
+  },
+  {
+   "time": 1790942411143,
+   "mag": 4.1,
+   "place": "117 km N of Saipan, Northern Mariana Islands",
+   "area": "Northern Mariana Islands",
+   "lat": 16.2715,
+   "lon": 145.6774,
+   "depth": 176.444
   },
   {
    "time": 1790940916003,
@@ -6749,13 +7307,40 @@ window.QUAKES_DATA = {
    "depth": 31.929
   },
   {
-   "time": 1790792479257,
-   "mag": 5.0,
-   "place": "142 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "time": 1790792477454,
+   "mag": 4.9,
+   "place": "146 km SE of Petropavlovsk-Kamchatsky, Russia",
    "area": "Russia",
-   "lat": 52.3167,
-   "lon": 160.3332,
-   "depth": 35
+   "lat": 52.3349,
+   "lon": 160.4351,
+   "depth": 21.666
+  },
+  {
+   "time": 1790791160870,
+   "mag": 4.1,
+   "place": "135 km SE of Itoman, Japan",
+   "area": "Japan",
+   "lat": 25.1961,
+   "lon": 128.5386,
+   "depth": 10
+  },
+  {
+   "time": 1790788449843,
+   "mag": 4.6,
+   "place": "south of the Kermadec Islands",
+   "area": "south of the Kermadec Islands",
+   "lat": -32.6482,
+   "lon": -178.7938,
+   "depth": 26.54
+  },
+  {
+   "time": 1790788039818,
+   "mag": 4.5,
+   "place": "143 km S of Sarangani, Philippines",
+   "area": "Philippines",
+   "lat": 4.1113,
+   "lon": 125.322,
+   "depth": 9.995
   },
   {
    "time": 1790785772708,
@@ -7145,49 +7730,85 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1790698382568,
-   "mag": 4.7,
-   "place": "50 km N of Fangale’ounga, Tonga",
+   "time": 1790698375947,
+   "mag": 4.8,
+   "place": "40 km NNE of Fangale’ounga, Tonga",
    "area": "Tonga",
-   "lat": -19.2971,
-   "lon": -174.2536,
-   "depth": 56.776
-  },
-  {
-   "time": 1790695878586,
-   "mag": 4.6,
-   "place": "West Chile Rise",
-   "area": "West Chile Rise",
-   "lat": -40.9373,
-   "lon": -91.4145,
+   "lat": -19.4015,
+   "lon": -174.2047,
    "depth": 10
   },
   {
-   "time": 1790695038167,
-   "mag": 4.8,
+   "time": 1790696930099,
+   "mag": 4.0,
+   "place": "3 km NNW of Mene Grande, Venezuela",
+   "area": "Venezuela",
+   "lat": 9.8785,
+   "lon": -70.9377,
+   "depth": 10
+  },
+  {
+   "time": 1790695878678,
+   "mag": 4.6,
+   "place": "West Chile Rise",
+   "area": "West Chile Rise",
+   "lat": -40.9439,
+   "lon": -91.5592,
+   "depth": 10
+  },
+  {
+   "time": 1790695255107,
+   "mag": 4.6,
+   "place": "73 km ESE of Lakatoro, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -16.3816,
+   "lon": 168.0405,
+   "depth": 197.459
+  },
+  {
+   "time": 1790695036548,
+   "mag": 4.9,
    "place": "South Sandwich Islands region",
    "area": "South Sandwich Islands",
-   "lat": -58.7473,
-   "lon": -25.9552,
-   "depth": 114.229
+   "lat": -58.767,
+   "lon": -25.7523,
+   "depth": 101.75
   },
   {
-   "time": 1790692828155,
-   "mag": 4.4,
-   "place": "192 km ESE of Mil’kovo, Russia",
+   "time": 1790692827819,
+   "mag": 4.3,
+   "place": "187 km ESE of Mil’kovo, Russia",
    "area": "Russia",
-   "lat": 54.0783,
-   "lon": 161.3866,
-   "depth": 54.014
+   "lat": 54.0552,
+   "lon": 161.2853,
+   "depth": 53.194
   },
   {
-   "time": 1790691245529,
+   "time": 1790691245901,
    "mag": 4.9,
-   "place": "61 km NW of Pante Makasar, Timor Leste",
+   "place": "62 km NNW of Pante Makasar, Timor Leste",
    "area": "Timor Leste",
-   "lat": -8.8321,
-   "lon": 123.9679,
-   "depth": 153.006
+   "lat": -8.7188,
+   "lon": 124.0814,
+   "depth": 157.121
+  },
+  {
+   "time": 1790690237014,
+   "mag": 4.3,
+   "place": "Kuril Islands",
+   "area": "Kuril Islands",
+   "lat": 47.0183,
+   "lon": 151.8933,
+   "depth": 66.505
+  },
+  {
+   "time": 1790689255302,
+   "mag": 4.4,
+   "place": "40 km ENE of Barcelona, Philippines",
+   "area": "Philippines",
+   "lat": 8.3025,
+   "lon": 126.768,
+   "depth": 9.188
   },
   {
    "time": 1790688394796,
@@ -9690,303 +10311,6 @@ window.QUAKES_DATA = {
    "lat": 35.6375,
    "lon": 140.8168,
    "depth": 51.549
-  },
-  {
-   "time": 1790235658085,
-   "mag": 5.1,
-   "place": "20 km SW of Hilvan, Turkey",
-   "area": "Turkey",
-   "lat": 37.4638,
-   "lon": 38.7755,
-   "depth": 10
-  },
-  {
-   "time": 1790235548396,
-   "mag": 4.1,
-   "place": "22 km SSW of Sipí, Colombia",
-   "area": "Colombia",
-   "lat": 4.474,
-   "lon": -76.7393,
-   "depth": 73.074
-  },
-  {
-   "time": 1790234538558,
-   "mag": 4.1,
-   "place": "145 km S of False Pass, Alaska",
-   "area": "Alaska",
-   "lat": 53.5607,
-   "lon": -163.6974,
-   "depth": 37.057
-  },
-  {
-   "time": 1790233624384,
-   "mag": 4.4,
-   "place": "57 km WSW of San Antonio, Chile",
-   "area": "Chile",
-   "lat": -33.8528,
-   "lon": -72.1461,
-   "depth": 26.66
-  },
-  {
-   "time": 1790221098995,
-   "mag": 4.1,
-   "place": "22 km SW of Hihifo, Tonga",
-   "area": "Tonga",
-   "lat": -16.1197,
-   "lon": -173.912,
-   "depth": 85.501
-  },
-  {
-   "time": 1790220625829,
-   "mag": 4.4,
-   "place": "33 km NNW of Komodo, Indonesia",
-   "area": "Indonesia",
-   "lat": -8.3085,
-   "lon": 119.3723,
-   "depth": 10
-  },
-  {
-   "time": 1790220517619,
-   "mag": 4.1,
-   "place": "6 km NNW of Cuajinicuilapa, Mexico",
-   "area": "Mexico",
-   "lat": 16.5296,
-   "lon": -98.4264,
-   "depth": 32.436
-  },
-  {
-   "time": 1790211231108,
-   "mag": 4.3,
-   "place": "270 km WNW of Neiafu, Tonga",
-   "area": "Tonga",
-   "lat": -17.3914,
-   "lon": -176.1745,
-   "depth": 341.284
-  },
-  {
-   "time": 1790209598343,
-   "mag": 4.6,
-   "place": "215 km WNW of Abepura, Indonesia",
-   "area": "Indonesia",
-   "lat": -1.8513,
-   "lon": 138.8464,
-   "depth": 35
-  },
-  {
-   "time": 1790202680428,
-   "mag": 4.5,
-   "place": "50 km ESE of Finschhafen, Papua New Guinea",
-   "area": "Papua New Guinea",
-   "lat": -6.6538,
-   "lon": 148.2903,
-   "depth": 35
-  },
-  {
-   "time": 1790199324920,
-   "mag": 4.4,
-   "place": "37 km NNE of Kuji, Japan",
-   "area": "Japan",
-   "lat": 40.4839,
-   "lon": 141.9851,
-   "depth": 68.23
-  },
-  {
-   "time": 1790198968406,
-   "mag": 4.1,
-   "place": "3 km SE of El Chocolate, Mexico",
-   "area": "Mexico",
-   "lat": 16.9095,
-   "lon": -95.0733,
-   "depth": 92.58
-  },
-  {
-   "time": 1790195440455,
-   "mag": 4.4,
-   "place": "41 km ENE of Labuan Lombok, Indonesia",
-   "area": "Indonesia",
-   "lat": -8.3202,
-   "lon": 116.9992,
-   "depth": 10
-  },
-  {
-   "time": 1790194183743,
-   "mag": 4.6,
-   "place": "10 km NW of Chaparral, Colombia",
-   "area": "Colombia",
-   "lat": 3.8018,
-   "lon": -75.5426,
-   "depth": 62.562
-  },
-  {
-   "time": 1790185566613,
-   "mag": 5.0,
-   "place": "138 km NNE of Ba, Fiji",
-   "area": "Fiji",
-   "lat": -16.3322,
-   "lon": 178.0282,
-   "depth": 10
-  },
-  {
-   "time": 1790185208324,
-   "mag": 4.2,
-   "place": "74 km NW of Sola, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -13.4309,
-   "lon": 167.0298,
-   "depth": 184.208
-  },
-  {
-   "time": 1790184032780,
-   "mag": 4.9,
-   "place": "193 km SE of Mata-Utu, Wallis and Futuna",
-   "area": "Wallis and Futuna",
-   "lat": -14.6499,
-   "lon": -175.0584,
-   "depth": 10
-  },
-  {
-   "time": 1790182117534,
-   "mag": 4.6,
-   "place": "64 km WNW of San Antonio de los Cobres, Argentina",
-   "area": "Argentina",
-   "lat": -24.0947,
-   "lon": -66.9376,
-   "depth": 188.827
-  },
-  {
-   "time": 1790181392521,
-   "mag": 4.4,
-   "place": "197 km N of Fais, Micronesia",
-   "area": "Micronesia",
-   "lat": 11.5503,
-   "lon": 140.6463,
-   "depth": 54.289
-  },
-  {
-   "time": 1790179112927,
-   "mag": 4.4,
-   "place": "132 km SSW of Merizo Village, Guam",
-   "area": "Guam",
-   "lat": 12.1231,
-   "lon": 144.3018,
-   "depth": 10
-  },
-  {
-   "time": 1790176881433,
-   "mag": 4.4,
-   "place": "62 km ENE of Shikotan, Russia",
-   "area": "Russia",
-   "lat": 43.949,
-   "lon": 147.4706,
-   "depth": 58.311
-  },
-  {
-   "time": 1790174738284,
-   "mag": 4.6,
-   "place": "south of the Fiji Islands",
-   "area": "south of the Fiji Islands",
-   "lat": -23.9074,
-   "lon": 178.9955,
-   "depth": 548.399
-  },
-  {
-   "time": 1790174462868,
-   "mag": 5.7,
-   "place": "194 km SSE of Mata-Utu, Wallis and Futuna",
-   "area": "Wallis and Futuna",
-   "lat": -14.7945,
-   "lon": -175.2655,
-   "depth": 10
-  },
-  {
-   "time": 1790173172083,
-   "mag": 4.2,
-   "place": "20 km W of Luzon, Philippines",
-   "area": "Philippines",
-   "lat": 6.4935,
-   "lon": 125.9073,
-   "depth": 148.83
-  },
-  {
-   "time": 1790168511754,
-   "mag": 5.0,
-   "place": "Mariana Islands region",
-   "area": "Mariana Islands",
-   "lat": 21.6538,
-   "lon": 143.0012,
-   "depth": 306.98
-  },
-  {
-   "time": 1790166198556,
-   "mag": 4.6,
-   "place": "125 km WNW of Ternate, Indonesia",
-   "area": "Indonesia",
-   "lat": 1.2474,
-   "lon": 126.3547,
-   "depth": 35
-  },
-  {
-   "time": 1790161767721,
-   "mag": 4.5,
-   "place": "southern East Pacific Rise",
-   "area": "southern East Pacific Rise",
-   "lat": -34.9473,
-   "lon": -108.4397,
-   "depth": 10
-  },
-  {
-   "time": 1790161092445,
-   "mag": 4.5,
-   "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands",
-   "lat": -58.4079,
-   "lon": -26.306,
-   "depth": 155.209
-  },
-  {
-   "time": 1790159584369,
-   "mag": 4.5,
-   "place": "Socotra region",
-   "area": "Socotra",
-   "lat": 13.8707,
-   "lon": 56.8849,
-   "depth": 10
-  },
-  {
-   "time": 1790155274739,
-   "mag": 5.3,
-   "place": "47 km NNE of Chilecito, Argentina",
-   "area": "Argentina",
-   "lat": -28.7705,
-   "lon": -67.302,
-   "depth": 121.407
-  },
-  {
-   "time": 1790154253053,
-   "mag": 4.3,
-   "place": "15 km SW of Roncesvalles, Colombia",
-   "area": "Colombia",
-   "lat": 3.9316,
-   "lon": -75.7193,
-   "depth": 10
-  },
-  {
-   "time": 1790153741769,
-   "mag": 4.4,
-   "place": "42 km NE of Sibolga, Indonesia",
-   "area": "Indonesia",
-   "lat": 1.9876,
-   "lon": 99.0699,
-   "depth": 126.659
-  },
-  {
-   "time": 1790152917997,
-   "mag": 5.0,
-   "place": "Scotia Sea",
-   "area": "Scotia Sea",
-   "lat": -60.3371,
-   "lon": -47.5531,
-   "depth": 10
   }
  ]
 };
