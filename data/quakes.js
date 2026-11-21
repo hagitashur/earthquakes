@@ -1,17 +1,17 @@
 window.QUAKES_DATA = {
  "meta": {
-  "fetched_at_utc": "2026-11-20T11:51:27+00:00",
-  "range_start_utc": "2026-10-21T11:51:27+00:00",
-  "range_end_utc": "2026-11-20T11:51:27+00:00",
+  "fetched_at_utc": "2026-11-21T11:19:24+00:00",
+  "range_start_utc": "2026-10-22T11:19:24+00:00",
+  "range_end_utc": "2026-11-21T11:19:24+00:00",
   "min_magnitude": 4.0,
   "source_is_local_test_file": false
  },
  "summary": {
-  "total_4_and_above": 1131,
+  "total_4_and_above": 1135,
   "buckets": {
-   "4.0-4.9": 933,
-   "5.0-5.9": 182,
-   "6.0-6.9": 15,
+   "4.0-4.9": 938,
+   "5.0-5.9": 179,
+   "6.0-6.9": 17,
    "7.0 ומעלה": 1
   },
   "strongest": {
@@ -26,13 +26,229 @@ window.QUAKES_DATA = {
  },
  "events": [
   {
-   "time": 1795173935090,
+   "time": 1795257933230,
+   "mag": 5.9,
+   "place": "238 km SW of Yanglong, China",
+   "area": "China",
+   "lat": 37.1958,
+   "lon": 96.6398,
+   "depth": 10
+  },
+  {
+   "time": 1795255831043,
    "mag": 4.4,
-   "place": "1 km NNW of Commerce, CA",
-   "area": "CA",
-   "lat": 34.01167,
-   "lon": -118.1665,
-   "depth": 17.09
+   "place": "36 km SSE of Jurm, Afghanistan",
+   "area": "Afghanistan",
+   "lat": 36.5599,
+   "lon": 70.9787,
+   "depth": 154.104
+  },
+  {
+   "time": 1795255745474,
+   "mag": 5.2,
+   "place": "112 km SSE of Tateyama, Japan",
+   "area": "Japan",
+   "lat": 34.0109,
+   "lon": 140.2109,
+   "depth": 10
+  },
+  {
+   "time": 1795254130314,
+   "mag": 6.8,
+   "place": "103 km NE of Lospalos, Timor Leste",
+   "area": "Timor Leste",
+   "lat": -7.7563,
+   "lon": 127.5428,
+   "depth": 143.423
+  },
+  {
+   "time": 1795245644218,
+   "mag": 4.9,
+   "place": "65 km NNW of Port-Vila, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -17.1789,
+   "lon": 168.0998,
+   "depth": 43.228
+  },
+  {
+   "time": 1795243880527,
+   "mag": 4.1,
+   "place": "17 km S of Iztapa, Guatemala",
+   "area": "Guatemala",
+   "lat": 13.7792,
+   "lon": -90.7058,
+   "depth": 58.499
+  },
+  {
+   "time": 1795237924898,
+   "mag": 5.0,
+   "place": "0 km NE of Carhuamayo, Peru",
+   "area": "Peru",
+   "lat": -10.913,
+   "lon": -76.0308,
+   "depth": 110.928
+  },
+  {
+   "time": 1795235354724,
+   "mag": 4.1,
+   "place": "28 km NNE of Chenega, Alaska",
+   "area": "Alaska",
+   "lat": 60.301,
+   "lon": -147.79,
+   "depth": 3.6
+  },
+  {
+   "time": 1795227877289,
+   "mag": 4.9,
+   "place": "Reykjanes Ridge",
+   "area": "Reykjanes Ridge",
+   "lat": 58.5457,
+   "lon": -31.857,
+   "depth": 10
+  },
+  {
+   "time": 1795224379109,
+   "mag": 4.9,
+   "place": "Reykjanes Ridge",
+   "area": "Reykjanes Ridge",
+   "lat": 58.3017,
+   "lon": -31.7606,
+   "depth": 10
+  },
+  {
+   "time": 1795224249274,
+   "mag": 4.7,
+   "place": "38 km NE of Calama, Chile",
+   "area": "Chile",
+   "lat": -22.2307,
+   "lon": -68.6409,
+   "depth": 120.01
+  },
+  {
+   "time": 1795221168295,
+   "mag": 4.4,
+   "place": "41 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "area": "Russia",
+   "lat": 52.828,
+   "lon": 159.104,
+   "depth": 88.946
+  },
+  {
+   "time": 1795219759667,
+   "mag": 6.7,
+   "place": "9 km NE of Carhuamayo, Peru",
+   "area": "Peru",
+   "lat": -10.8548,
+   "lon": -75.9779,
+   "depth": 107.991
+  },
+  {
+   "time": 1795217853534,
+   "mag": 4.4,
+   "place": "115 km W of Illapel, Chile",
+   "area": "Chile",
+   "lat": -31.7122,
+   "lon": -72.3842,
+   "depth": 10
+  },
+  {
+   "time": 1795214079096,
+   "mag": 4.9,
+   "place": "113 km ESE of Pangai, Tonga",
+   "area": "Tonga",
+   "lat": -20.3204,
+   "lon": -173.4099,
+   "depth": 10
+  },
+  {
+   "time": 1795213933976,
+   "mag": 4.2,
+   "place": "65 km W of Ollagüe, Chile",
+   "area": "Chile",
+   "lat": -21.1895,
+   "lon": -68.8815,
+   "depth": 114.345
+  },
+  {
+   "time": 1795213880701,
+   "mag": 4.4,
+   "place": "Reykjanes Ridge",
+   "area": "Reykjanes Ridge",
+   "lat": 57.3672,
+   "lon": -32.8037,
+   "depth": 10
+  },
+  {
+   "time": 1795213846671,
+   "mag": 4.4,
+   "place": "Reykjanes Ridge",
+   "area": "Reykjanes Ridge",
+   "lat": 57.6886,
+   "lon": -32.3793,
+   "depth": 10
+  },
+  {
+   "time": 1795206591959,
+   "mag": 4.4,
+   "place": "Reykjanes Ridge",
+   "area": "Reykjanes Ridge",
+   "lat": 58.4869,
+   "lon": -31.6011,
+   "depth": 10
+  },
+  {
+   "time": 1795201494178,
+   "mag": 4.2,
+   "place": "192 km SW of Bluff, New Zealand",
+   "area": "New Zealand",
+   "lat": -47.5959,
+   "lon": 166.2638,
+   "depth": 10
+  },
+  {
+   "time": 1795197195442,
+   "mag": 5.1,
+   "place": "32 km NE of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.835,
+   "lon": 167.29,
+   "depth": 94.53
+  },
+  {
+   "time": 1795192873832,
+   "mag": 4.4,
+   "place": "109 km NNE of Lospalos, Timor Leste",
+   "area": "Timor Leste",
+   "lat": -7.6315,
+   "lon": 127.4332,
+   "depth": 143.686
+  },
+  {
+   "time": 1795184175225,
+   "mag": 4.7,
+   "place": "94 km W of Illapel, Chile",
+   "area": "Chile",
+   "lat": -31.7842,
+   "lon": -72.1485,
+   "depth": 10
+  },
+  {
+   "time": 1795180144057,
+   "mag": 5.1,
+   "place": "15 km SSW of Balangonan, Philippines",
+   "area": "Philippines",
+   "lat": 5.4441,
+   "lon": 125.2986,
+   "depth": 73.392
+  },
+  {
+   "time": 1795172472830,
+   "mag": 4.1,
+   "place": "86 km ESE of Adak, Alaska",
+   "area": "Alaska",
+   "lat": 51.585,
+   "lon": -175.474,
+   "depth": 40.2
   },
   {
    "time": 1795171975274,
@@ -62,6 +278,15 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
+   "time": 1795169774294,
+   "mag": 4.6,
+   "place": "40 km SSE of Koróni, Greece",
+   "area": "Greece",
+   "lat": 36.4406,
+   "lon": 22.082,
+   "depth": 41.976
+  },
+  {
    "time": 1795164251644,
    "mag": 5.4,
    "place": "Carlsberg Ridge",
@@ -80,13 +305,13 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1795157356530,
+   "time": 1795157356340,
    "mag": 5.0,
    "place": "10 km NW of Pinnacles, CA",
    "area": "CA",
-   "lat": 36.5934982299805,
-   "lon": -121.220664978027,
-   "depth": 6.69999980926514
+   "lat": 36.6071666666667,
+   "lon": -121.208333333333,
+   "depth": 6.44
   },
   {
    "time": 1795151865106,
@@ -188,6 +413,15 @@ window.QUAKES_DATA = {
    "depth": 46.052
   },
   {
+   "time": 1795093473345,
+   "mag": 4.7,
+   "place": "South Sandwich Islands region",
+   "area": "South Sandwich Islands",
+   "lat": -55.596,
+   "lon": -28.3028,
+   "depth": 35
+  },
+  {
    "time": 1795085587767,
    "mag": 5.0,
    "place": "31 km WSW of Rabaul, Papua New Guinea",
@@ -222,6 +456,24 @@ window.QUAKES_DATA = {
    "lat": 18.7751,
    "lon": -64.8918,
    "depth": 47
+  },
+  {
+   "time": 1795077325665,
+   "mag": 4.2,
+   "place": "Scotia Sea",
+   "area": "Scotia Sea",
+   "lat": -60.4851,
+   "lon": -31.9532,
+   "depth": 10
+  },
+  {
+   "time": 1795068626169,
+   "mag": 4.3,
+   "place": "21 km SSE of Ikungi, Tanzania",
+   "area": "Tanzania",
+   "lat": -5.3254,
+   "lon": 34.8174,
+   "depth": 10
   },
   {
    "time": 1795067366623,
@@ -368,13 +620,13 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1795004875408,
+   "time": 1795004876075,
    "mag": 4.0,
-   "place": "136 km SW of Adak, Alaska",
+   "place": "137 km WSW of Adak, Alaska",
    "area": "Alaska",
-   "lat": 51.171,
-   "lon": -178.254,
-   "depth": 21.4
+   "lat": 51.2013,
+   "lon": -178.2976,
+   "depth": 35
   },
   {
    "time": 1795000257037,
@@ -771,6 +1023,24 @@ window.QUAKES_DATA = {
    "lat": -6.0208,
    "lon": 131.4593,
    "depth": 68
+  },
+  {
+   "time": 1794858715895,
+   "mag": 4.4,
+   "place": "52 km W of Valparaíso, Chile",
+   "area": "Chile",
+   "lat": -33.0095,
+   "lon": -72.1955,
+   "depth": 10
+  },
+  {
+   "time": 1794858294003,
+   "mag": 4.5,
+   "place": "103 km WSW of Changuillo, Peru",
+   "area": "Peru",
+   "lat": -15.0591,
+   "lon": -76.0946,
+   "depth": 10
   },
   {
    "time": 1794857580666,
@@ -1709,13 +1979,22 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1794461926540,
-   "mag": 4.1,
-   "place": "123 km SE of Adak, Alaska",
+   "time": 1794461926602,
+   "mag": 4.0,
+   "place": "121 km SE of Adak, Alaska",
    "area": "Alaska",
-   "lat": 51.042,
-   "lon": -175.452,
-   "depth": 16.4
+   "lat": 51.0953,
+   "lon": -175.4137,
+   "depth": 18.742
+  },
+  {
+   "time": 1794459995034,
+   "mag": 4.3,
+   "place": "275 km E of Levuka, Fiji",
+   "area": "Fiji",
+   "lat": -17.9916,
+   "lon": -178.0792,
+   "depth": 612.36
   },
   {
    "time": 1794456452379,
@@ -2168,6 +2447,15 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
+   "time": 1794289422955,
+   "mag": 4.4,
+   "place": "4 km SSE of Lata, Solomon Islands",
+   "area": "Solomon Islands",
+   "lat": -10.7674,
+   "lon": 165.8126,
+   "depth": 10
+  },
+  {
    "time": 1794288008677,
    "mag": 4.9,
    "place": "78 km ESE of Hitachi, Japan",
@@ -2312,30 +2600,48 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1794243162181,
+   "time": 1794243162473,
    "mag": 4.5,
-   "place": "152 km E of Masohi, Indonesia",
+   "place": "160 km E of Masohi, Indonesia",
    "area": "Indonesia",
-   "lat": -3.1442,
-   "lon": 130.3306,
+   "lat": -3.1826,
+   "lon": 130.4053,
    "depth": 10
   },
   {
-   "time": 1794240373375,
-   "mag": 4.1,
-   "place": "64 km NNW of Furubira, Japan",
-   "area": "Japan",
-   "lat": 43.7689,
-   "lon": 140.2124,
-   "depth": 224.872
+   "time": 1794241563076,
+   "mag": 4.2,
+   "place": "138 km E of Masohi, Indonesia",
+   "area": "Indonesia",
+   "lat": -3.1166,
+   "lon": 130.1979,
+   "depth": 10
   },
   {
-   "time": 1794236673790,
+   "time": 1794240373273,
+   "mag": 4.2,
+   "place": "68 km NNW of Furubira, Japan",
+   "area": "Japan",
+   "lat": 43.7978,
+   "lon": 140.1851,
+   "depth": 221.769
+  },
+  {
+   "time": 1794236673857,
    "mag": 4.9,
    "place": "Mid-Indian Ridge",
    "area": "Mid-Indian Ridge",
-   "lat": -28.1856,
-   "lon": 74.3713,
+   "lat": -28.1489,
+   "lon": 74.3722,
+   "depth": 10
+  },
+  {
+   "time": 1794236504684,
+   "mag": 4.4,
+   "place": "Mid-Indian Ridge",
+   "area": "Mid-Indian Ridge",
+   "lat": -28.1333,
+   "lon": 74.2467,
    "depth": 10
   },
   {
@@ -2420,12 +2726,21 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1794215477316,
+   "time": 1794216872919,
    "mag": 4.1,
+   "place": "192 km SSE of Amahai, Indonesia",
+   "area": "Indonesia",
+   "lat": -4.792,
+   "lon": 129.8692,
+   "depth": 163.314
+  },
+  {
+   "time": 1794215476115,
+   "mag": 4.2,
    "place": "western Xizang",
    "area": "western Xizang",
-   "lat": 33.912,
-   "lon": 86.0958,
+   "lat": 33.7546,
+   "lon": 86.1193,
    "depth": 10
   },
   {
@@ -2636,21 +2951,39 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1794156312938,
+   "time": 1794156313041,
    "mag": 4.6,
-   "place": "117 km NE of Tobelo, Indonesia",
+   "place": "124 km NE of Tobelo, Indonesia",
    "area": "Indonesia",
-   "lat": 2.5497,
-   "lon": 128.6755,
-   "depth": 224.59
+   "lat": 2.5843,
+   "lon": 128.7305,
+   "depth": 227.092
   },
   {
-   "time": 1794155604915,
-   "mag": 4.8,
+   "time": 1794155605064,
+   "mag": 4.9,
    "place": "central Mid-Atlantic Ridge",
    "area": "central Mid-Atlantic Ridge",
-   "lat": 7.703,
-   "lon": -36.9451,
+   "lat": 7.6558,
+   "lon": -36.996,
+   "depth": 10
+  },
+  {
+   "time": 1794144118376,
+   "mag": 4.3,
+   "place": "Izu Islands, Japan region",
+   "area": "Japan",
+   "lat": 30.6398,
+   "lon": 141.5835,
+   "depth": 35
+  },
+  {
+   "time": 1794142921104,
+   "mag": 4.6,
+   "place": "Southwest Indian Ridge",
+   "area": "Southwest Indian Ridge",
+   "lat": -27.8029,
+   "lon": 64.3044,
    "depth": 10
   },
   {
@@ -3662,22 +3995,22 @@ window.QUAKES_DATA = {
    "depth": 67.39
   },
   {
-   "time": 1793685758975,
-   "mag": 4.5,
-   "place": "261 km E of Port Mathurin, Mauritius",
+   "time": 1793685758750,
+   "mag": 4.6,
+   "place": "267 km E of Port Mathurin, Mauritius",
    "area": "Mauritius",
-   "lat": -20.0071,
-   "lon": 65.8888,
+   "lat": -20.1217,
+   "lon": 65.9241,
    "depth": 10
   },
   {
-   "time": 1793684418064,
+   "time": 1793684418280,
    "mag": 4.8,
-   "place": "6 km S of Asahi, Japan",
+   "place": "4 km S of Narutō, Japan",
    "area": "Japan",
-   "lat": 35.6591,
-   "lon": 140.648,
-   "depth": 52.267
+   "lat": 35.5565,
+   "lon": 140.4252,
+   "depth": 49.685
   },
   {
    "time": 1793684136192,
@@ -3689,13 +4022,13 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1793683424068,
+   "time": 1793683423498,
    "mag": 4.5,
-   "place": "31 km E of Mawlaik, Burma (Myanmar)",
+   "place": "28 km E of Mawlaik, Burma (Myanmar)",
    "area": "Burma (Myanmar)",
-   "lat": 23.6023,
-   "lon": 94.7089,
-   "depth": 116.353
+   "lat": 23.604,
+   "lon": 94.6839,
+   "depth": 110.59
   },
   {
    "time": 1793675592330,
@@ -3896,6 +4229,15 @@ window.QUAKES_DATA = {
    "depth": 103.94
   },
   {
+   "time": 1793620375630,
+   "mag": 4.4,
+   "place": "61 km ESE of Lata, Solomon Islands",
+   "area": "Solomon Islands",
+   "lat": -11.0254,
+   "lon": 166.272,
+   "depth": 102.995
+  },
+  {
    "time": 1793620142216,
    "mag": 4.1,
    "place": "101 km S of San Jose Village, Northern Mariana Islands",
@@ -3914,21 +4256,21 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1793618316538,
+   "time": 1793618315070,
    "mag": 4.4,
    "place": "Banda Sea",
    "area": "Banda Sea",
-   "lat": -6.9321,
-   "lon": 130.2101,
-   "depth": 134.744
+   "lat": -6.7443,
+   "lon": 130.2016,
+   "depth": 133.099
   },
   {
-   "time": 1793614286346,
-   "mag": 4.4,
-   "place": "5 km NE of Aíyira, Greece",
+   "time": 1793614286383,
+   "mag": 4.3,
+   "place": "7 km ENE of Aíyira, Greece",
    "area": "Greece",
-   "lat": 38.1881,
-   "lon": 22.3953,
+   "lat": 38.1819,
+   "lon": 22.4254,
    "depth": 10
   },
   {
@@ -4265,12 +4607,12 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1793534910561,
+   "time": 1793534910646,
    "mag": 4.8,
    "place": "203 km NW of Port-Olry, Vanuatu",
    "area": "Vanuatu",
-   "lat": -13.8667,
-   "lon": 165.6199,
+   "lat": -13.8261,
+   "lon": 165.6603,
    "depth": 10
   },
   {
@@ -4283,12 +4625,12 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1793534211778,
-   "mag": 4.8,
-   "place": "176 km NW of Port-Olry, Vanuatu",
+   "time": 1793534211285,
+   "mag": 4.7,
+   "place": "162 km NW of Port-Olry, Vanuatu",
    "area": "Vanuatu",
-   "lat": -14.0776,
-   "lon": 165.767,
+   "lat": -14.1588,
+   "lon": 165.8668,
    "depth": 10
   },
   {
@@ -4301,13 +4643,13 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1793533623778,
+   "time": 1793533624007,
    "mag": 6.0,
-   "place": "165 km NW of Port-Olry, Vanuatu",
+   "place": "164 km NW of Port-Olry, Vanuatu",
    "area": "Vanuatu",
-   "lat": -14.1689,
-   "lon": 165.8242,
-   "depth": 10
+   "lat": -14.1881,
+   "lon": 165.8237,
+   "depth": 12
   },
   {
    "time": 1793532621662,
@@ -4481,6 +4823,15 @@ window.QUAKES_DATA = {
    "depth": 205.298
   },
   {
+   "time": 1793509864002,
+   "mag": 4.2,
+   "place": "70 km NE of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -14.629,
+   "lon": 167.5756,
+   "depth": 116.579
+  },
+  {
    "time": 1793496292448,
    "mag": 4.5,
    "place": "55 km SSW of Ollagüe, Chile",
@@ -4505,6 +4856,24 @@ window.QUAKES_DATA = {
    "area": "Vanuatu",
    "lat": -13.8793,
    "lon": 165.6803,
+   "depth": 10
+  },
+  {
+   "time": 1793487491897,
+   "mag": 4.4,
+   "place": "northern Mid-Atlantic Ridge",
+   "area": "northern Mid-Atlantic Ridge",
+   "lat": 46.7152,
+   "lon": -28.952,
+   "depth": 10
+  },
+  {
+   "time": 1793487393832,
+   "mag": 4.4,
+   "place": "167 km ESE of Ust’-Kamchatsk Staryy, Russia",
+   "area": "Russia",
+   "lat": 55.863,
+   "lon": 165.0895,
    "depth": 10
   },
   {
@@ -4742,31 +5111,49 @@ window.QUAKES_DATA = {
    "depth": 82.595
   },
   {
-   "time": 1793416453580,
-   "mag": 4.6,
+   "time": 1793421519781,
+   "mag": 4.3,
+   "place": "47 km SE of Petropavlovsk-Kamchatsky, Russia",
+   "area": "Russia",
+   "lat": 52.7303,
+   "lon": 159.0777,
+   "depth": 71.577
+  },
+  {
+   "time": 1793416453622,
+   "mag": 4.7,
    "place": "Izu Islands, Japan region",
    "area": "Japan",
-   "lat": 30.9098,
-   "lon": 142.5186,
+   "lat": 30.9016,
+   "lon": 142.4889,
    "depth": 10
   },
   {
-   "time": 1793414239894,
+   "time": 1793415221763,
    "mag": 4.5,
+   "place": "213 km W of Sola, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.7731,
+   "lon": 165.5837,
+   "depth": 10
+  },
+  {
+   "time": 1793414239763,
+   "mag": 4.6,
    "place": "central Mid-Atlantic Ridge",
    "area": "central Mid-Atlantic Ridge",
-   "lat": 7.087,
-   "lon": -34.6828,
+   "lat": 7.0436,
+   "lon": -34.6156,
    "depth": 10
   },
   {
-   "time": 1793409696013,
-   "mag": 4.3,
-   "place": "84 km S of Severo-Kuril’sk, Russia",
+   "time": 1793409694803,
+   "mag": 4.2,
+   "place": "87 km SSW of Severo-Kuril’sk, Russia",
    "area": "Russia",
-   "lat": 49.9164,
-   "lon": 156.0245,
-   "depth": 84.736
+   "lat": 49.9329,
+   "lon": 155.7413,
+   "depth": 76.978
   },
   {
    "time": 1793408519006,
@@ -5480,31 +5867,76 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1793212343536,
+   "time": 1793212343288,
    "mag": 4.7,
-   "place": "6 km N of Asahi, Japan",
+   "place": "4 km NE of Asahi, Japan",
    "area": "Japan",
-   "lat": 35.7763,
-   "lon": 140.6463,
-   "depth": 41.486
+   "lat": 35.7418,
+   "lon": 140.6931,
+   "depth": 39.539
   },
   {
-   "time": 1793209698037,
-   "mag": 4.0,
-   "place": "249 km NE of Nagqu, China",
-   "area": "China",
-   "lat": 32.7514,
-   "lon": 94.2416,
+   "time": 1793211348771,
+   "mag": 4.5,
+   "place": "Reykjanes Ridge",
+   "area": "Reykjanes Ridge",
+   "lat": 57.9709,
+   "lon": -32.0442,
    "depth": 10
   },
   {
-   "time": 1793209123019,
+   "time": 1793209697863,
+   "mag": 4.0,
+   "place": "249 km NE of Nagqu, China",
+   "area": "China",
+   "lat": 32.7781,
+   "lon": 94.2161,
+   "depth": 10
+  },
+  {
+   "time": 1793209123127,
    "mag": 4.1,
-   "place": "52 km WSW of Carahue, Chile",
+   "place": "49 km WSW of Carahue, Chile",
    "area": "Chile",
-   "lat": -38.8719,
-   "lon": -73.7251,
-   "depth": 32.006
+   "lat": -38.8622,
+   "lon": -73.7028,
+   "depth": 31.162
+  },
+  {
+   "time": 1793208979244,
+   "mag": 4.0,
+   "place": "281 km W of Houma, Tonga",
+   "area": "Tonga",
+   "lat": -21.1029,
+   "lon": -178.0142,
+   "depth": 476.909
+  },
+  {
+   "time": 1793208311283,
+   "mag": 4.0,
+   "place": "239 km E of Levuka, Fiji",
+   "area": "Fiji",
+   "lat": -17.9484,
+   "lon": -178.4227,
+   "depth": 594.682
+  },
+  {
+   "time": 1793207626580,
+   "mag": 4.0,
+   "place": "55 km SW of Kokopo, Papua New Guinea",
+   "area": "Papua New Guinea",
+   "lat": -4.7366,
+   "lon": 151.9644,
+   "depth": 149.723
+  },
+  {
+   "time": 1793207178872,
+   "mag": 4.2,
+   "place": "Balleny Islands region",
+   "area": "Balleny Islands",
+   "lat": -61.4197,
+   "lon": 161.6929,
+   "depth": 10
   },
   {
    "time": 1793205591151,
@@ -6110,76 +6542,166 @@ window.QUAKES_DATA = {
    "depth": 10
   },
   {
-   "time": 1793117273845,
-   "mag": 4.9,
-   "place": "70 km WNW of Callaguip, Philippines",
+   "time": 1793119662619,
+   "mag": 4.1,
+   "place": "54 km SE of Ambon, Indonesia",
+   "area": "Indonesia",
+   "lat": -4.0258,
+   "lon": 128.5514,
+   "depth": 108.928
+  },
+  {
+   "time": 1793118515901,
+   "mag": 4.1,
+   "place": "235 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.7894,
+   "lon": 165.3038,
+   "depth": 10
+  },
+  {
+   "time": 1793118356826,
+   "mag": 4.6,
+   "place": "223 km WNW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.9391,
+   "lon": 165.3398,
+   "depth": 10
+  },
+  {
+   "time": 1793117637042,
+   "mag": 4.5,
+   "place": "230 km SSE of Tabiauan, Philippines",
    "area": "Philippines",
-   "lat": 18.2708,
-   "lon": 119.8508,
+   "lat": 4.0613,
+   "lon": 122.5891,
    "depth": 10
   },
   {
-   "time": 1793116622376,
+   "time": 1793117273766,
+   "mag": 4.7,
+   "place": "73 km WNW of Callaguip, Philippines",
+   "area": "Philippines",
+   "lat": 18.2581,
+   "lon": 119.8236,
+   "depth": 10
+  },
+  {
+   "time": 1793116622184,
    "mag": 4.4,
-   "place": "32 km SW of Ashkāsham, Afghanistan",
+   "place": "30 km SW of Ashkāsham, Afghanistan",
    "area": "Afghanistan",
-   "lat": 36.4496,
-   "lon": 71.318,
-   "depth": 123.853
+   "lat": 36.4581,
+   "lon": 71.3374,
+   "depth": 120.331
   },
   {
-   "time": 1793115932718,
+   "time": 1793115932921,
    "mag": 4.3,
-   "place": "99 km SW of Puerto Madero, Mexico",
+   "place": "95 km SW of Puerto Madero, Mexico",
    "area": "Mexico",
-   "lat": 14.0626,
-   "lon": -93.0494,
+   "lat": 14.0877,
+   "lon": -93.0287,
    "depth": 10
   },
   {
-   "time": 1793115101795,
+   "time": 1793115103437,
    "mag": 4.8,
    "place": "south of the Fiji Islands",
    "area": "south of the Fiji Islands",
-   "lat": -23.7421,
-   "lon": -179.8379,
-   "depth": 496.782
+   "lat": -23.8018,
+   "lon": -179.9111,
+   "depth": 517.023
   },
   {
-   "time": 1793114763024,
-   "mag": 5.0,
-   "place": "29 km W of Río Grande, Panama",
+   "time": 1793114878597,
+   "mag": 4.3,
+   "place": "49 km E of Tomioka, Japan",
+   "area": "Japan",
+   "lat": 37.3049,
+   "lon": 141.5735,
+   "depth": 62.517
+  },
+  {
+   "time": 1793114763117,
+   "mag": 5.1,
+   "place": "27 km W of Río Grande, Panama",
    "area": "Panama",
-   "lat": 7.684,
-   "lon": -81.6012,
+   "lat": 7.7091,
+   "lon": -81.5828,
    "depth": 10
   },
   {
-   "time": 1793112241219,
-   "mag": 5.4,
+   "time": 1793114678629,
+   "mag": 4.3,
+   "place": "137 km S of Wonosari, Indonesia",
+   "area": "Indonesia",
+   "lat": -9.2046,
+   "lon": 110.4562,
+   "depth": 10
+  },
+  {
+   "time": 1793114601717,
+   "mag": 4.3,
+   "place": "214 km NW of Port-Olry, Vanuatu",
+   "area": "Vanuatu",
+   "lat": -13.7798,
+   "lon": 165.56,
+   "depth": 10
+  },
+  {
+   "time": 1793113394178,
+   "mag": 4.5,
+   "place": "123 km WNW of Ternate, Indonesia",
+   "area": "Indonesia",
+   "lat": 1.3139,
+   "lon": 126.4032,
+   "depth": 10
+  },
+  {
+   "time": 1793112362830,
+   "mag": 4.7,
+   "place": "167 km S of Pundong, Indonesia",
+   "area": "Indonesia",
+   "lat": -9.4661,
+   "lon": 110.3901,
+   "depth": 26.873
+  },
+  {
+   "time": 1793112241064,
+   "mag": 5.3,
    "place": "126 km S of Pundong, Indonesia",
    "area": "Indonesia",
-   "lat": -9.0977,
-   "lon": 110.3861,
+   "lat": -9.0955,
+   "lon": 110.3354,
    "depth": 10
   },
   {
-   "time": 1793112189497,
+   "time": 1793112190664,
    "mag": 4.9,
-   "place": "156 km S of Pundong, Indonesia",
+   "place": "145 km S of Pundong, Indonesia",
    "area": "Indonesia",
-   "lat": -9.3662,
-   "lon": 110.2973,
-   "depth": 20.614
+   "lat": -9.2719,
+   "lon": 110.3591,
+   "depth": 26.341
   },
   {
-   "time": 1793110146874,
+   "time": 1793110147498,
    "mag": 4.6,
-   "place": "41 km S of Farkhār, Afghanistan",
+   "place": "48 km S of Farkhār, Afghanistan",
    "area": "Afghanistan",
-   "lat": 36.2043,
-   "lon": 69.9044,
-   "depth": 115.076
+   "lat": 36.1377,
+   "lon": 69.9187,
+   "depth": 123.027
+  },
+  {
+   "time": 1793109309498,
+   "mag": 4.0,
+   "place": "73 km SE of Ḩājjīābād, Iran",
+   "area": "Iran",
+   "lat": 27.8643,
+   "lon": 56.4616,
+   "depth": 10
   },
   {
    "time": 1793108942285,
@@ -9717,492 +10239,6 @@ window.QUAKES_DATA = {
    "lat": 9.0769,
    "lon": -82.2267,
    "depth": 10
-  },
-  {
-   "time": 1792666671425,
-   "mag": 4.9,
-   "place": "74 km NNW of Curup, Indonesia",
-   "area": "Indonesia",
-   "lat": -2.8832,
-   "lon": 102.1946,
-   "depth": 131.812
-  },
-  {
-   "time": 1792663661669,
-   "mag": 4.5,
-   "place": "12 km W of Ashkāsham, Afghanistan",
-   "area": "Afghanistan",
-   "lat": 36.6802,
-   "lon": 71.389,
-   "depth": 174.102
-  },
-  {
-   "time": 1792662867848,
-   "mag": 4.0,
-   "place": "84 km E of Madang, Papua New Guinea",
-   "area": "Papua New Guinea",
-   "lat": -5.3434,
-   "lon": 146.5413,
-   "depth": 137.47
-  },
-  {
-   "time": 1792660606853,
-   "mag": 4.4,
-   "place": "7 km SW of Punta Laurel, Panama",
-   "area": "Panama",
-   "lat": 9.0948,
-   "lon": -82.1816,
-   "depth": 10
-  },
-  {
-   "time": 1792658059153,
-   "mag": 4.5,
-   "place": "129 km ENE of Petropavlovsk-Kamchatsky, Russia",
-   "area": "Russia",
-   "lat": 53.6728,
-   "lon": 160.2782,
-   "depth": 70.183
-  },
-  {
-   "time": 1792656394938,
-   "mag": 4.6,
-   "place": "37 km NE of Yigo Village, Guam",
-   "area": "Guam",
-   "lat": 13.7814,
-   "lon": 145.1266,
-   "depth": 98.005
-  },
-  {
-   "time": 1792655369549,
-   "mag": 4.7,
-   "place": "Balleny Islands region",
-   "area": "Balleny Islands",
-   "lat": -62.3856,
-   "lon": 163.4576,
-   "depth": 10
-  },
-  {
-   "time": 1792654089864,
-   "mag": 4.2,
-   "place": "4 km WSW of Patzité, Guatemala",
-   "area": "Guatemala",
-   "lat": 14.9543,
-   "lon": -91.2451,
-   "depth": 181.735
-  },
-  {
-   "time": 1792649599456,
-   "mag": 4.5,
-   "place": "220 km WNW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.0562,
-   "lon": 165.2964,
-   "depth": 10
-  },
-  {
-   "time": 1792648788277,
-   "mag": 4.3,
-   "place": "Balleny Islands region",
-   "area": "Balleny Islands",
-   "lat": -62.2684,
-   "lon": 164.3862,
-   "depth": 10
-  },
-  {
-   "time": 1792646638068,
-   "mag": 4.8,
-   "place": "89 km S of Kokopo, Papua New Guinea",
-   "area": "Papua New Guinea",
-   "lat": -5.1545,
-   "lon": 152.3237,
-   "depth": 45.024
-  },
-  {
-   "time": 1792645406831,
-   "mag": 4.0,
-   "place": "7 km SE of Medias Aguas, Mexico",
-   "area": "Mexico",
-   "lat": 17.6237,
-   "lon": -94.9803,
-   "depth": 130.48
-  },
-  {
-   "time": 1792645124818,
-   "mag": 4.1,
-   "place": "67 km S of San Francisco del Mar Viejo, Mexico",
-   "area": "Mexico",
-   "lat": 15.6212,
-   "lon": -94.6651,
-   "depth": 40.416
-  },
-  {
-   "time": 1792644730798,
-   "mag": 4.2,
-   "place": "124 km SW of Acajutla, El Salvador",
-   "area": "El Salvador",
-   "lat": 12.7712,
-   "lon": -90.6077,
-   "depth": 45.242
-  },
-  {
-   "time": 1792644256979,
-   "mag": 4.8,
-   "place": "Reykjanes Ridge",
-   "area": "Reykjanes Ridge",
-   "lat": 56.848,
-   "lon": -34.0689,
-   "depth": 10
-  },
-  {
-   "time": 1792642583017,
-   "mag": 4.2,
-   "place": "Fiji region",
-   "area": "Fiji",
-   "lat": -21.2252,
-   "lon": -179.1282,
-   "depth": 604.198
-  },
-  {
-   "time": 1792640116592,
-   "mag": 4.5,
-   "place": "107 km SW of El Palmarcito, Mexico",
-   "area": "Mexico",
-   "lat": 14.8122,
-   "lon": -93.9292,
-   "depth": 44.171
-  },
-  {
-   "time": 1792639562027,
-   "mag": 4.4,
-   "place": "215 km W of Sola, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -13.6203,
-   "lon": 165.5738,
-   "depth": 10
-  },
-  {
-   "time": 1792639447719,
-   "mag": 4.0,
-   "place": "11 km S of Llano de Piedra, Panama",
-   "area": "Panama",
-   "lat": 7.564,
-   "lon": -80.5596,
-   "depth": 10
-  },
-  {
-   "time": 1792635805664,
-   "mag": 4.4,
-   "place": "Norwegian Sea",
-   "area": "Norwegian Sea",
-   "lat": 72.1066,
-   "lon": 0.0734,
-   "depth": 10
-  },
-  {
-   "time": 1792631283016,
-   "mag": 4.3,
-   "place": "28 km NW of Albardón, Argentina",
-   "area": "Argentina",
-   "lat": -31.2451,
-   "lon": -68.7249,
-   "depth": 104.359
-  },
-  {
-   "time": 1792631233654,
-   "mag": 4.2,
-   "place": "western Xizang",
-   "area": "western Xizang",
-   "lat": 33.8453,
-   "lon": 88.4359,
-   "depth": 10
-  },
-  {
-   "time": 1792629951101,
-   "mag": 4.0,
-   "place": "28 km NE of Bandar-e Lengeh, Iran",
-   "area": "Iran",
-   "lat": 26.7718,
-   "lon": 55.0423,
-   "depth": 10
-  },
-  {
-   "time": 1792628738804,
-   "mag": 5.0,
-   "place": "South Sandwich Islands region",
-   "area": "South Sandwich Islands",
-   "lat": -55.9779,
-   "lon": -27.1072,
-   "depth": 59.265
-  },
-  {
-   "time": 1792619927808,
-   "mag": 5.1,
-   "place": "Reykjanes Ridge",
-   "area": "Reykjanes Ridge",
-   "lat": 56.8261,
-   "lon": -34.1158,
-   "depth": 10
-  },
-  {
-   "time": 1792619343293,
-   "mag": 4.5,
-   "place": "Reykjanes Ridge",
-   "area": "Reykjanes Ridge",
-   "lat": 57.2319,
-   "lon": -33.3392,
-   "depth": 10
-  },
-  {
-   "time": 1792618734747,
-   "mag": 5.4,
-   "place": "Reykjanes Ridge",
-   "area": "Reykjanes Ridge",
-   "lat": 56.7745,
-   "lon": -34.1891,
-   "depth": 10
-  },
-  {
-   "time": 1792615277786,
-   "mag": 4.5,
-   "place": "175 km NW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -13.9622,
-   "lon": 165.8843,
-   "depth": 10
-  },
-  {
-   "time": 1792614890487,
-   "mag": 5.0,
-   "place": "72 km NNW of Khorixas, Namibia",
-   "area": "Namibia",
-   "lat": -19.7657,
-   "lon": 14.689,
-   "depth": 10
-  },
-  {
-   "time": 1792614353926,
-   "mag": 4.4,
-   "place": "Banda Sea",
-   "area": "Banda Sea",
-   "lat": -6.7391,
-   "lon": 129.6941,
-   "depth": 149.296
-  },
-  {
-   "time": 1792614201037,
-   "mag": 4.3,
-   "place": "Reykjanes Ridge",
-   "area": "Reykjanes Ridge",
-   "lat": 57.3209,
-   "lon": -32.8801,
-   "depth": 10
-  },
-  {
-   "time": 1792613304566,
-   "mag": 4.2,
-   "place": "147 km S of False Pass, Alaska",
-   "area": "Alaska",
-   "lat": 53.5341,
-   "lon": -163.6225,
-   "depth": 34.3
-  },
-  {
-   "time": 1792610004285,
-   "mag": 4.5,
-   "place": "Reykjanes Ridge",
-   "area": "Reykjanes Ridge",
-   "lat": 56.3028,
-   "lon": -33.5973,
-   "depth": 10
-  },
-  {
-   "time": 1792609565577,
-   "mag": 5.0,
-   "place": "Reykjanes Ridge",
-   "area": "Reykjanes Ridge",
-   "lat": 56.9733,
-   "lon": -34.2408,
-   "depth": 10
-  },
-  {
-   "time": 1792608272627,
-   "mag": 4.5,
-   "place": "198 km WNW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.2435,
-   "lon": 165.4273,
-   "depth": 10
-  },
-  {
-   "time": 1792608065009,
-   "mag": 5.0,
-   "place": "188 km WNW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.1201,
-   "lon": 165.6003,
-   "depth": 10
-  },
-  {
-   "time": 1792608031836,
-   "mag": 4.7,
-   "place": "202 km WNW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.1494,
-   "lon": 165.4312,
-   "depth": 10
-  },
-  {
-   "time": 1792606863236,
-   "mag": 4.4,
-   "place": "central East Pacific Rise",
-   "area": "central East Pacific Rise",
-   "lat": -3.5939,
-   "lon": -102.273,
-   "depth": 10
-  },
-  {
-   "time": 1792606706599,
-   "mag": 4.2,
-   "place": "Chagos Archipelago region",
-   "area": "Chagos Archipelago",
-   "lat": -5.3326,
-   "lon": 68.8648,
-   "depth": 10
-  },
-  {
-   "time": 1792606355392,
-   "mag": 5.1,
-   "place": "south of Africa",
-   "area": "south of Africa",
-   "lat": -52.7747,
-   "lon": 27.5179,
-   "depth": 10
-  },
-  {
-   "time": 1792606219775,
-   "mag": 4.5,
-   "place": "53 km SE of Vilyuchinsk, Russia",
-   "area": "Russia",
-   "lat": 52.6359,
-   "lon": 159.0392,
-   "depth": 71.829
-  },
-  {
-   "time": 1792605315666,
-   "mag": 4.0,
-   "place": "202 km SSW of Sarangani, Philippines",
-   "area": "Philippines",
-   "lat": 3.7378,
-   "lon": 124.7041,
-   "depth": 10
-  },
-  {
-   "time": 1792603173434,
-   "mag": 4.6,
-   "place": "216 km SE of Severo-Kuril’sk, Russia",
-   "area": "Russia",
-   "lat": 49.2327,
-   "lon": 158.1536,
-   "depth": 10
-  },
-  {
-   "time": 1792596153628,
-   "mag": 4.9,
-   "place": "206 km WNW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.0953,
-   "lon": 165.4182,
-   "depth": 10
-  },
-  {
-   "time": 1792595996393,
-   "mag": 4.2,
-   "place": "204 km WNW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.0403,
-   "lon": 165.4802,
-   "depth": 10
-  },
-  {
-   "time": 1792595810028,
-   "mag": 4.4,
-   "place": "197 km WNW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.0799,
-   "lon": 165.5311,
-   "depth": 10
-  },
-  {
-   "time": 1792595586600,
-   "mag": 4.1,
-   "place": "17 km SSW of Makurazaki, Japan",
-   "area": "Japan",
-   "lat": 31.1189,
-   "lon": 130.2616,
-   "depth": 164.131
-  },
-  {
-   "time": 1792594587467,
-   "mag": 5.0,
-   "place": "191 km NW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.0862,
-   "lon": 165.5941,
-   "depth": 10
-  },
-  {
-   "time": 1792593650757,
-   "mag": 4.7,
-   "place": "27 km NE of Shizunai-furukawachō, Japan",
-   "area": "Japan",
-   "lat": 42.5235,
-   "lon": 142.5734,
-   "depth": 96.35
-  },
-  {
-   "time": 1792593351025,
-   "mag": 4.9,
-   "place": "203 km WNW of Port-Olry, Vanuatu",
-   "area": "Vanuatu",
-   "lat": -14.0982,
-   "lon": 165.4558,
-   "depth": 10
-  },
-  {
-   "time": 1792592683321,
-   "mag": 4.0,
-   "place": "Fiji region",
-   "area": "Fiji",
-   "lat": -19.4881,
-   "lon": -177.5896,
-   "depth": 567.394
-  },
-  {
-   "time": 1792591810687,
-   "mag": 4.4,
-   "place": "164 km W of Pangai, Tonga",
-   "area": "Tonga",
-   "lat": -19.7247,
-   "lon": -175.9173,
-   "depth": 141.044
-  },
-  {
-   "time": 1792588435130,
-   "mag": 4.2,
-   "place": "57 km SSW of Ollagüe, Chile",
-   "area": "Chile",
-   "lat": -21.6789,
-   "lon": -68.5238,
-   "depth": 127.488
-  },
-  {
-   "time": 1792584236733,
-   "mag": 4.5,
-   "place": "163 km S of False Pass, Alaska",
-   "area": "Alaska",
-   "lat": 53.3885,
-   "lon": -163.5441,
-   "depth": 24.165
   }
  ]
 };
